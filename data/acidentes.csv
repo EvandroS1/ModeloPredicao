@@ -1,0 +1,3008 @@
+data_inversa;dia_semana;uf;br;causa_acidente;ano;mortos
+11/06/2007;Segunda;MG;381;Falta de aten��o;2007;0
+11/06/2007;Segunda;MG;381;Falta de aten��o;2007;0
+13/08/2007;Segunda;MG;40;Outras;2007;0
+12/02/2007;Segunda;MA;135;Animais na Pista;2007;2
+20/11/2007;Ter�a;CE;222;Defeito mec�nico em ve�culo;2007;0
+16/12/2007;Domingo;MA;230;Outras;2007;0
+05/03/2007;Segunda;PR;277;Outras;2007;0
+12/08/2007;Domingo;ES;101;Outras;2007;0
+04/02/2007;Domingo;MG;251;Outras;2007;0
+22/11/2007;Quinta;MG;40;Outras;2007;0
+17/07/2007;Ter�a;GO;70;Falta de aten��o;2007;0
+01/01/2007;Segunda;RJ;116;Animais na Pista;2007;0
+01/01/2007;Segunda;RJ;101;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;RS;158;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;MG;116;Animais na Pista;2007;0
+01/01/2007;Segunda;MG;116;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;MG;381;Falta de aten��o;2007;0
+01/01/2007;Segunda;SP;116;Outras;2007;0
+01/01/2007;Segunda;SP;116;Defeito mec�nico em ve�culo;2007;0
+01/01/2007;Segunda;MG;40;Animais na Pista;2007;0
+01/01/2007;Segunda;RJ;116;Outras;2007;0
+01/01/2007;Segunda;MG;381;Outras;2007;1
+01/01/2007;Segunda;RJ;40;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;RN;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;SC;280;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;PR;277;Falta de aten��o;2007;0
+01/01/2007;Segunda;MG;40;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;SC;470;Falta de aten��o;2007;0
+01/01/2007;Segunda;SC;470;Falta de aten��o;2007;0
+01/01/2007;Segunda;PR;277;Outras;2007;0
+01/01/2007;Segunda;PR;277;Falta de aten��o;2007;0
+01/01/2007;Segunda;GO;60;Outras;2007;0
+01/01/2007;Segunda;RJ;116;Outras;2007;0
+01/01/2007;Segunda;SP;116;Falta de aten��o;2007;0
+01/01/2007;Segunda;MG;381;Outras;2007;0
+01/01/2007;Segunda;SC;101;Desobedi�ncia � sinaliza��o;2007;0
+01/01/2007;Segunda;RJ;116;Velocidade incompat�vel;2007;1
+01/01/2007;Segunda;SP;101;Outras;2007;0
+01/01/2007;Segunda;RS;386;Falta de aten��o;2007;0
+01/01/2007;Segunda;SP;116;Outras;2007;0
+01/01/2007;Segunda;PR;376;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;SC;116;Defeito mec�nico em ve�culo;2007;0
+01/01/2007;Segunda;PR;277;Falta de aten��o;2007;0
+01/01/2007;Segunda;MG;40;Outras;2007;0
+01/01/2007;Segunda;PA;316;Falta de aten��o;2007;0
+01/01/2007;Segunda;PA;10;Ingest�o de �lcool;2007;0
+01/01/2007;Segunda;SC;101;Defeito na via;2007;0
+01/01/2007;Segunda;PE;232;Dormindo;2007;0
+01/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;RJ;116;Defeito mec�nico em ve�culo;2007;0
+01/01/2007;Segunda;SP;101;Outras;2007;0
+01/01/2007;Segunda;MG;262;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;RJ;116;Outras;2007;0
+01/01/2007;Segunda;SC;282;Defeito mec�nico em ve�culo;2007;0
+01/01/2007;Segunda;PR;277;Dormindo;2007;0
+01/01/2007;Segunda;MT;70;Desobedi�ncia � sinaliza��o;2007;0
+01/01/2007;Segunda;BA;116;Falta de aten��o;2007;0
+01/01/2007;Segunda;SC;282;Falta de aten��o;2007;0
+01/01/2007;Segunda;SP;116;Outras;2007;0
+01/01/2007;Segunda;RS;158;Outras;2007;0
+01/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;SP;116;Outras;2007;0
+01/01/2007;Segunda;MG;381;Outras;2007;0
+01/01/2007;Segunda;MG;381;Outras;2007;0
+01/01/2007;Segunda;RS;386;Falta de aten��o;2007;0
+01/01/2007;Segunda;MG;40;Outras;2007;0
+01/01/2007;Segunda;PA;10;Outras;2007;0
+01/01/2007;Segunda;PR;277;Outras;2007;0
+01/01/2007;Segunda;BA;116;Outras;2007;0
+01/01/2007;Segunda;RJ;116;Outras;2007;0
+01/01/2007;Segunda;RS;473;Falta de aten��o;2007;0
+01/01/2007;Segunda;SP;116;Outras;2007;0
+01/01/2007;Segunda;RJ;101;Outras;2007;1
+01/01/2007;Segunda;MA;10;Ingest�o de �lcool;2007;0
+01/01/2007;Segunda;SP;116;Outras;2007;0
+01/01/2007;Segunda;BA;242;Outras;2007;0
+01/01/2007;Segunda;PR;116;Outras;2007;0
+01/01/2007;Segunda;GO;40;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;SC;470;Falta de aten��o;2007;0
+01/01/2007;Segunda;MG;381;Falta de aten��o;2007;0
+01/01/2007;Segunda;SC;282;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;MG;381;Outras;2007;0
+01/01/2007;Segunda;SC;470;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;RS;290;Outras;2007;0
+01/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;MG;381;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;AL;316;Dormindo;2007;0
+01/01/2007;Segunda;TO;153;Falta de aten��o;2007;0
+01/01/2007;Segunda;MA;316;Ultrapassagem indevida;2007;0
+01/01/2007;Segunda;SC;470;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;MG;50;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;SC;470;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;PI;343;Ingest�o de �lcool;2007;0
+01/01/2007;Segunda;SP;116;Outras;2007;0
+01/01/2007;Segunda;RS;101;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;MG;381;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;ES;101;Outras;2007;0
+01/01/2007;Segunda;PR;376;Defeito mec�nico em ve�culo;2007;0
+01/01/2007;Segunda;AL;104;Outras;2007;0
+01/01/2007;Segunda;MS;267;Outras;2007;0
+01/01/2007;Segunda;GO;153;Outras;2007;0
+01/01/2007;Segunda;GO;153;Outras;2007;0
+01/01/2007;Segunda;SP;116;Outras;2007;0
+01/01/2007;Segunda;MG;116;Desobedi�ncia � sinaliza��o;2007;0
+01/01/2007;Segunda;MG;116;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;AL;316;Falta de aten��o;2007;0
+01/01/2007;Segunda;SC;470;Falta de aten��o;2007;0
+01/01/2007;Segunda;MG;50;Outras;2007;0
+01/01/2007;Segunda;RS;290;Falta de aten��o;2007;0
+01/01/2007;Segunda;SC;470;Falta de aten��o;2007;0
+01/01/2007;Segunda;SC;470;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;SC;116;Falta de aten��o;2007;0
+01/01/2007;Segunda;BA;101;Outras;2007;0
+01/01/2007;Segunda;MS;163;Outras;2007;0
+01/01/2007;Segunda;PE;101;Outras;2007;0
+01/01/2007;Segunda;MG;365;Outras;2007;0
+01/01/2007;Segunda;MG;116;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;AL;316;Outras;2007;0
+01/01/2007;Segunda;SC;470;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;MG;116;Falta de aten��o;2007;0
+01/01/2007;Segunda;RN;304;Outras;2007;0
+01/01/2007;Segunda;RS;116;Falta de aten��o;2007;0
+01/01/2007;Segunda;MA;10;Defeito na via;2007;0
+01/01/2007;Segunda;PR;277;Falta de aten��o;2007;0
+01/01/2007;Segunda;SC;470;Falta de aten��o;2007;0
+01/01/2007;Segunda;SE;101;Outras;2007;0
+01/01/2007;Segunda;RN;101;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;MG;40;Outras;2007;0
+01/01/2007;Segunda;SC;101;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;RO;364;Defeito na via;2007;0
+01/01/2007;Segunda;GO;40;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;MG;50;Outras;2007;0
+01/01/2007;Segunda;ES;101;Outras;2007;0
+01/01/2007;Segunda;SP;116;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;MG;365;Outras;2007;0
+01/01/2007;Segunda;MG;381;Falta de aten��o;2007;0
+01/01/2007;Segunda;SC;282;Falta de aten��o;2007;0
+01/01/2007;Segunda;RJ;116;Outras;2007;0
+01/01/2007;Segunda;RS;101;Outras;2007;0
+01/01/2007;Segunda;GO;50;Outras;2007;0
+01/01/2007;Segunda;SP;116;Falta de aten��o;2007;0
+01/01/2007;Segunda;RS;386;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;PR;277;Falta de aten��o;2007;0
+01/01/2007;Segunda;RN;101;Ingest�o de �lcool;2007;0
+01/01/2007;Segunda;MG;40;Desobedi�ncia � sinaliza��o;2007;0
+01/01/2007;Segunda;MG;381;Outras;2007;0
+01/01/2007;Segunda;RS;290;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;PR;277;Outras;2007;0
+01/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;BA;116;Falta de aten��o;2007;0
+01/01/2007;Segunda;PE;232;Dormindo;2007;0
+01/01/2007;Segunda;RJ;116;Falta de aten��o;2007;0
+01/01/2007;Segunda;AL;316;Falta de aten��o;2007;0
+01/01/2007;Segunda;RS;290;Falta de aten��o;2007;0
+01/01/2007;Segunda;MG;40;Falta de aten��o;2007;0
+01/01/2007;Segunda;SC;280;Falta de aten��o;2007;0
+01/01/2007;Segunda;SP;116;Outras;2007;0
+01/01/2007;Segunda;SC;470;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;RS;392;Outras;2007;0
+01/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;MG;40;Outras;2007;0
+01/01/2007;Segunda;MG;50;Falta de aten��o;2007;0
+01/01/2007;Segunda;SP;116;Outras;2007;0
+01/01/2007;Segunda;RS;101;Ultrapassagem indevida;2007;0
+01/01/2007;Segunda;RN;304;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;SC;280;Falta de aten��o;2007;0
+01/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;MG;381;Falta de aten��o;2007;0
+01/01/2007;Segunda;SC;116;Outras;2007;0
+01/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;MA;230;Animais na Pista;2007;0
+01/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;SC;282;Falta de aten��o;2007;0
+01/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;RS;290;Outras;2007;0
+01/01/2007;Segunda;GO;40;Outras;2007;0
+01/01/2007;Segunda;PB;230;Outras;2007;0
+01/01/2007;Segunda;SC;280;Falta de aten��o;2007;0
+01/01/2007;Segunda;RN;101;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;SC;280;Falta de aten��o;2007;0
+01/01/2007;Segunda;SP;116;Falta de aten��o;2007;0
+01/01/2007;Segunda;MG;381;Defeito mec�nico em ve�culo;2007;0
+01/01/2007;Segunda;RS;116;Falta de aten��o;2007;0
+01/01/2007;Segunda;CE;20;Dormindo;2007;0
+01/01/2007;Segunda;MG;50;Outras;2007;0
+01/01/2007;Segunda;RS;116;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;SC;282;Ingest�o de �lcool;2007;1
+01/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;RS;287;Falta de aten��o;2007;0
+01/01/2007;Segunda;SE;101;Outras;2007;0
+01/01/2007;Segunda;RS;392;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;PA;316;Desobedi�ncia � sinaliza��o;2007;0
+01/01/2007;Segunda;PA;316;Outras;2007;0
+01/01/2007;Segunda;RS;116;Falta de aten��o;2007;0
+01/01/2007;Segunda;SE;235;Falta de aten��o;2007;0
+01/01/2007;Segunda;GO;153;Defeito mec�nico em ve�culo;2007;0
+01/01/2007;Segunda;RO;364;Outras;2007;0
+01/01/2007;Segunda;SE;101;Defeito na via;2007;0
+01/01/2007;Segunda;SC;282;Desobedi�ncia � sinaliza��o;2007;0
+01/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;PA;316;Falta de aten��o;2007;0
+01/01/2007;Segunda;RS;392;Outras;2007;0
+01/01/2007;Segunda;BA;367;Falta de aten��o;2007;0
+02/01/2007;Ter�a;RS;290;Ultrapassagem indevida;2007;0
+01/01/2007;Segunda;GO;60;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;SC;282;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;GO;60;Falta de aten��o;2007;0
+02/01/2007;Ter�a;PE;101;Dormindo;2007;0
+01/01/2007;Segunda;MG;381;Falta de aten��o;2007;0
+01/01/2007;Segunda;SE;235;Ingest�o de �lcool;2007;0
+02/01/2007;Ter�a;SC;282;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;SC;470;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;PI;343;Falta de aten��o;2007;0
+01/01/2007;Segunda;CE;222;Falta de aten��o;2007;0
+01/01/2007;Segunda;RS;290;Defeito mec�nico em ve�culo;2007;0
+01/01/2007;Segunda;PA;316;Dormindo;2007;0
+01/01/2007;Segunda;RS;472;Outras;2007;0
+01/01/2007;Segunda;SC;470;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;SP;153;Animais na Pista;2007;0
+01/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;PB;101;Animais na Pista;2007;0
+01/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;RS;116;Ingest�o de �lcool;2007;0
+01/01/2007;Segunda;PA;316;Falta de aten��o;2007;0
+01/01/2007;Segunda;PI;402;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;SP;116;Dormindo;2007;0
+01/01/2007;Segunda;MG;262;Outras;2007;0
+01/01/2007;Segunda;PR;376;Outras;2007;0
+02/01/2007;Ter�a;SP;116;Outras;2007;0
+01/01/2007;Segunda;SC;470;Desobedi�ncia � sinaliza��o;2007;0
+01/01/2007;Segunda;SC;101;Desobedi�ncia � sinaliza��o;2007;0
+01/01/2007;Segunda;SP;116;Outras;2007;0
+01/01/2007;Segunda;SC;280;Ultrapassagem indevida;2007;0
+02/01/2007;Ter�a;SC;282;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SC;282;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;SP;153;Ingest�o de �lcool;2007;0
+01/01/2007;Segunda;PE;232;Outras;2007;0
+02/01/2007;Ter�a;SC;470;Desobedi�ncia � sinaliza��o;2007;0
+01/01/2007;Segunda;RS;290;Animais na Pista;2007;0
+01/01/2007;Segunda;GO;40;Outras;2007;0
+02/01/2007;Ter�a;SE;235;Outras;2007;0
+02/01/2007;Ter�a;PR;376;Falta de aten��o;2007;0
+02/01/2007;Ter�a;RS;293;Dormindo;2007;0
+02/01/2007;Ter�a;MG;40;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MT;364;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SC;282;Falta de aten��o;2007;0
+02/01/2007;Ter�a;PB;230;Outras;2007;0
+02/01/2007;Ter�a;RS;386;Falta de aten��o;2007;0
+02/01/2007;Ter�a;RS;116;Falta de aten��o;2007;0
+01/01/2007;Segunda;PB;101;Ultrapassagem indevida;2007;2
+02/01/2007;Ter�a;SC;116;Falta de aten��o;2007;0
+02/01/2007;Ter�a;RS;386;Falta de aten��o;2007;0
+02/01/2007;Ter�a;AL;101;Outras;2007;1
+02/01/2007;Ter�a;AL;316;Outras;2007;0
+02/01/2007;Ter�a;BA;101;Outras;2007;0
+02/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SC;282;Falta de aten��o;2007;0
+02/01/2007;Ter�a;GO;40;Dormindo;2007;0
+02/01/2007;Ter�a;RS;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;RS;386;Outras;2007;0
+02/01/2007;Ter�a;SC;101;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;RN;226;Defeito na via;2007;0
+02/01/2007;Ter�a;RN;101;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;PA;316;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;SP;381;Outras;2007;0
+02/01/2007;Ter�a;RN;101;Outras;2007;0
+02/01/2007;Ter�a;SC;470;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+02/01/2007;Ter�a;RS;290;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;PA;316;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SC;470;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;PR;116;Outras;2007;0
+02/01/2007;Ter�a;SC;101;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;MG;40;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SC;153;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;MG;365;Outras;2007;0
+02/01/2007;Ter�a;ES;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SC;282;Falta de aten��o;2007;0
+02/01/2007;Ter�a;RS;116;Outras;2007;0
+02/01/2007;Ter�a;PA;230;Desobedi�ncia � sinaliza��o;2007;0
+02/01/2007;Ter�a;BA;324;Outras;2007;0
+01/01/2007;Segunda;RS;392;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;MG;381;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SP;381;Defeito mec�nico em ve�culo;2007;0
+02/01/2007;Ter�a;SP;116;Falta de aten��o;2007;0
+02/01/2007;Ter�a;PE;104;Falta de aten��o;2007;0
+01/01/2007;Segunda;RJ;40;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;BA;116;Falta de aten��o;2007;0
+02/01/2007;Ter�a;RS;116;Defeito mec�nico em ve�culo;2007;0
+02/01/2007;Ter�a;AL;104;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;MG;40;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;40;Defeito mec�nico em ve�culo;2007;0
+02/01/2007;Ter�a;MG;365;Defeito na via;2007;0
+02/01/2007;Ter�a;MG;116;Falta de aten��o;2007;0
+01/01/2007;Segunda;AP;210;Ingest�o de �lcool;2007;0
+02/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SE;101;Outras;2007;0
+02/01/2007;Ter�a;RJ;116;Outras;2007;0
+01/01/2007;Segunda;MG;40;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SC;153;Desobedi�ncia � sinaliza��o;2007;0
+02/01/2007;Ter�a;GO;153;Falta de aten��o;2007;0
+02/01/2007;Ter�a;RJ;116;Outras;2007;0
+02/01/2007;Ter�a;RJ;116;Outras;2007;0
+02/01/2007;Ter�a;MG;116;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;354;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;116;Outras;2007;0
+02/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;BA;242;Falta de aten��o;2007;0
+02/01/2007;Ter�a;PE;101;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;PR;376;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;MG;40;Outras;2007;0
+02/01/2007;Ter�a;SP;116;Outras;2007;0
+02/01/2007;Ter�a;BA;101;Outras;2007;0
+02/01/2007;Ter�a;BA;101;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;MS;262;Desobedi�ncia � sinaliza��o;2007;0
+02/01/2007;Ter�a;MG;40;Outras;2007;0
+02/01/2007;Ter�a;RS;392;Outras;2007;0
+01/01/2007;Segunda;ES;262;Desobedi�ncia � sinaliza��o;2007;0
+02/01/2007;Ter�a;SC;101;Outras;2007;0
+02/01/2007;Ter�a;BA;101;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;RS;116;Dormindo;2007;0
+02/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SC;282;Falta de aten��o;2007;0
+02/01/2007;Ter�a;ES;262;Falta de aten��o;2007;0
+02/01/2007;Ter�a;ES;101;Ultrapassagem indevida;2007;0
+02/01/2007;Ter�a;SC;282;Falta de aten��o;2007;0
+02/01/2007;Ter�a;BA;242;Dormindo;2007;0
+02/01/2007;Ter�a;ES;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;PB;230;Outras;2007;0
+02/01/2007;Ter�a;PE;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;RO;364;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MS;158;Desobedi�ncia � sinaliza��o;2007;0
+02/01/2007;Ter�a;GO;414;Falta de aten��o;2007;0
+02/01/2007;Ter�a;ES;101;Ultrapassagem indevida;2007;0
+02/01/2007;Ter�a;BA;101;Outras;2007;0
+02/01/2007;Ter�a;MG;40;Outras;2007;0
+01/01/2007;Segunda;RJ;101;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;CE;20;Outras;2007;0
+02/01/2007;Ter�a;PB;230;Outras;2007;0
+02/01/2007;Ter�a;AL;316;Outras;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+02/01/2007;Ter�a;SE;101;Outras;2007;0
+02/01/2007;Ter�a;BA;101;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;BA;116;Outras;2007;0
+02/01/2007;Ter�a;SP;381;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;MS;267;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;RS;116;Falta de aten��o;2007;0
+02/01/2007;Ter�a;CE;20;Falta de aten��o;2007;0
+02/01/2007;Ter�a;PR;476;Outras;2007;0
+02/01/2007;Ter�a;SP;153;Falta de aten��o;2007;0
+02/01/2007;Ter�a;PE;232;Defeito na via;2007;0
+02/01/2007;Ter�a;GO;364;Outras;2007;0
+02/01/2007;Ter�a;MG;50;Outras;2007;0
+02/01/2007;Ter�a;RS;153;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SC;280;Falta de aten��o;2007;0
+01/01/2007;Segunda;RJ;116;Falta de aten��o;2007;0
+02/01/2007;Ter�a;PA;10;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;BA;242;Falta de aten��o;2007;0
+02/01/2007;Ter�a;PE;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;116;Defeito mec�nico em ve�culo;2007;0
+02/01/2007;Ter�a;RS;386;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SC;101;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;BA;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SC;282;Desobedi�ncia � sinaliza��o;2007;0
+02/01/2007;Ter�a;MG;262;Outras;2007;0
+02/01/2007;Ter�a;SC;470;Falta de aten��o;2007;0
+02/01/2007;Ter�a;GO;364;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SC;116;Falta de aten��o;2007;0
+02/01/2007;Ter�a;BA;101;Defeito na via;2007;0
+02/01/2007;Ter�a;PE;232;Outras;2007;0
+01/01/2007;Segunda;PA;316;Dormindo;2007;0
+01/01/2007;Segunda;MG;50;Dormindo;2007;0
+02/01/2007;Ter�a;SC;101;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;RJ;116;Outras;2007;0
+02/01/2007;Ter�a;MG;365;Defeito na via;2007;0
+02/01/2007;Ter�a;MS;163;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;RJ;116;Outras;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+02/01/2007;Ter�a;RS;386;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;262;Defeito na via;2007;0
+02/01/2007;Ter�a;PB;104;Animais na Pista;2007;0
+02/01/2007;Ter�a;PI;316;Defeito mec�nico em ve�culo;2007;0
+02/01/2007;Ter�a;MG;116;Outras;2007;0
+02/01/2007;Ter�a;SP;101;Outras;2007;0
+02/01/2007;Ter�a;BA;324;Defeito mec�nico em ve�culo;2007;0
+02/01/2007;Ter�a;MA;135;Outras;2007;0
+02/01/2007;Ter�a;SP;153;Defeito na via;2007;0
+02/01/2007;Ter�a;RS;116;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SC;282;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+02/01/2007;Ter�a;MS;163;Outras;2007;0
+02/01/2007;Ter�a;SC;282;Defeito mec�nico em ve�culo;2007;0
+02/01/2007;Ter�a;BA;116;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;MG;267;Outras;2007;0
+02/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;MG;381;Outras;2007;0
+02/01/2007;Ter�a;RJ;101;Outras;2007;0
+02/01/2007;Ter�a;BA;101;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;PR;277;Ultrapassagem indevida;2007;0
+02/01/2007;Ter�a;RJ;495;Falta de aten��o;2007;0
+01/01/2007;Segunda;SE;101;Ultrapassagem indevida;2007;0
+02/01/2007;Ter�a;RO;364;Defeito na via;2007;0
+02/01/2007;Ter�a;MG;40;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;354;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;RS;290;Animais na Pista;2007;0
+02/01/2007;Ter�a;BA;101;Desobedi�ncia � sinaliza��o;2007;0
+02/01/2007;Ter�a;PA;316;Ultrapassagem indevida;2007;1
+02/01/2007;Ter�a;MS;267;Outras;2007;0
+02/01/2007;Ter�a;RO;364;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;MG;40;Outras;2007;0
+02/01/2007;Ter�a;MG;262;Outras;2007;0
+02/01/2007;Ter�a;BA;324;Outras;2007;0
+02/01/2007;Ter�a;SC;282;Falta de aten��o;2007;0
+02/01/2007;Ter�a;RJ;101;Outras;2007;0
+02/01/2007;Ter�a;RS;293;Defeito mec�nico em ve�culo;2007;0
+02/01/2007;Ter�a;BA;101;Outras;2007;0
+02/01/2007;Ter�a;PR;277;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;40;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;PR;277;Outras;2007;0
+01/01/2007;Segunda;MG;381;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SP;116;Outras;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+02/01/2007;Ter�a;MG;40;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SC;101;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;ES;262;Outras;2007;0
+02/01/2007;Ter�a;PR;277;Falta de aten��o;2007;0
+02/01/2007;Ter�a;BA;116;Falta de aten��o;2007;0
+02/01/2007;Ter�a;PI;343;Outras;2007;0
+02/01/2007;Ter�a;MS;60;Falta de aten��o;2007;0
+02/01/2007;Ter�a;RJ;101;Outras;2007;0
+02/01/2007;Ter�a;BA;101;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;RJ;101;Outras;2007;0
+02/01/2007;Ter�a;BA;324;Outras;2007;0
+02/01/2007;Ter�a;RN;304;Animais na Pista;2007;0
+02/01/2007;Ter�a;RJ;116;Outras;2007;0
+02/01/2007;Ter�a;SC;282;Falta de aten��o;2007;0
+02/01/2007;Ter�a;GO;153;Dormindo;2007;0
+02/01/2007;Ter�a;RS;290;Outras;2007;0
+02/01/2007;Ter�a;PE;424;Animais na Pista;2007;0
+02/01/2007;Ter�a;RJ;101;Outras;2007;0
+02/01/2007;Ter�a;MG;381;Desobedi�ncia � sinaliza��o;2007;0
+02/01/2007;Ter�a;MG;50;Falta de aten��o;2007;0
+02/01/2007;Ter�a;ES;262;Outras;2007;0
+02/01/2007;Ter�a;PR;373;Outras;2007;0
+01/01/2007;Segunda;RS;471;Falta de aten��o;2007;0
+02/01/2007;Ter�a;RJ;116;Falta de aten��o;2007;0
+02/01/2007;Ter�a;BA;242;Desobedi�ncia � sinaliza��o;2007;4
+02/01/2007;Ter�a;MG;262;Outras;2007;0
+02/01/2007;Ter�a;RJ;40;Outras;2007;0
+02/01/2007;Ter�a;SP;381;Outras;2007;0
+02/01/2007;Ter�a;RJ;40;Outras;2007;0
+02/01/2007;Ter�a;BA;116;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;BA;116;Outras;2007;0
+02/01/2007;Ter�a;SC;282;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MS;267;Outras;2007;0
+02/01/2007;Ter�a;RJ;40;Outras;2007;0
+02/01/2007;Ter�a;ES;101;Outras;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+02/01/2007;Ter�a;MG;381;Falta de aten��o;2007;0
+02/01/2007;Ter�a;RJ;101;Outras;2007;0
+02/01/2007;Ter�a;RJ;116;Outras;2007;0
+02/01/2007;Ter�a;BA;324;Outras;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+02/01/2007;Ter�a;RJ;116;Outras;2007;0
+02/01/2007;Ter�a;RN;110;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;MG;40;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;ES;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;MG;262;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;PA;316;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MA;135;Outras;2007;0
+02/01/2007;Ter�a;RS;392;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SP;116;Outras;2007;0
+02/01/2007;Ter�a;RJ;40;Outras;2007;0
+02/01/2007;Ter�a;SC;282;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;PI;343;Falta de aten��o;2007;0
+02/01/2007;Ter�a;PI;316;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MS;163;Outras;2007;0
+02/01/2007;Ter�a;RJ;40;Outras;2007;0
+02/01/2007;Ter�a;RS;386;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;RS;472;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;RN;101;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;MG;262;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;ES;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+02/01/2007;Ter�a;SP;116;Outras;2007;0
+02/01/2007;Ter�a;RJ;101;Outras;2007;0
+02/01/2007;Ter�a;RJ;40;Outras;2007;0
+01/01/2007;Segunda;RJ;393;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;BA;324;Animais na Pista;2007;0
+02/01/2007;Ter�a;PR;277;Falta de aten��o;2007;0
+03/01/2007;Quarta;RS;290;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;40;Outras;2007;0
+02/01/2007;Ter�a;GO;40;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;PR;116;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+02/01/2007;Ter�a;SC;470;Falta de aten��o;2007;0
+02/01/2007;Ter�a;RO;319;Falta de aten��o;2007;0
+02/01/2007;Ter�a;ES;601;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;CE;222;Animais na Pista;2007;0
+02/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;GO;60;Outras;2007;0
+02/01/2007;Ter�a;SP;116;Outras;2007;0
+02/01/2007;Ter�a;GO;60;Outras;2007;0
+02/01/2007;Ter�a;PR;376;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;PR;277;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MS;463;Outras;2007;0
+01/01/2007;Segunda;PA;316;Desobedi�ncia � sinaliza��o;2007;0
+02/01/2007;Ter�a;SP;116;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;MG;40;Falta de aten��o;2007;0
+01/01/2007;Segunda;RJ;393;Outras;2007;0
+02/01/2007;Ter�a;PI;316;Outras;2007;0
+01/01/2007;Segunda;RJ;393;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;PI;343;Outras;2007;0
+02/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;MG;354;Outras;2007;0
+01/01/2007;Segunda;RJ;393;Outras;2007;0
+02/01/2007;Ter�a;RN;101;Outras;2007;0
+02/01/2007;Ter�a;BA;101;Outras;2007;0
+02/01/2007;Ter�a;RN;304;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;452;Defeito mec�nico em ve�culo;2007;0
+02/01/2007;Ter�a;GO;50;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;GO;153;Ultrapassagem indevida;2007;0
+01/01/2007;Segunda;AL;316;Outras;2007;0
+02/01/2007;Ter�a;RN;406;Outras;2007;0
+02/01/2007;Ter�a;MG;381;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;RJ;101;Desobedi�ncia � sinaliza��o;2007;0
+02/01/2007;Ter�a;RJ;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+02/01/2007;Ter�a;MG;267;Outras;2007;0
+02/01/2007;Ter�a;BA;101;Outras;2007;0
+02/01/2007;Ter�a;PR;116;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;MG;262;Outras;2007;0
+02/01/2007;Ter�a;TO;226;Falta de aten��o;2007;0
+02/01/2007;Ter�a;GO;20;Outras;2007;0
+03/01/2007;Quarta;MG;381;Outras;2007;0
+02/01/2007;Ter�a;RJ;116;Outras;2007;0
+03/01/2007;Quarta;SP;116;Outras;2007;0
+02/01/2007;Ter�a;MG;381;Falta de aten��o;2007;0
+03/01/2007;Quarta;RJ;40;Animais na Pista;2007;0
+02/01/2007;Ter�a;MA;135;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;40;Falta de aten��o;2007;0
+02/01/2007;Ter�a;RS;116;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+02/01/2007;Ter�a;MG;40;Outras;2007;0
+02/01/2007;Ter�a;BA;101;Defeito mec�nico em ve�culo;2007;0
+02/01/2007;Ter�a;RN;406;Falta de aten��o;2007;1
+02/01/2007;Ter�a;SC;282;N�o guardar dist�ncia de seguran�a;2007;0
+03/01/2007;Quarta;MG;153;Defeito na via;2007;0
+02/01/2007;Ter�a;PB;230;Outras;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+03/01/2007;Quarta;MS;163;Outras;2007;0
+02/01/2007;Ter�a;MG;40;Desobedi�ncia � sinaliza��o;2007;0
+02/01/2007;Ter�a;MG;267;Outras;2007;0
+02/01/2007;Ter�a;MG;262;Outras;2007;0
+02/01/2007;Ter�a;MA;135;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;40;Defeito na via;2007;0
+02/01/2007;Ter�a;PR;116;Outras;2007;0
+02/01/2007;Ter�a;MG;50;Falta de aten��o;2007;0
+02/01/2007;Ter�a;CE;222;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;381;Falta de aten��o;2007;0
+02/01/2007;Ter�a;PE;407;Falta de aten��o;2007;0
+03/01/2007;Quarta;RJ;116;Outras;2007;0
+01/01/2007;Segunda;MG;40;Outras;2007;0
+02/01/2007;Ter�a;RJ;40;Outras;2007;0
+02/01/2007;Ter�a;RJ;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;RJ;40;Outras;2007;0
+03/01/2007;Quarta;RS;116;Outras;2007;0
+02/01/2007;Ter�a;RJ;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;SC;282;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;BA;101;Outras;2007;0
+03/01/2007;Quarta;MG;381;Outras;2007;0
+02/01/2007;Ter�a;RJ;116;Outras;2007;0
+01/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;AL;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;MG;50;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;PA;10;Defeito na via;2007;0
+02/01/2007;Ter�a;ES;262;Falta de aten��o;2007;0
+02/01/2007;Ter�a;ES;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;RS;290;Outras;2007;0
+01/01/2007;Segunda;GO;60;Velocidade incompat�vel;2007;0
+03/01/2007;Quarta;RS;116;Falta de aten��o;2007;0
+03/01/2007;Quarta;SC;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;381;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+03/01/2007;Quarta;DF;20;Outras;2007;0
+03/01/2007;Quarta;BA;116;Outras;2007;0
+01/01/2007;Segunda;MT;70;Outras;2007;0
+01/01/2007;Segunda;SC;101;Defeito mec�nico em ve�culo;2007;0
+01/01/2007;Segunda;GO;60;Ingest�o de �lcool;2007;0
+03/01/2007;Quarta;SC;470;Falta de aten��o;2007;0
+03/01/2007;Quarta;RJ;116;Outras;2007;0
+03/01/2007;Quarta;PA;10;Defeito mec�nico em ve�culo;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+02/01/2007;Ter�a;RJ;393;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+03/01/2007;Quarta;SC;470;Falta de aten��o;2007;0
+03/01/2007;Quarta;SP;116;Outras;2007;0
+01/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;RN;304;Falta de aten��o;2007;0
+02/01/2007;Ter�a;AL;101;Outras;2007;0
+03/01/2007;Quarta;SC;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;PE;232;Defeito mec�nico em ve�culo;2007;0
+03/01/2007;Quarta;PI;316;Outras;2007;0
+03/01/2007;Quarta;MT;163;Defeito na via;2007;0
+02/01/2007;Ter�a;SC;280;Falta de aten��o;2007;0
+03/01/2007;Quarta;RS;386;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+02/01/2007;Ter�a;PE;104;Falta de aten��o;2007;0
+01/01/2007;Segunda;GO;60;Dormindo;2007;1
+02/01/2007;Ter�a;RJ;101;Outras;2007;0
+01/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MS;158;Outras;2007;3
+01/01/2007;Segunda;SP;116;Outras;2007;0
+03/01/2007;Quarta;TO;226;Outras;2007;0
+03/01/2007;Quarta;PB;230;Desobedi�ncia � sinaliza��o;2007;1
+02/01/2007;Ter�a;MS;262;Animais na Pista;2007;0
+03/01/2007;Quarta;PA;316;Falta de aten��o;2007;0
+03/01/2007;Quarta;SC;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;PB;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;SP;116;Falta de aten��o;2007;0
+03/01/2007;Quarta;PB;101;Outras;2007;0
+03/01/2007;Quarta;MG;262;Desobedi�ncia � sinaliza��o;2007;0
+02/01/2007;Ter�a;SP;116;Outras;2007;0
+03/01/2007;Quarta;SC;282;Velocidade incompat�vel;2007;0
+03/01/2007;Quarta;MG;381;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;SP;381;Outras;2007;0
+03/01/2007;Quarta;MG;116;Outras;2007;0
+03/01/2007;Quarta;RO;364;Defeito na via;2007;0
+03/01/2007;Quarta;RN;101;N�o guardar dist�ncia de seguran�a;2007;0
+03/01/2007;Quarta;RJ;116;Falta de aten��o;2007;0
+03/01/2007;Quarta;MT;364;Outras;2007;0
+03/01/2007;Quarta;PE;424;Animais na Pista;2007;0
+01/01/2007;Segunda;ES;101;N�o guardar dist�ncia de seguran�a;2007;0
+03/01/2007;Quarta;RS;386;Falta de aten��o;2007;0
+03/01/2007;Quarta;SC;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;40;Outras;2007;0
+03/01/2007;Quarta;MG;381;Outras;2007;0
+03/01/2007;Quarta;SC;470;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;RJ;101;Outras;2007;0
+02/01/2007;Ter�a;SP;116;Outras;2007;0
+03/01/2007;Quarta;RS;285;Falta de aten��o;2007;0
+03/01/2007;Quarta;ES;101;Outras;2007;0
+03/01/2007;Quarta;SC;116;N�o guardar dist�ncia de seguran�a;2007;0
+03/01/2007;Quarta;MG;381;Outras;2007;0
+03/01/2007;Quarta;MG;40;Dormindo;2007;0
+03/01/2007;Quarta;ES;262;Falta de aten��o;2007;0
+01/01/2007;Segunda;SP;116;Outras;2007;0
+03/01/2007;Quarta;SC;470;Desobedi�ncia � sinaliza��o;2007;0
+03/01/2007;Quarta;ES;262;Outras;2007;0
+01/01/2007;Segunda;RJ;101;Outras;2007;0
+03/01/2007;Quarta;ES;262;Outras;2007;0
+02/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;MG;116;Falta de aten��o;2007;0
+02/01/2007;Ter�a;ES;262;Outras;2007;0
+01/01/2007;Segunda;RO;364;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SP;116;Outras;2007;2
+01/01/2007;Segunda;GO;70;Defeito na via;2007;0
+03/01/2007;Quarta;BA;324;Falta de aten��o;2007;0
+03/01/2007;Quarta;MG;262;Falta de aten��o;2007;0
+03/01/2007;Quarta;ES;101;Outras;2007;0
+03/01/2007;Quarta;SE;101;N�o guardar dist�ncia de seguran�a;2007;0
+03/01/2007;Quarta;PR;277;Defeito mec�nico em ve�culo;2007;0
+01/01/2007;Segunda;SP;101;Outras;2007;1
+03/01/2007;Quarta;MG;381;Outras;2007;0
+02/01/2007;Ter�a;RS;290;Outras;2007;0
+03/01/2007;Quarta;MA;316;Defeito mec�nico em ve�culo;2007;1
+03/01/2007;Quarta;PA;230;Desobedi�ncia � sinaliza��o;2007;0
+03/01/2007;Quarta;MS;267;Defeito na via;2007;0
+03/01/2007;Quarta;RS;386;Velocidade incompat�vel;2007;0
+03/01/2007;Quarta;ES;601;N�o guardar dist�ncia de seguran�a;2007;0
+03/01/2007;Quarta;MG;381;Velocidade incompat�vel;2007;0
+03/01/2007;Quarta;BA;116;Falta de aten��o;2007;0
+03/01/2007;Quarta;PR;116;Outras;2007;0
+02/01/2007;Ter�a;PR;376;Defeito mec�nico em ve�culo;2007;0
+03/01/2007;Quarta;BA;101;N�o guardar dist�ncia de seguran�a;2007;0
+03/01/2007;Quarta;RJ;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;RS;386;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;SC;101;Falta de aten��o;2007;2
+03/01/2007;Quarta;RS;285;Defeito mec�nico em ve�culo;2007;0
+03/01/2007;Quarta;MG;40;Defeito na via;2007;0
+03/01/2007;Quarta;AL;316;Outras;2007;0
+03/01/2007;Quarta;BA;101;Outras;2007;0
+03/01/2007;Quarta;SC;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SP;116;Outras;2007;0
+03/01/2007;Quarta;RS;116;Falta de aten��o;2007;0
+03/01/2007;Quarta;SC;158;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SC;282;Falta de aten��o;2007;0
+03/01/2007;Quarta;PR;376;Outras;2007;0
+03/01/2007;Quarta;ES;601;Outras;2007;0
+03/01/2007;Quarta;PR;116;Outras;2007;0
+03/01/2007;Quarta;SC;101;N�o guardar dist�ncia de seguran�a;2007;0
+03/01/2007;Quarta;MS;262;Outras;2007;0
+01/01/2007;Segunda;RJ;493;Outras;2007;0
+02/01/2007;Ter�a;BA;101;Velocidade incompat�vel;2007;0
+03/01/2007;Quarta;SC;282;Outras;2007;0
+03/01/2007;Quarta;SC;470;Ultrapassagem indevida;2007;0
+03/01/2007;Quarta;RS;290;Outras;2007;0
+03/01/2007;Quarta;MT;364;N�o guardar dist�ncia de seguran�a;2007;0
+03/01/2007;Quarta;SC;282;N�o guardar dist�ncia de seguran�a;2007;0
+03/01/2007;Quarta;PB;230;Outras;2007;0
+03/01/2007;Quarta;RJ;116;Outras;2007;0
+03/01/2007;Quarta;SC;282;Defeito mec�nico em ve�culo;2007;0
+03/01/2007;Quarta;SC;101;Outras;2007;0
+03/01/2007;Quarta;PE;101;Outras;2007;0
+03/01/2007;Quarta;MG;40;Falta de aten��o;2007;0
+03/01/2007;Quarta;RS;290;Outras;2007;0
+03/01/2007;Quarta;PA;222;N�o guardar dist�ncia de seguran�a;2007;0
+03/01/2007;Quarta;SE;235;Outras;2007;0
+03/01/2007;Quarta;PB;101;N�o guardar dist�ncia de seguran�a;2007;0
+03/01/2007;Quarta;ES;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;SP;116;Defeito mec�nico em ve�culo;2007;0
+02/01/2007;Ter�a;MG;40;Outras;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+02/01/2007;Ter�a;MG;135;Outras;2007;0
+03/01/2007;Quarta;CE;20;Outras;2007;0
+03/01/2007;Quarta;CE;116;Outras;2007;0
+03/01/2007;Quarta;MG;40;Outras;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+02/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;PA;316;N�o guardar dist�ncia de seguran�a;2007;0
+03/01/2007;Quarta;SC;282;N�o guardar dist�ncia de seguran�a;2007;0
+03/01/2007;Quarta;SP;381;Outras;2007;0
+03/01/2007;Quarta;SC;101;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;SP;116;Outras;2007;0
+03/01/2007;Quarta;SP;116;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SP;116;Outras;2007;0
+03/01/2007;Quarta;MG;40;Velocidade incompat�vel;2007;0
+03/01/2007;Quarta;PR;116;Outras;2007;0
+03/01/2007;Quarta;MT;70;Defeito na via;2007;0
+02/01/2007;Ter�a;RS;290;Dormindo;2007;0
+03/01/2007;Quarta;RJ;116;Falta de aten��o;2007;0
+03/01/2007;Quarta;ES;101;Ultrapassagem indevida;2007;0
+01/01/2007;Segunda;BA;324;Falta de aten��o;2007;0
+03/01/2007;Quarta;SP;116;Velocidade incompat�vel;2007;0
+03/01/2007;Quarta;MG;381;Outras;2007;0
+03/01/2007;Quarta;MG;116;Outras;2007;0
+02/01/2007;Ter�a;ES;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;GO;153;Desobedi�ncia � sinaliza��o;2007;0
+02/01/2007;Ter�a;SP;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;PR;116;Falta de aten��o;2007;0
+03/01/2007;Quarta;MG;267;Velocidade incompat�vel;2007;0
+03/01/2007;Quarta;RS;287;Outras;2007;0
+03/01/2007;Quarta;RS;392;Outras;2007;0
+03/01/2007;Quarta;SP;116;Falta de aten��o;2007;0
+03/01/2007;Quarta;SC;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;MG;40;Outras;2007;0
+03/01/2007;Quarta;PR;277;Falta de aten��o;2007;0
+02/01/2007;Ter�a;GO;153;Ingest�o de �lcool;2007;0
+02/01/2007;Ter�a;MG;381;Defeito mec�nico em ve�culo;2007;0
+03/01/2007;Quarta;MT;174;Outras;2007;0
+02/01/2007;Ter�a;MG;381;Falta de aten��o;2007;0
+02/01/2007;Ter�a;RJ;116;Outras;2007;0
+03/01/2007;Quarta;RS;285;Velocidade incompat�vel;2007;0
+03/01/2007;Quarta;MG;40;Defeito na via;2007;0
+03/01/2007;Quarta;BA;101;Outras;2007;0
+03/01/2007;Quarta;GO;60;Outras;2007;0
+03/01/2007;Quarta;RS;285;Desobedi�ncia � sinaliza��o;2007;0
+03/01/2007;Quarta;MG;40;Outras;2007;0
+03/01/2007;Quarta;BA;605;Falta de aten��o;2007;0
+01/01/2007;Segunda;MG;50;Outras;2007;0
+03/01/2007;Quarta;SP;116;Outras;2007;0
+03/01/2007;Quarta;RO;364;Falta de aten��o;2007;0
+03/01/2007;Quarta;SC;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;AC;317;Falta de aten��o;2007;0
+03/01/2007;Quarta;MA;222;Falta de aten��o;2007;0
+03/01/2007;Quarta;MG;381;Outras;2007;0
+01/01/2007;Segunda;ES;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;PE;407;N�o guardar dist�ncia de seguran�a;2007;0
+03/01/2007;Quarta;BA;324;Defeito mec�nico em ve�culo;2007;0
+03/01/2007;Quarta;MG;40;Outras;2007;0
+03/01/2007;Quarta;SP;116;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;RJ;40;Outras;2007;0
+03/01/2007;Quarta;SC;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;SP;116;N�o guardar dist�ncia de seguran�a;2007;0
+03/01/2007;Quarta;RJ;116;Falta de aten��o;2007;0
+03/01/2007;Quarta;SP;381;Outras;2007;0
+03/01/2007;Quarta;RJ;116;Outras;2007;0
+03/01/2007;Quarta;RS;116;N�o guardar dist�ncia de seguran�a;2007;0
+03/01/2007;Quarta;MG;40;Outras;2007;0
+03/01/2007;Quarta;BA;101;Outras;2007;0
+03/01/2007;Quarta;SC;470;Velocidade incompat�vel;2007;0
+03/01/2007;Quarta;DF;40;Outras;2007;0
+03/01/2007;Quarta;MT;364;N�o guardar dist�ncia de seguran�a;2007;0
+03/01/2007;Quarta;GO;20;Outras;2007;0
+03/01/2007;Quarta;RS;290;Falta de aten��o;2007;0
+03/01/2007;Quarta;PR;116;Outras;2007;0
+03/01/2007;Quarta;SC;470;Velocidade incompat�vel;2007;0
+03/01/2007;Quarta;PR;277;Falta de aten��o;2007;0
+03/01/2007;Quarta;MG;40;Outras;2007;0
+03/01/2007;Quarta;SP;116;Outras;2007;0
+03/01/2007;Quarta;SC;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;MS;262;Animais na Pista;2007;0
+03/01/2007;Quarta;SC;470;Falta de aten��o;2007;0
+03/01/2007;Quarta;RJ;116;Outras;2007;0
+03/01/2007;Quarta;PE;428;Animais na Pista;2007;0
+03/01/2007;Quarta;SP;116;Outras;2007;0
+03/01/2007;Quarta;MG;381;Outras;2007;0
+01/01/2007;Segunda;PI;316;Outras;2007;0
+03/01/2007;Quarta;MG;153;Outras;2007;1
+03/01/2007;Quarta;RO;364;Falta de aten��o;2007;0
+03/01/2007;Quarta;SP;116;Outras;2007;0
+03/01/2007;Quarta;MA;135;Ingest�o de �lcool;2007;0
+03/01/2007;Quarta;GO;153;Defeito na via;2007;0
+03/01/2007;Quarta;ES;101;Defeito na via;2007;0
+03/01/2007;Quarta;SC;282;Falta de aten��o;2007;0
+03/01/2007;Quarta;MG;381;Falta de aten��o;2007;0
+03/01/2007;Quarta;PE;232;Ingest�o de �lcool;2007;0
+03/01/2007;Quarta;MG;381;Ultrapassagem indevida;2007;0
+03/01/2007;Quarta;SP;116;Outras;2007;0
+03/01/2007;Quarta;MG;364;Outras;2007;0
+03/01/2007;Quarta;PR;116;Ingest�o de �lcool;2007;0
+03/01/2007;Quarta;RS;116;Outras;2007;0
+03/01/2007;Quarta;MG;40;Defeito na via;2007;0
+03/01/2007;Quarta;TO;230;Animais na Pista;2007;0
+03/01/2007;Quarta;SC;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;ES;262;Velocidade incompat�vel;2007;0
+03/01/2007;Quarta;ES;101;Velocidade incompat�vel;2007;0
+03/01/2007;Quarta;SP;116;Outras;2007;0
+03/01/2007;Quarta;BA;367;Outras;2007;0
+03/01/2007;Quarta;MG;381;Defeito na via;2007;0
+03/01/2007;Quarta;MG;116;Outras;2007;0
+03/01/2007;Quarta;SP;381;Defeito na via;2007;0
+03/01/2007;Quarta;PE;408;Outras;2007;0
+03/01/2007;Quarta;SP;116;Outras;2007;0
+03/01/2007;Quarta;GO;20;Outras;2007;0
+03/01/2007;Quarta;ES;262;Falta de aten��o;2007;0
+03/01/2007;Quarta;PE;408;Animais na Pista;2007;0
+02/01/2007;Ter�a;RS;116;Falta de aten��o;2007;0
+01/01/2007;Segunda;MT;174;Animais na Pista;2007;0
+03/01/2007;Quarta;MG;381;Falta de aten��o;2007;0
+04/01/2007;Quinta;PR;116;Outras;2007;0
+03/01/2007;Quarta;MG;40;Outras;2007;0
+03/01/2007;Quarta;MG;381;Defeito na via;2007;0
+03/01/2007;Quarta;MG;381;Falta de aten��o;2007;0
+02/01/2007;Ter�a;GO;60;Outras;2007;0
+03/01/2007;Quarta;MG;116;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;SP;381;Outras;2007;0
+03/01/2007;Quarta;SE;235;Outras;2007;0
+03/01/2007;Quarta;MG;381;Outras;2007;0
+03/01/2007;Quarta;MG;381;Outras;2007;0
+03/01/2007;Quarta;MG;381;Defeito na via;2007;0
+03/01/2007;Quarta;PA;316;Outras;2007;0
+03/01/2007;Quarta;SP;381;Velocidade incompat�vel;2007;0
+03/01/2007;Quarta;MG;381;Outras;2007;0
+03/01/2007;Quarta;RO;364;Outras;2007;0
+03/01/2007;Quarta;RS;386;Falta de aten��o;2007;0
+03/01/2007;Quarta;GO;153;Defeito mec�nico em ve�culo;2007;0
+04/01/2007;Quinta;RS;386;Falta de aten��o;2007;0
+03/01/2007;Quarta;MG;153;Outras;2007;0
+04/01/2007;Quinta;RS;472;Falta de aten��o;2007;0
+03/01/2007;Quarta;RO;364;Falta de aten��o;2007;0
+03/01/2007;Quarta;MT;163;Falta de aten��o;2007;0
+04/01/2007;Quinta;RJ;116;Outras;2007;0
+04/01/2007;Quinta;SP;116;Falta de aten��o;2007;0
+04/01/2007;Quinta;SP;116;Dormindo;2007;0
+03/01/2007;Quarta;MG;262;Velocidade incompat�vel;2007;0
+03/01/2007;Quarta;SP;116;Falta de aten��o;2007;0
+01/01/2007;Segunda;SC;101;Ultrapassagem indevida;2007;0
+03/01/2007;Quarta;SP;381;Outras;2007;0
+04/01/2007;Quinta;PB;230;Falta de aten��o;2007;0
+03/01/2007;Quarta;SP;116;Outras;2007;0
+03/01/2007;Quarta;RJ;393;Defeito na via;2007;0
+01/01/2007;Segunda;MG;40;Outras;2007;0
+04/01/2007;Quinta;SC;101;Desobedi�ncia � sinaliza��o;2007;0
+03/01/2007;Quarta;MG;262;Outras;2007;0
+04/01/2007;Quinta;RS;471;Falta de aten��o;2007;0
+02/01/2007;Ter�a;PR;277;Falta de aten��o;2007;0
+01/01/2007;Segunda;ES;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SC;470;Falta de aten��o;2007;0
+02/01/2007;Ter�a;GO;153;Outras;2007;0
+04/01/2007;Quinta;BA;101;Velocidade incompat�vel;2007;0
+03/01/2007;Quarta;SP;116;Outras;2007;0
+03/01/2007;Quarta;MG;262;Outras;2007;0
+01/01/2007;Segunda;SP;116;Falta de aten��o;2007;0
+01/01/2007;Segunda;SE;235;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SP;116;Outras;2007;0
+04/01/2007;Quinta;BA;242;Animais na Pista;2007;0
+03/01/2007;Quarta;PE;232;Falta de aten��o;2007;0
+01/01/2007;Segunda;SP;116;Falta de aten��o;2007;0
+01/01/2007;Segunda;RR;174;Falta de aten��o;2007;0
+03/01/2007;Quarta;SP;116;Outras;2007;0
+03/01/2007;Quarta;RJ;116;Defeito mec�nico em ve�culo;2007;0
+04/01/2007;Quinta;GO;50;Outras;2007;0
+01/01/2007;Segunda;PI;343;Falta de aten��o;2007;0
+03/01/2007;Quarta;MG;40;Outras;2007;0
+04/01/2007;Quinta;MG;381;Outras;2007;0
+02/01/2007;Ter�a;PR;277;Falta de aten��o;2007;0
+04/01/2007;Quinta;GO;364;Animais na Pista;2007;0
+04/01/2007;Quinta;ES;101;Outras;2007;0
+03/01/2007;Quarta;RJ;116;Outras;2007;0
+04/01/2007;Quinta;GO;40;Dormindo;2007;0
+03/01/2007;Quarta;CE;116;Outras;2007;0
+04/01/2007;Quinta;SC;470;Desobedi�ncia � sinaliza��o;2007;0
+03/01/2007;Quarta;GO;153;Outras;2007;0
+01/01/2007;Segunda;RN;101;N�o guardar dist�ncia de seguran�a;2007;0
+04/01/2007;Quinta;MG;381;Velocidade incompat�vel;2007;0
+04/01/2007;Quinta;MG;116;Falta de aten��o;2007;0
+04/01/2007;Quinta;PB;230;Falta de aten��o;2007;0
+03/01/2007;Quarta;MG;381;Outras;2007;0
+04/01/2007;Quinta;RS;290;Falta de aten��o;2007;0
+01/01/2007;Segunda;PE;101;Outras;2007;0
+03/01/2007;Quarta;MT;364;Defeito mec�nico em ve�culo;2007;0
+01/01/2007;Segunda;SC;280;Ultrapassagem indevida;2007;0
+03/01/2007;Quarta;SP;116;Defeito mec�nico em ve�culo;2007;0
+02/01/2007;Ter�a;MS;163;Animais na Pista;2007;0
+04/01/2007;Quinta;SC;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SP;116;Falta de aten��o;2007;0
+04/01/2007;Quinta;RS;386;Falta de aten��o;2007;0
+04/01/2007;Quinta;BA;101;Outras;2007;0
+04/01/2007;Quinta;RO;364;Ingest�o de �lcool;2007;0
+04/01/2007;Quinta;RR;174;Outras;2007;0
+02/01/2007;Ter�a;SP;116;Outras;2007;0
+04/01/2007;Quinta;MG;381;Outras;2007;0
+04/01/2007;Quinta;ES;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;PR;277;Falta de aten��o;2007;0
+04/01/2007;Quinta;BA;101;Falta de aten��o;2007;1
+01/01/2007;Segunda;SC;101;Ultrapassagem indevida;2007;0
+02/01/2007;Ter�a;SP;116;Outras;2007;0
+03/01/2007;Quarta;MG;381;Outras;2007;0
+04/01/2007;Quinta;RN;101;Desobedi�ncia � sinaliza��o;2007;0
+04/01/2007;Quinta;PR;277;Falta de aten��o;2007;0
+04/01/2007;Quinta;SP;116;Velocidade incompat�vel;2007;0
+03/01/2007;Quarta;SP;116;Outras;2007;0
+04/01/2007;Quinta;MT;163;Falta de aten��o;2007;0
+04/01/2007;Quinta;RS;116;Desobedi�ncia � sinaliza��o;2007;0
+01/01/2007;Segunda;SC;101;N�o guardar dist�ncia de seguran�a;2007;0
+04/01/2007;Quinta;SC;101;Falta de aten��o;2007;0
+04/01/2007;Quinta;PE;408;Outras;2007;0
+04/01/2007;Quinta;SC;101;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;SP;116;Outras;2007;0
+02/01/2007;Ter�a;SP;101;Falta de aten��o;2007;0
+04/01/2007;Quinta;ES;101;Falta de aten��o;2007;0
+04/01/2007;Quinta;ES;101;Desobedi�ncia � sinaliza��o;2007;0
+03/01/2007;Quarta;PR;116;Outras;2007;0
+02/01/2007;Ter�a;PR;116;Outras;2007;0
+02/01/2007;Ter�a;SP;116;Outras;2007;0
+02/01/2007;Ter�a;SP;101;Outras;2007;0
+04/01/2007;Quinta;BA;101;Outras;2007;1
+01/01/2007;Segunda;RN;304;Outras;2007;1
+04/01/2007;Quinta;SC;282;Falta de aten��o;2007;0
+04/01/2007;Quinta;RS;116;Falta de aten��o;2007;0
+04/01/2007;Quinta;PE;232;Falta de aten��o;2007;0
+04/01/2007;Quinta;ES;262;Outras;2007;0
+04/01/2007;Quinta;SP;116;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;MS;163;Defeito mec�nico em ve�culo;2007;0
+04/01/2007;Quinta;PA;316;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SP;116;Outras;2007;0
+01/01/2007;Segunda;RS;116;Velocidade incompat�vel;2007;0
+04/01/2007;Quinta;RS;386;Outras;2007;0
+04/01/2007;Quinta;SE;101;Falta de aten��o;2007;0
+04/01/2007;Quinta;SC;101;Falta de aten��o;2007;0
+04/01/2007;Quinta;AL;101;Falta de aten��o;2007;0
+04/01/2007;Quinta;ES;262;Outras;2007;0
+04/01/2007;Quinta;RS;158;Desobedi�ncia � sinaliza��o;2007;0
+02/01/2007;Ter�a;SP;116;Outras;2007;0
+04/01/2007;Quinta;SE;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;SP;116;Outras;2007;0
+04/01/2007;Quinta;PI;316;Defeito mec�nico em ve�culo;2007;0
+02/01/2007;Ter�a;MG;40;Dormindo;2007;0
+04/01/2007;Quinta;PB;230;Velocidade incompat�vel;2007;0
+04/01/2007;Quinta;RS;386;Falta de aten��o;2007;0
+04/01/2007;Quinta;BA;116;Outras;2007;0
+04/01/2007;Quinta;AL;101;Outras;2007;0
+04/01/2007;Quinta;ES;101;Falta de aten��o;2007;0
+04/01/2007;Quinta;SP;116;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;40;Falta de aten��o;2007;0
+04/01/2007;Quinta;SC;101;Falta de aten��o;2007;0
+04/01/2007;Quinta;SC;470;Falta de aten��o;2007;0
+04/01/2007;Quinta;RN;226;Falta de aten��o;2007;0
+04/01/2007;Quinta;RS;290;N�o guardar dist�ncia de seguran�a;2007;0
+04/01/2007;Quinta;RJ;101;Falta de aten��o;2007;1
+03/01/2007;Quarta;MG;116;Outras;2007;0
+04/01/2007;Quinta;DF;251;Outras;2007;0
+04/01/2007;Quinta;SP;116;Falta de aten��o;2007;0
+04/01/2007;Quinta;MG;40;Defeito na via;2007;0
+04/01/2007;Quinta;RS;386;Falta de aten��o;2007;0
+04/01/2007;Quinta;MT;364;Falta de aten��o;2007;0
+03/01/2007;Quarta;MG;459;Outras;2007;0
+04/01/2007;Quinta;BA;367;Velocidade incompat�vel;2007;0
+04/01/2007;Quinta;SP;101;Velocidade incompat�vel;2007;0
+04/01/2007;Quinta;PR;116;Outras;2007;0
+04/01/2007;Quinta;RS;158;N�o guardar dist�ncia de seguran�a;2007;0
+04/01/2007;Quinta;MG;381;Defeito mec�nico em ve�culo;2007;0
+04/01/2007;Quinta;PE;232;Falta de aten��o;2007;0
+04/01/2007;Quinta;SC;116;Defeito mec�nico em ve�culo;2007;0
+04/01/2007;Quinta;SE;101;Outras;2007;0
+04/01/2007;Quinta;ES;101;Outras;2007;0
+04/01/2007;Quinta;PR;277;Outras;2007;0
+04/01/2007;Quinta;SE;101;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;PI;343;Dormindo;2007;0
+03/01/2007;Quarta;MG;459;Velocidade incompat�vel;2007;0
+04/01/2007;Quinta;ES;101;Outras;2007;0
+04/01/2007;Quinta;SE;235;Defeito na via;2007;0
+04/01/2007;Quinta;BA;116;Outras;2007;0
+03/01/2007;Quarta;MG;381;Outras;2007;0
+04/01/2007;Quinta;SC;101;Desobedi�ncia � sinaliza��o;2007;0
+04/01/2007;Quinta;MG;262;Defeito na via;2007;0
+04/01/2007;Quinta;SC;282;Velocidade incompat�vel;2007;0
+04/01/2007;Quinta;RN;101;Outras;2007;0
+04/01/2007;Quinta;RS;101;Desobedi�ncia � sinaliza��o;2007;0
+04/01/2007;Quinta;MA;10;Falta de aten��o;2007;0
+01/01/2007;Segunda;SP;116;Outras;2007;0
+04/01/2007;Quinta;RS;158;Outras;2007;0
+04/01/2007;Quinta;RS;386;Outras;2007;0
+02/01/2007;Ter�a;PR;476;N�o guardar dist�ncia de seguran�a;2007;0
+04/01/2007;Quinta;ES;262;Outras;2007;0
+04/01/2007;Quinta;RS;468;Defeito mec�nico em ve�culo;2007;0
+03/01/2007;Quarta;MG;381;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;SP;116;Outras;2007;0
+04/01/2007;Quinta;MG;381;Outras;2007;0
+04/01/2007;Quinta;MG;381;Outras;2007;0
+04/01/2007;Quinta;RS;386;Falta de aten��o;2007;0
+01/01/2007;Segunda;PI;343;Falta de aten��o;2007;0
+04/01/2007;Quinta;RS;101;Defeito mec�nico em ve�culo;2007;0
+04/01/2007;Quinta;MG;381;Falta de aten��o;2007;0
+01/01/2007;Segunda;SP;116;Outras;2007;0
+01/01/2007;Segunda;RJ;101;Outras;2007;0
+04/01/2007;Quinta;RJ;116;Outras;2007;0
+04/01/2007;Quinta;RS;158;Outras;2007;0
+01/01/2007;Segunda;RN;304;Falta de aten��o;2007;0
+04/01/2007;Quinta;ES;262;Desobedi�ncia � sinaliza��o;2007;0
+01/01/2007;Segunda;PA;316;N�o guardar dist�ncia de seguran�a;2007;0
+04/01/2007;Quinta;RN;304;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SE;101;N�o guardar dist�ncia de seguran�a;2007;0
+04/01/2007;Quinta;PB;230;Falta de aten��o;2007;0
+04/01/2007;Quinta;SP;116;Outras;2007;0
+04/01/2007;Quinta;SP;116;Velocidade incompat�vel;2007;0
+04/01/2007;Quinta;RS;158;Falta de aten��o;2007;0
+01/01/2007;Segunda;ES;262;Outras;2007;0
+04/01/2007;Quinta;RO;364;Falta de aten��o;2007;0
+04/01/2007;Quinta;SE;235;Outras;2007;0
+04/01/2007;Quinta;ES;101;Ultrapassagem indevida;2007;0
+03/01/2007;Quarta;MG;365;Outras;2007;0
+04/01/2007;Quinta;SP;459;Falta de aten��o;2007;0
+01/01/2007;Segunda;SP;116;Dormindo;2007;0
+04/01/2007;Quinta;TO;153;Outras;2007;0
+04/01/2007;Quinta;PR;277;N�o guardar dist�ncia de seguran�a;2007;0
+03/01/2007;Quarta;PB;230;Falta de aten��o;2007;0
+03/01/2007;Quarta;SP;116;Outras;2007;0
+04/01/2007;Quinta;MS;463;Falta de aten��o;2007;0
+04/01/2007;Quinta;SC;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;MG;381;Outras;2007;0
+04/01/2007;Quinta;SC;101;Falta de aten��o;2007;0
+04/01/2007;Quinta;SP;381;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;PE;104;N�o guardar dist�ncia de seguran�a;2007;0
+04/01/2007;Quinta;MG;262;Falta de aten��o;2007;0
+02/01/2007;Ter�a;RN;304;Falta de aten��o;2007;0
+04/01/2007;Quinta;RS;116;Desobedi�ncia � sinaliza��o;2007;0
+04/01/2007;Quinta;RO;319;Falta de aten��o;2007;0
+01/01/2007;Segunda;SP;116;Outras;2007;0
+04/01/2007;Quinta;CE;222;N�o guardar dist�ncia de seguran�a;2007;0
+04/01/2007;Quinta;SC;282;Defeito na via;2007;0
+04/01/2007;Quinta;ES;101;Outras;2007;0
+04/01/2007;Quinta;BA;418;N�o guardar dist�ncia de seguran�a;2007;0
+03/01/2007;Quarta;MG;365;Falta de aten��o;2007;0
+04/01/2007;Quinta;RS;386;Falta de aten��o;2007;0
+04/01/2007;Quinta;MS;163;Outras;2007;0
+04/01/2007;Quinta;RS;116;N�o guardar dist�ncia de seguran�a;2007;0
+04/01/2007;Quinta;PE;101;Falta de aten��o;2007;0
+04/01/2007;Quinta;AL;101;Ultrapassagem indevida;2007;0
+02/01/2007;Ter�a;SP;116;Outras;2007;0
+04/01/2007;Quinta;SP;116;Outras;2007;0
+04/01/2007;Quinta;RS;116;Falta de aten��o;2007;0
+04/01/2007;Quinta;PR;373;Falta de aten��o;2007;1
+04/01/2007;Quinta;SE;101;Velocidade incompat�vel;2007;0
+04/01/2007;Quinta;SC;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;PA;316;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;SP;116;Outras;2007;0
+02/01/2007;Ter�a;SP;381;Outras;2007;0
+04/01/2007;Quinta;PB;230;Falta de aten��o;2007;0
+04/01/2007;Quinta;SC;282;Falta de aten��o;2007;0
+04/01/2007;Quinta;MG;381;Velocidade incompat�vel;2007;0
+04/01/2007;Quinta;GO;153;Outras;2007;0
+04/01/2007;Quinta;MG;262;Defeito na via;2007;0
+04/01/2007;Quinta;BA;110;Outras;2007;0
+04/01/2007;Quinta;RS;101;Defeito na via;2007;0
+02/01/2007;Ter�a;SP;116;Outras;2007;0
+04/01/2007;Quinta;BA;116;Falta de aten��o;2007;0
+04/01/2007;Quinta;RS;116;Falta de aten��o;2007;0
+02/01/2007;Ter�a;ES;262;Animais na Pista;2007;0
+01/01/2007;Segunda;SP;116;Velocidade incompat�vel;2007;0
+04/01/2007;Quinta;BA;101;Outras;2007;0
+04/01/2007;Quinta;MG;381;Outras;2007;0
+04/01/2007;Quinta;PE;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;RJ;393;Defeito na via;2007;0
+04/01/2007;Quinta;MG;267;Defeito na via;2007;0
+03/01/2007;Quarta;MG;381;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;PA;316;N�o guardar dist�ncia de seguran�a;2007;0
+03/01/2007;Quarta;ES;262;Falta de aten��o;2007;0
+04/01/2007;Quinta;MG;365;Falta de aten��o;2007;1
+04/01/2007;Quinta;RS;116;Velocidade incompat�vel;2007;0
+04/01/2007;Quinta;CE;116;N�o guardar dist�ncia de seguran�a;2007;1
+04/01/2007;Quinta;RS;116;Outras;2007;0
+04/01/2007;Quinta;RS;116;Falta de aten��o;2007;0
+04/01/2007;Quinta;SE;101;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;RS;116;Falta de aten��o;2007;0
+04/01/2007;Quinta;PR;116;Outras;2007;0
+04/01/2007;Quinta;TO;153;Ultrapassagem indevida;2007;0
+04/01/2007;Quinta;PR;116;Outras;2007;0
+04/01/2007;Quinta;SP;116;Outras;2007;0
+04/01/2007;Quinta;RJ;40;Falta de aten��o;2007;0
+01/01/2007;Segunda;SC;280;Falta de aten��o;2007;0
+02/01/2007;Ter�a;AM;174;Falta de aten��o;2007;0
+04/01/2007;Quinta;MA;316;Animais na Pista;2007;0
+04/01/2007;Quinta;RS;158;Outras;2007;1
+04/01/2007;Quinta;MG;40;Outras;2007;0
+04/01/2007;Quinta;SC;153;Ingest�o de �lcool;2007;0
+04/01/2007;Quinta;RJ;40;Outras;2007;0
+01/01/2007;Segunda;BA;101;Falta de aten��o;2007;0
+04/01/2007;Quinta;SP;116;Defeito mec�nico em ve�culo;2007;0
+04/01/2007;Quinta;MG;381;Outras;2007;0
+04/01/2007;Quinta;MS;158;Falta de aten��o;2007;0
+04/01/2007;Quinta;MA;10;Animais na Pista;2007;0
+04/01/2007;Quinta;PR;277;Outras;2007;0
+04/01/2007;Quinta;RJ;40;Outras;2007;0
+04/01/2007;Quinta;MS;163;Outras;2007;0
+04/01/2007;Quinta;SP;116;Defeito mec�nico em ve�culo;2007;0
+04/01/2007;Quinta;SC;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;SC;280;Falta de aten��o;2007;0
+04/01/2007;Quinta;SP;116;Outras;2007;0
+02/01/2007;Ter�a;SP;116;Desobedi�ncia � sinaliza��o;2007;0
+04/01/2007;Quinta;MG;381;Outras;2007;0
+01/01/2007;Segunda;RJ;101;Outras;2007;0
+04/01/2007;Quinta;PR;476;Falta de aten��o;2007;0
+04/01/2007;Quinta;PR;277;Outras;2007;1
+04/01/2007;Quinta;RJ;40;Outras;2007;0
+04/01/2007;Quinta;SP;116;Outras;2007;0
+03/01/2007;Quarta;RS;116;Falta de aten��o;2007;0
+04/01/2007;Quinta;RR;174;Outras;2007;0
+02/01/2007;Ter�a;PA;316;Outras;2007;0
+04/01/2007;Quinta;MG;146;Outras;2007;0
+04/01/2007;Quinta;PE;101;Falta de aten��o;2007;0
+04/01/2007;Quinta;MG;381;Velocidade incompat�vel;2007;0
+04/01/2007;Quinta;SP;381;Falta de aten��o;2007;0
+04/01/2007;Quinta;PA;316;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;AM;174;Outras;2007;0
+04/01/2007;Quinta;MG;381;Falta de aten��o;2007;0
+01/01/2007;Segunda;RJ;101;Outras;2007;0
+04/01/2007;Quinta;GO;153;Dormindo;2007;0
+04/01/2007;Quinta;SP;381;Outras;2007;0
+04/01/2007;Quinta;MA;316;Defeito mec�nico em ve�culo;2007;0
+04/01/2007;Quinta;PR;116;Outras;2007;0
+04/01/2007;Quinta;SP;116;Outras;2007;1
+04/01/2007;Quinta;BA;116;N�o guardar dist�ncia de seguran�a;2007;0
+04/01/2007;Quinta;SC;101;Falta de aten��o;2007;0
+04/01/2007;Quinta;SP;381;Outras;2007;0
+05/01/2007;Sexta;SC;282;Falta de aten��o;2007;0
+05/01/2007;Sexta;SC;101;Falta de aten��o;2007;0
+04/01/2007;Quinta;BA;116;Outras;2007;0
+04/01/2007;Quinta;RO;319;Falta de aten��o;2007;0
+04/01/2007;Quinta;GO;153;Velocidade incompat�vel;2007;0
+04/01/2007;Quinta;MS;163;Outras;2007;0
+04/01/2007;Quinta;RJ;101;Outras;2007;0
+05/01/2007;Sexta;PR;376;Dormindo;2007;0
+05/01/2007;Sexta;MG;153;Outras;2007;0
+04/01/2007;Quinta;SC;101;Outras;2007;0
+01/01/2007;Segunda;DF;70;Outras;2007;0
+04/01/2007;Quinta;MG;153;Outras;2007;0
+05/01/2007;Sexta;SP;116;Dormindo;2007;0
+05/01/2007;Sexta;ES;101;Outras;2007;0
+01/01/2007;Segunda;RJ;101;Outras;2007;0
+04/01/2007;Quinta;GO;50;Outras;2007;0
+05/01/2007;Sexta;MT;174;Animais na Pista;2007;0
+04/01/2007;Quinta;PA;316;Falta de aten��o;2007;0
+04/01/2007;Quinta;RO;364;Falta de aten��o;2007;0
+04/01/2007;Quinta;PI;316;Falta de aten��o;2007;0
+05/01/2007;Sexta;SP;116;Dormindo;2007;0
+05/01/2007;Sexta;MG;381;Outras;2007;0
+02/01/2007;Ter�a;SC;101;N�o guardar dist�ncia de seguran�a;2007;0
+04/01/2007;Quinta;MG;459;Falta de aten��o;2007;0
+04/01/2007;Quinta;RS;116;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;GO;153;Desobedi�ncia � sinaliza��o;2007;0
+05/01/2007;Sexta;PI;316;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;PE;101;N�o guardar dist�ncia de seguran�a;2007;0
+03/01/2007;Quarta;MG;381;Animais na Pista;2007;0
+02/01/2007;Ter�a;CE;116;Falta de aten��o;2007;0
+01/01/2007;Segunda;MG;50;Outras;2007;0
+01/01/2007;Segunda;MG;381;Outras;2007;0
+01/01/2007;Segunda;RJ;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;MG;381;Velocidade incompat�vel;2007;0
+04/01/2007;Quinta;MT;70;Defeito na via;2007;0
+05/01/2007;Sexta;RS;386;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SP;116;Outras;2007;0
+01/01/2007;Segunda;ES;601;Falta de aten��o;2007;0
+01/01/2007;Segunda;SC;101;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;RJ;40;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;ES;101;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;MG;381;Falta de aten��o;2007;0
+01/01/2007;Segunda;PR;373;Outras;2007;1
+05/01/2007;Sexta;BA;116;Outras;2007;0
+01/01/2007;Segunda;RJ;40;Velocidade incompat�vel;2007;0
+04/01/2007;Quinta;MG;40;Outras;2007;0
+04/01/2007;Quinta;PE;101;N�o guardar dist�ncia de seguran�a;2007;0
+05/01/2007;Sexta;GO;20;Dormindo;2007;0
+01/01/2007;Segunda;PE;232;Animais na Pista;2007;0
+01/01/2007;Segunda;RJ;101;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;ES;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;GO;60;Animais na Pista;2007;0
+01/01/2007;Segunda;ES;101;Outras;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+04/01/2007;Quinta;MG;40;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SC;101;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;RJ;40;Falta de aten��o;2007;0
+04/01/2007;Quinta;BA;116;Animais na Pista;2007;0
+01/01/2007;Segunda;RJ;40;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;SP;101;Ultrapassagem indevida;2007;0
+05/01/2007;Sexta;ES;101;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;PE;101;Ingest�o de �lcool;2007;0
+01/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;MG;381;Outras;2007;0
+01/01/2007;Segunda;MG;262;Ingest�o de �lcool;2007;0
+02/01/2007;Ter�a;MG;381;Dormindo;2007;0
+03/01/2007;Quarta;SP;381;Defeito na via;2007;0
+01/01/2007;Segunda;RJ;393;Outras;2007;0
+01/01/2007;Segunda;ES;101;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+04/01/2007;Quinta;MG;381;Falta de aten��o;2007;0
+01/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;MG;40;Outras;2007;0
+01/01/2007;Segunda;MG;262;Outras;2007;0
+02/01/2007;Ter�a;RS;386;Falta de aten��o;2007;0
+04/01/2007;Quinta;RS;116;Falta de aten��o;2007;0
+01/01/2007;Segunda;SC;101;Outras;2007;0
+05/01/2007;Sexta;SC;282;Falta de aten��o;2007;0
+05/01/2007;Sexta;SC;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;PA;316;Animais na Pista;2007;0
+05/01/2007;Sexta;BA;101;Outras;2007;0
+01/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+05/01/2007;Sexta;RS;287;Falta de aten��o;2007;0
+01/01/2007;Segunda;MG;381;Velocidade incompat�vel;2007;0
+03/01/2007;Quarta;RJ;101;Velocidade incompat�vel;2007;0
+05/01/2007;Sexta;SE;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;SP;116;Outras;2007;0
+02/01/2007;Ter�a;PR;116;Outras;2007;0
+05/01/2007;Sexta;PE;101;Falta de aten��o;2007;0
+05/01/2007;Sexta;BA;407;Outras;2007;0
+02/01/2007;Ter�a;RJ;101;N�o guardar dist�ncia de seguran�a;2007;0
+05/01/2007;Sexta;MG;381;Outras;2007;0
+02/01/2007;Ter�a;CE;116;Falta de aten��o;2007;0
+05/01/2007;Sexta;RN;226;Outras;2007;0
+02/01/2007;Ter�a;GO;364;Animais na Pista;2007;0
+01/01/2007;Segunda;PR;476;Falta de aten��o;2007;0
+05/01/2007;Sexta;SC;101;N�o guardar dist�ncia de seguran�a;2007;0
+05/01/2007;Sexta;MG;381;Outras;2007;0
+05/01/2007;Sexta;ES;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;BA;101;Dormindo;2007;0
+01/01/2007;Segunda;MG;262;Animais na Pista;2007;0
+05/01/2007;Sexta;PE;232;Velocidade incompat�vel;2007;0
+05/01/2007;Sexta;RS;290;Velocidade incompat�vel;2007;0
+05/01/2007;Sexta;BA;116;Outras;2007;0
+04/01/2007;Quinta;RJ;101;Outras;2007;0
+02/01/2007;Ter�a;RO;364;Outras;2007;0
+05/01/2007;Sexta;RJ;465;Outras;2007;0
+01/01/2007;Segunda;RJ;101;Outras;2007;0
+05/01/2007;Sexta;MG;116;Dormindo;2007;0
+01/01/2007;Segunda;MG;262;Ingest�o de �lcool;2007;0
+04/01/2007;Quinta;MG;135;Outras;2007;0
+05/01/2007;Sexta;BA;101;Outras;2007;0
+05/01/2007;Sexta;RS;116;Velocidade incompat�vel;2007;0
+05/01/2007;Sexta;SC;470;Falta de aten��o;2007;0
+03/01/2007;Quarta;SP;101;Animais na Pista;2007;0
+03/01/2007;Quarta;MG;40;Velocidade incompat�vel;2007;0
+05/01/2007;Sexta;PR;277;Velocidade incompat�vel;2007;0
+05/01/2007;Sexta;PE;428;Falta de aten��o;2007;0
+04/01/2007;Quinta;RS;386;Falta de aten��o;2007;0
+05/01/2007;Sexta;PE;232;Falta de aten��o;2007;0
+05/01/2007;Sexta;MT;364;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;PE;101;Outras;2007;0
+05/01/2007;Sexta;RS;116;Falta de aten��o;2007;0
+01/01/2007;Segunda;RJ;40;Outras;2007;0
+05/01/2007;Sexta;MG;381;Dormindo;2007;0
+05/01/2007;Sexta;SC;116;Outras;2007;0
+05/01/2007;Sexta;PI;343;Desobedi�ncia � sinaliza��o;2007;0
+05/01/2007;Sexta;PR;277;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;PA;316;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;RJ;40;Outras;2007;0
+01/01/2007;Segunda;CE;222;Falta de aten��o;2007;0
+05/01/2007;Sexta;PR;277;Outras;2007;0
+05/01/2007;Sexta;BA;324;Outras;2007;0
+05/01/2007;Sexta;SP;116;Outras;2007;0
+05/01/2007;Sexta;GO;20;Dormindo;2007;0
+02/01/2007;Ter�a;PE;101;Falta de aten��o;2007;0
+05/01/2007;Sexta;RO;364;Falta de aten��o;2007;0
+05/01/2007;Sexta;MG;116;Falta de aten��o;2007;0
+05/01/2007;Sexta;MT;158;Falta de aten��o;2007;0
+01/01/2007;Segunda;RJ;40;Outras;2007;0
+05/01/2007;Sexta;RJ;393;Outras;2007;0
+05/01/2007;Sexta;PE;407;N�o guardar dist�ncia de seguran�a;2007;0
+05/01/2007;Sexta;SC;101;Ultrapassagem indevida;2007;0
+05/01/2007;Sexta;SC;470;Falta de aten��o;2007;0
+01/01/2007;Segunda;RJ;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;MG;40;Outras;2007;0
+05/01/2007;Sexta;MG;153;Outras;2007;0
+05/01/2007;Sexta;SP;116;Falta de aten��o;2007;0
+05/01/2007;Sexta;RJ;116;Outras;2007;0
+04/01/2007;Quinta;MG;262;Outras;2007;0
+05/01/2007;Sexta;RS;116;Defeito mec�nico em ve�culo;2007;0
+01/01/2007;Segunda;ES;101;Falta de aten��o;2007;0
+05/01/2007;Sexta;GO;60;Falta de aten��o;2007;0
+05/01/2007;Sexta;SC;101;N�o guardar dist�ncia de seguran�a;2007;0
+05/01/2007;Sexta;PR;116;Outras;2007;0
+05/01/2007;Sexta;SC;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;RJ;101;N�o guardar dist�ncia de seguran�a;2007;0
+05/01/2007;Sexta;BA;101;Outras;2007;0
+05/01/2007;Sexta;PR;469;Falta de aten��o;2007;0
+05/01/2007;Sexta;SC;282;Falta de aten��o;2007;0
+05/01/2007;Sexta;MG;40;Outras;2007;0
+05/01/2007;Sexta;MA;222;N�o guardar dist�ncia de seguran�a;2007;0
+05/01/2007;Sexta;GO;50;Desobedi�ncia � sinaliza��o;2007;0
+05/01/2007;Sexta;RS;116;Outras;2007;0
+05/01/2007;Sexta;MT;163;Falta de aten��o;2007;0
+05/01/2007;Sexta;PR;376;Outras;2007;0
+05/01/2007;Sexta;PB;230;Defeito na via;2007;0
+05/01/2007;Sexta;RS;158;Falta de aten��o;2007;0
+05/01/2007;Sexta;ES;101;Falta de aten��o;2007;0
+05/01/2007;Sexta;GO;153;Velocidade incompat�vel;2007;0
+05/01/2007;Sexta;ES;262;Falta de aten��o;2007;0
+05/01/2007;Sexta;RS;116;Falta de aten��o;2007;0
+05/01/2007;Sexta;MG;381;Falta de aten��o;2007;0
+05/01/2007;Sexta;MG;262;Falta de aten��o;2007;0
+05/01/2007;Sexta;SC;470;Velocidade incompat�vel;2007;0
+05/01/2007;Sexta;PR;116;Outras;2007;0
+05/01/2007;Sexta;PR;376;Outras;2007;0
+05/01/2007;Sexta;SP;116;Outras;2007;0
+02/01/2007;Ter�a;RJ;101;Outras;2007;0
+05/01/2007;Sexta;SC;282;Velocidade incompat�vel;2007;0
+05/01/2007;Sexta;PR;277;Ingest�o de �lcool;2007;0
+01/01/2007;Segunda;AP;210;Ingest�o de �lcool;2007;0
+05/01/2007;Sexta;RS;101;Outras;2007;0
+05/01/2007;Sexta;MG;116;Falta de aten��o;2007;0
+02/01/2007;Ter�a;RN;304;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;RJ;101;Outras;2007;0
+05/01/2007;Sexta;ES;601;Outras;2007;0
+05/01/2007;Sexta;SC;282;Falta de aten��o;2007;0
+05/01/2007;Sexta;SP;116;Defeito mec�nico em ve�culo;2007;0
+04/01/2007;Quinta;MG;251;Defeito mec�nico em ve�culo;2007;0
+01/01/2007;Segunda;MA;135;Falta de aten��o;2007;0
+05/01/2007;Sexta;BA;116;Outras;2007;0
+05/01/2007;Sexta;RS;158;Animais na Pista;2007;0
+05/01/2007;Sexta;MG;365;Ingest�o de �lcool;2007;0
+05/01/2007;Sexta;SP;116;Falta de aten��o;2007;0
+05/01/2007;Sexta;MG;135;Defeito na via;2007;0
+05/01/2007;Sexta;SC;101;N�o guardar dist�ncia de seguran�a;2007;0
+05/01/2007;Sexta;SC;101;Desobedi�ncia � sinaliza��o;2007;0
+05/01/2007;Sexta;PI;343;Falta de aten��o;2007;0
+05/01/2007;Sexta;MG;381;Outras;2007;0
+05/01/2007;Sexta;SP;116;Falta de aten��o;2007;0
+04/01/2007;Quinta;SP;153;Defeito na via;2007;0
+05/01/2007;Sexta;RO;364;Falta de aten��o;2007;0
+05/01/2007;Sexta;RS;386;Falta de aten��o;2007;0
+05/01/2007;Sexta;MS;163;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;MG;381;Falta de aten��o;2007;0
+02/01/2007;Ter�a;RS;392;Outras;2007;0
+05/01/2007;Sexta;SP;116;Outras;2007;0
+05/01/2007;Sexta;SC;470;Desobedi�ncia � sinaliza��o;2007;0
+05/01/2007;Sexta;ES;601;Falta de aten��o;2007;0
+03/01/2007;Quarta;GO;60;Falta de aten��o;2007;0
+05/01/2007;Sexta;MA;316;Defeito mec�nico em ve�culo;2007;0
+05/01/2007;Sexta;MS;267;Dormindo;2007;0
+05/01/2007;Sexta;GO;60;Outras;2007;0
+05/01/2007;Sexta;SC;470;Falta de aten��o;2007;0
+02/01/2007;Ter�a;RJ;40;Outras;2007;0
+05/01/2007;Sexta;BA;116;Outras;2007;0
+05/01/2007;Sexta;RS;116;Outras;2007;0
+05/01/2007;Sexta;SC;101;Ingest�o de �lcool;2007;0
+05/01/2007;Sexta;MG;381;Outras;2007;0
+05/01/2007;Sexta;PI;316;Falta de aten��o;2007;0
+05/01/2007;Sexta;SC;101;Falta de aten��o;2007;0
+05/01/2007;Sexta;SC;153;Velocidade incompat�vel;2007;0
+05/01/2007;Sexta;MG;381;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;262;Defeito na via;2007;0
+05/01/2007;Sexta;RS;116;Falta de aten��o;2007;0
+05/01/2007;Sexta;SP;116;N�o guardar dist�ncia de seguran�a;2007;0
+05/01/2007;Sexta;PA;316;Falta de aten��o;2007;0
+05/01/2007;Sexta;BA;116;Defeito mec�nico em ve�culo;2007;0
+03/01/2007;Quarta;RJ;101;Outras;2007;0
+05/01/2007;Sexta;BA;116;Outras;2007;0
+05/01/2007;Sexta;SP;116;Outras;2007;0
+05/01/2007;Sexta;RS;293;Outras;2007;0
+05/01/2007;Sexta;RN;101;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;GO;70;Ultrapassagem indevida;2007;0
+05/01/2007;Sexta;SP;153;Ultrapassagem indevida;2007;0
+05/01/2007;Sexta;PB;230;Outras;2007;0
+02/01/2007;Ter�a;RJ;40;Outras;2007;0
+05/01/2007;Sexta;ES;101;Outras;2007;0
+05/01/2007;Sexta;SE;101;Falta de aten��o;2007;0
+05/01/2007;Sexta;PB;104;Animais na Pista;2007;0
+01/01/2007;Segunda;MG;381;Falta de aten��o;2007;0
+05/01/2007;Sexta;SP;116;N�o guardar dist�ncia de seguran�a;2007;0
+05/01/2007;Sexta;SP;116;Outras;2007;0
+05/01/2007;Sexta;ES;101;Falta de aten��o;2007;0
+05/01/2007;Sexta;SC;101;Outras;2007;0
+05/01/2007;Sexta;MG;381;Velocidade incompat�vel;2007;0
+05/01/2007;Sexta;MS;163;Ultrapassagem indevida;2007;0
+05/01/2007;Sexta;SC;153;Falta de aten��o;2007;0
+05/01/2007;Sexta;SC;470;Outras;2007;0
+05/01/2007;Sexta;SC;280;Falta de aten��o;2007;0
+05/01/2007;Sexta;MG;262;Outras;2007;0
+05/01/2007;Sexta;PA;316;Falta de aten��o;2007;0
+05/01/2007;Sexta;PR;376;Outras;2007;0
+05/01/2007;Sexta;BA;101;Outras;2007;0
+05/01/2007;Sexta;SC;101;Outras;2007;0
+05/01/2007;Sexta;ES;262;Outras;2007;0
+05/01/2007;Sexta;MG;365;Outras;2007;0
+05/01/2007;Sexta;SC;282;Velocidade incompat�vel;2007;0
+05/01/2007;Sexta;DF;450;Ingest�o de �lcool;2007;0
+05/01/2007;Sexta;MA;316;Ultrapassagem indevida;2007;2
+05/01/2007;Sexta;MG;381;Velocidade incompat�vel;2007;0
+05/01/2007;Sexta;ES;601;Outras;2007;0
+05/01/2007;Sexta;RS;285;Desobedi�ncia � sinaliza��o;2007;0
+05/01/2007;Sexta;GO;60;Outras;2007;0
+05/01/2007;Sexta;MG;381;Outras;2007;0
+05/01/2007;Sexta;CE;116;Animais na Pista;2007;0
+05/01/2007;Sexta;RS;287;Outras;2007;0
+05/01/2007;Sexta;SP;116;Falta de aten��o;2007;0
+05/01/2007;Sexta;RS;386;Falta de aten��o;2007;0
+03/01/2007;Quarta;RJ;40;Outras;2007;0
+05/01/2007;Sexta;PA;10;Animais na Pista;2007;0
+05/01/2007;Sexta;RS;290;Outras;2007;0
+05/01/2007;Sexta;SC;116;Falta de aten��o;2007;0
+05/01/2007;Sexta;SC;101;Velocidade incompat�vel;2007;0
+04/01/2007;Quinta;SP;116;Defeito mec�nico em ve�culo;2007;0
+05/01/2007;Sexta;SP;116;Outras;2007;0
+03/01/2007;Quarta;MG;135;Defeito na via;2007;0
+04/01/2007;Quinta;MG;381;Defeito mec�nico em ve�culo;2007;0
+05/01/2007;Sexta;PA;316;Falta de aten��o;2007;0
+05/01/2007;Sexta;RS;290;Dormindo;2007;0
+05/01/2007;Sexta;RS;116;Outras;2007;0
+03/01/2007;Quarta;SC;282;Falta de aten��o;2007;0
+05/01/2007;Sexta;RO;364;Falta de aten��o;2007;0
+05/01/2007;Sexta;SC;101;Falta de aten��o;2007;0
+06/01/2007;S�bado;RS;290;Outras;2007;0
+05/01/2007;Sexta;MG;116;Falta de aten��o;2007;0
+05/01/2007;Sexta;PE;408;Velocidade incompat�vel;2007;0
+05/01/2007;Sexta;SC;101;Velocidade incompat�vel;2007;0
+05/01/2007;Sexta;PE;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;MG;135;Outras;2007;0
+05/01/2007;Sexta;PR;116;Outras;2007;0
+05/01/2007;Sexta;RS;472;Velocidade incompat�vel;2007;0
+05/01/2007;Sexta;BA;101;Defeito na via;2007;0
+05/01/2007;Sexta;SC;280;Ingest�o de �lcool;2007;0
+05/01/2007;Sexta;SP;116;Defeito mec�nico em ve�culo;2007;2
+01/01/2007;Segunda;CE;222;Outras;2007;2
+01/01/2007;Segunda;AP;210;Defeito mec�nico em ve�culo;2007;0
+05/01/2007;Sexta;MG;40;Outras;2007;0
+06/01/2007;S�bado;MG;262;Outras;2007;0
+05/01/2007;Sexta;SP;116;Outras;2007;0
+05/01/2007;Sexta;SP;381;Outras;2007;0
+05/01/2007;Sexta;PR;116;Falta de aten��o;2007;0
+05/01/2007;Sexta;MT;163;Outras;2007;0
+05/01/2007;Sexta;MG;381;Falta de aten��o;2007;0
+05/01/2007;Sexta;GO;40;Falta de aten��o;2007;0
+05/01/2007;Sexta;MA;135;Falta de aten��o;2007;0
+05/01/2007;Sexta;PE;101;Animais na Pista;2007;0
+05/01/2007;Sexta;MG;381;Outras;2007;0
+05/01/2007;Sexta;DF;70;Ingest�o de �lcool;2007;0
+06/01/2007;S�bado;PR;476;Ingest�o de �lcool;2007;0
+05/01/2007;Sexta;MG;153;Outras;2007;0
+05/01/2007;Sexta;MS;262;Defeito mec�nico em ve�culo;2007;0
+02/01/2007;Ter�a;MG;153;Outras;2007;0
+05/01/2007;Sexta;PA;222;Outras;2007;0
+05/01/2007;Sexta;SP;153;Falta de aten��o;2007;0
+06/01/2007;S�bado;ES;262;Falta de aten��o;2007;0
+05/01/2007;Sexta;RS;116;Outras;2007;0
+05/01/2007;Sexta;MG;381;Outras;2007;0
+05/01/2007;Sexta;MG;381;Outras;2007;0
+06/01/2007;S�bado;RS;290;Velocidade incompat�vel;2007;0
+06/01/2007;S�bado;SC;282;Outras;2007;0
+06/01/2007;S�bado;PR;277;Falta de aten��o;2007;0
+03/01/2007;Quarta;PR;116;Outras;2007;1
+05/01/2007;Sexta;SP;381;Outras;2007;0
+05/01/2007;Sexta;SE;101;Dormindo;2007;0
+04/01/2007;Quinta;SP;116;Outras;2007;0
+04/01/2007;Quinta;RS;116;Falta de aten��o;2007;0
+05/01/2007;Sexta;BA;324;Outras;2007;0
+05/01/2007;Sexta;MG;381;Outras;2007;0
+05/01/2007;Sexta;BA;324;Falta de aten��o;2007;0
+04/01/2007;Quinta;RS;116;Falta de aten��o;2007;0
+05/01/2007;Sexta;PR;277;Outras;2007;0
+06/01/2007;S�bado;SC;470;Falta de aten��o;2007;0
+06/01/2007;S�bado;SC;470;Falta de aten��o;2007;0
+06/01/2007;S�bado;PR;277;Falta de aten��o;2007;0
+05/01/2007;Sexta;MG;381;Outras;2007;0
+06/01/2007;S�bado;PR;277;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;153;Outras;2007;0
+05/01/2007;Sexta;MG;381;Falta de aten��o;2007;0
+06/01/2007;S�bado;MT;70;Velocidade incompat�vel;2007;0
+05/01/2007;Sexta;SP;381;Outras;2007;0
+05/01/2007;Sexta;MG;381;Outras;2007;0
+05/01/2007;Sexta;RS;386;Outras;2007;0
+05/01/2007;Sexta;BA;324;Outras;2007;0
+02/01/2007;Ter�a;MG;365;Outras;2007;0
+05/01/2007;Sexta;BA;324;Falta de aten��o;2007;0
+01/01/2007;Segunda;PA;316;Ingest�o de �lcool;2007;0
+05/01/2007;Sexta;PB;230;Velocidade incompat�vel;2007;0
+06/01/2007;S�bado;SC;282;Falta de aten��o;2007;1
+06/01/2007;S�bado;RS;116;Dormindo;2007;0
+06/01/2007;S�bado;RS;116;Outras;2007;0
+05/01/2007;Sexta;MG;116;Outras;2007;0
+06/01/2007;S�bado;PR;277;Outras;2007;0
+06/01/2007;S�bado;SC;282;Velocidade incompat�vel;2007;0
+06/01/2007;S�bado;BA;116;Outras;2007;0
+05/01/2007;Sexta;SC;101;Falta de aten��o;2007;0
+05/01/2007;Sexta;MA;10;Outras;2007;0
+06/01/2007;S�bado;RO;364;Outras;2007;0
+06/01/2007;S�bado;PR;476;Outras;2007;0
+06/01/2007;S�bado;PR;277;Falta de aten��o;2007;0
+05/01/2007;Sexta;MG;381;Falta de aten��o;2007;0
+06/01/2007;S�bado;PR;376;Outras;2007;0
+05/01/2007;Sexta;AL;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;135;Outras;2007;0
+06/01/2007;S�bado;SP;116;Outras;2007;0
+05/01/2007;Sexta;PE;423;Animais na Pista;2007;0
+06/01/2007;S�bado;BA;101;Outras;2007;0
+06/01/2007;S�bado;MG;116;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;381;Falta de aten��o;2007;0
+02/01/2007;Ter�a;GO;60;Falta de aten��o;2007;0
+02/01/2007;Ter�a;PR;116;Outras;2007;0
+06/01/2007;S�bado;BA;324;Ingest�o de �lcool;2007;0
+04/01/2007;Quinta;MG;354;Outras;2007;0
+06/01/2007;S�bado;SC;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;MG;40;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;MG;135;Outras;2007;0
+02/01/2007;Ter�a;RN;304;Outras;2007;0
+02/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+06/01/2007;S�bado;SC;101;N�o guardar dist�ncia de seguran�a;2007;0
+01/01/2007;Segunda;GO;60;Outras;2007;0
+05/01/2007;Sexta;CE;116;Animais na Pista;2007;0
+04/01/2007;Quinta;MG;365;Velocidade incompat�vel;2007;1
+02/01/2007;Ter�a;PE;101;Animais na Pista;2007;0
+02/01/2007;Ter�a;PR;277;Outras;2007;0
+04/01/2007;Quinta;SP;153;Outras;2007;0
+02/01/2007;Ter�a;MG;135;Defeito na via;2007;0
+06/01/2007;S�bado;SC;280;Falta de aten��o;2007;0
+04/01/2007;Quinta;SE;101;Animais na Pista;2007;0
+04/01/2007;Quinta;MG;40;Outras;2007;0
+04/01/2007;Quinta;BA;324;Outras;2007;0
+06/01/2007;S�bado;RS;116;Velocidade incompat�vel;2007;0
+04/01/2007;Quinta;MG;381;Outras;2007;0
+02/01/2007;Ter�a;SP;101;Ultrapassagem indevida;2007;0
+02/01/2007;Ter�a;ES;262;Outras;2007;0
+03/01/2007;Quarta;MG;40;Outras;2007;0
+05/01/2007;Sexta;MG;40;Velocidade incompat�vel;2007;0
+03/01/2007;Quarta;MG;381;Outras;2007;0
+05/01/2007;Sexta;RS;290;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+05/01/2007;Sexta;SP;116;Falta de aten��o;2007;0
+05/01/2007;Sexta;PA;10;Outras;2007;0
+06/01/2007;S�bado;MG;381;Falta de aten��o;2007;0
+03/01/2007;Quarta;SC;101;Defeito mec�nico em ve�culo;2007;0
+06/01/2007;S�bado;SC;101;Outras;2007;1
+05/01/2007;Sexta;TO;153;Animais na Pista;2007;0
+04/01/2007;Quinta;MG;251;Outras;2007;0
+06/01/2007;S�bado;RN;101;Animais na Pista;2007;0
+05/01/2007;Sexta;MG;40;Velocidade incompat�vel;2007;0
+06/01/2007;S�bado;MG;381;Velocidade incompat�vel;2007;0
+04/01/2007;Quinta;SP;381;Outras;2007;0
+06/01/2007;S�bado;RS;386;Desobedi�ncia � sinaliza��o;2007;0
+06/01/2007;S�bado;PI;343;N�o guardar dist�ncia de seguran�a;2007;0
+06/01/2007;S�bado;MG;262;Outras;2007;0
+05/01/2007;Sexta;RS;285;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+06/01/2007;S�bado;MT;364;Outras;2007;0
+02/01/2007;Ter�a;PA;316;Outras;2007;0
+06/01/2007;S�bado;ES;101;Outras;2007;0
+03/01/2007;Quarta;RN;226;Outras;2007;1
+03/01/2007;Quarta;MG;40;Falta de aten��o;2007;0
+06/01/2007;S�bado;MT;364;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;ES;262;Falta de aten��o;2007;0
+06/01/2007;S�bado;RJ;116;Outras;2007;0
+01/01/2007;Segunda;GO;60;Outras;2007;0
+06/01/2007;S�bado;GO;364;Outras;2007;0
+06/01/2007;S�bado;SP;116;Outras;2007;0
+06/01/2007;S�bado;BA;101;Outras;2007;0
+06/01/2007;S�bado;MG;40;Velocidade incompat�vel;2007;0
+06/01/2007;S�bado;PR;376;Falta de aten��o;2007;0
+06/01/2007;S�bado;BA;116;Ultrapassagem indevida;2007;0
+05/01/2007;Sexta;AL;104;Defeito mec�nico em ve�culo;2007;0
+06/01/2007;S�bado;MG;40;Velocidade incompat�vel;2007;0
+03/01/2007;Quarta;PB;230;Falta de aten��o;2007;0
+05/01/2007;Sexta;MG;459;Velocidade incompat�vel;2007;0
+06/01/2007;S�bado;RS;101;Outras;2007;0
+05/01/2007;Sexta;MG;262;Defeito na via;2007;0
+06/01/2007;S�bado;ES;262;Outras;2007;0
+02/01/2007;Ter�a;PA;316;Falta de aten��o;2007;0
+06/01/2007;S�bado;SC;101;Falta de aten��o;2007;1
+06/01/2007;S�bado;PA;316;Falta de aten��o;2007;0
+06/01/2007;S�bado;AL;104;Falta de aten��o;2007;0
+04/01/2007;Quinta;SP;116;Outras;2007;0
+06/01/2007;S�bado;SC;282;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+04/01/2007;Quinta;SP;116;Outras;2007;0
+06/01/2007;S�bado;SP;116;Outras;2007;0
+06/01/2007;S�bado;RS;386;Defeito mec�nico em ve�culo;2007;0
+03/01/2007;Quarta;PR;476;Ultrapassagem indevida;2007;0
+05/01/2007;Sexta;RN;304;Outras;2007;3
+06/01/2007;S�bado;AL;104;N�o guardar dist�ncia de seguran�a;2007;0
+06/01/2007;S�bado;MG;381;Dormindo;2007;0
+04/01/2007;Quinta;BA;110;Falta de aten��o;2007;0
+02/01/2007;Ter�a;ES;262;Falta de aten��o;2007;0
+03/01/2007;Quarta;RS;116;Outras;2007;0
+06/01/2007;S�bado;MA;135;Outras;2007;0
+06/01/2007;S�bado;MG;50;Falta de aten��o;2007;0
+06/01/2007;S�bado;MG;40;Outras;2007;0
+02/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+06/01/2007;S�bado;PA;222;Ultrapassagem indevida;2007;0
+06/01/2007;S�bado;BA;20;Animais na Pista;2007;0
+06/01/2007;S�bado;RS;101;Outras;2007;0
+05/01/2007;Sexta;MG;459;Outras;2007;0
+06/01/2007;S�bado;MA;135;Outras;2007;0
+06/01/2007;S�bado;SC;282;Falta de aten��o;2007;0
+06/01/2007;S�bado;BA;116;Outras;2007;0
+05/01/2007;Sexta;MG;381;Outras;2007;1
+06/01/2007;S�bado;BA;324;Outras;2007;0
+05/01/2007;Sexta;TO;230;Outras;2007;0
+03/01/2007;Quarta;RJ;116;Outras;2007;0
+06/01/2007;S�bado;RO;364;Defeito mec�nico em ve�culo;2007;0
+02/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;RJ;101;Outras;2007;0
+06/01/2007;S�bado;BA;101;Outras;2007;0
+04/01/2007;Quinta;MG;381;Outras;2007;0
+02/01/2007;Ter�a;SC;280;Falta de aten��o;2007;0
+03/01/2007;Quarta;RJ;116;Outras;2007;0
+06/01/2007;S�bado;SC;101;Dormindo;2007;0
+06/01/2007;S�bado;SC;101;Falta de aten��o;2007;0
+05/01/2007;Sexta;SP;381;Outras;2007;0
+06/01/2007;S�bado;PB;230;N�o guardar dist�ncia de seguran�a;2007;0
+06/01/2007;S�bado;PA;316;Outras;2007;0
+06/01/2007;S�bado;SP;153;Outras;2007;0
+02/01/2007;Ter�a;ES;101;Falta de aten��o;2007;0
+06/01/2007;S�bado;RS;116;Outras;2007;0
+06/01/2007;S�bado;PE;232;Falta de aten��o;2007;0
+06/01/2007;S�bado;SP;116;Outras;2007;0
+02/01/2007;Ter�a;MG;381;Defeito na via;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+02/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;MG;40;Outras;2007;0
+05/01/2007;Sexta;SP;381;Outras;2007;0
+06/01/2007;S�bado;PB;230;Velocidade incompat�vel;2007;0
+06/01/2007;S�bado;MS;267;Defeito mec�nico em ve�culo;2007;0
+06/01/2007;S�bado;PE;101;Defeito mec�nico em ve�culo;2007;1
+06/01/2007;S�bado;MG;381;Outras;2007;0
+06/01/2007;S�bado;ES;262;Outras;2007;0
+06/01/2007;S�bado;MG;381;Outras;2007;0
+05/01/2007;Sexta;MG;452;Defeito mec�nico em ve�culo;2007;0
+06/01/2007;S�bado;AL;101;Defeito mec�nico em ve�culo;2007;0
+06/01/2007;S�bado;SC;470;N�o guardar dist�ncia de seguran�a;2007;0
+06/01/2007;S�bado;BA;116;Outras;2007;0
+03/01/2007;Quarta;MG;381;Outras;2007;0
+06/01/2007;S�bado;MG;40;Defeito mec�nico em ve�culo;2007;0
+06/01/2007;S�bado;RN;110;Dormindo;2007;0
+05/01/2007;Sexta;MT;364;Falta de aten��o;2007;0
+06/01/2007;S�bado;SP;116;N�o guardar dist�ncia de seguran�a;2007;0
+06/01/2007;S�bado;MG;116;Defeito na via;2007;0
+06/01/2007;S�bado;PE;101;N�o guardar dist�ncia de seguran�a;2007;0
+06/01/2007;S�bado;PA;316;N�o guardar dist�ncia de seguran�a;2007;0
+06/01/2007;S�bado;GO;60;Outras;2007;0
+06/01/2007;S�bado;GO;364;Outras;2007;0
+06/01/2007;S�bado;BA;324;Desobedi�ncia � sinaliza��o;2007;1
+06/01/2007;S�bado;MS;463;Falta de aten��o;2007;0
+05/01/2007;Sexta;MG;262;Defeito na via;2007;0
+06/01/2007;S�bado;PB;230;Falta de aten��o;2007;0
+06/01/2007;S�bado;MS;163;Velocidade incompat�vel;2007;0
+06/01/2007;S�bado;MG;381;Outras;2007;0
+06/01/2007;S�bado;PR;116;Outras;2007;0
+06/01/2007;S�bado;ES;101;Falta de aten��o;2007;0
+06/01/2007;S�bado;MG;262;Outras;2007;0
+04/01/2007;Quinta;RN;101;Falta de aten��o;2007;0
+06/01/2007;S�bado;MG;50;Velocidade incompat�vel;2007;0
+06/01/2007;S�bado;MG;262;Outras;2007;0
+06/01/2007;S�bado;SC;101;Falta de aten��o;2007;0
+05/01/2007;Sexta;MG;459;Falta de aten��o;2007;0
+06/01/2007;S�bado;SC;153;Falta de aten��o;2007;0
+06/01/2007;S�bado;MG;262;Falta de aten��o;2007;0
+05/01/2007;Sexta;MG;116;Outras;2007;0
+06/01/2007;S�bado;MG;381;Outras;2007;0
+06/01/2007;S�bado;PR;116;Outras;2007;0
+06/01/2007;S�bado;PB;230;Outras;2007;0
+06/01/2007;S�bado;PR;376;Falta de aten��o;2007;0
+05/01/2007;Sexta;MG;135;Falta de aten��o;2007;4
+06/01/2007;S�bado;RO;364;Defeito mec�nico em ve�culo;2007;0
+06/01/2007;S�bado;BA;101;Falta de aten��o;2007;0
+06/01/2007;S�bado;RS;471;Defeito mec�nico em ve�culo;2007;0
+06/01/2007;S�bado;MT;364;Falta de aten��o;2007;0
+06/01/2007;S�bado;PR;116;Outras;2007;0
+06/01/2007;S�bado;BA;101;Falta de aten��o;2007;0
+06/01/2007;S�bado;SP;116;Outras;2007;0
+06/01/2007;S�bado;CE;222;Falta de aten��o;2007;0
+05/01/2007;Sexta;RS;116;Velocidade incompat�vel;2007;0
+06/01/2007;S�bado;CE;222;Falta de aten��o;2007;1
+06/01/2007;S�bado;MG;116;Falta de aten��o;2007;0
+06/01/2007;S�bado;PA;316;N�o guardar dist�ncia de seguran�a;2007;0
+06/01/2007;S�bado;DF;60;Outras;2007;0
+06/01/2007;S�bado;PR;277;Defeito mec�nico em ve�culo;2007;0
+06/01/2007;S�bado;MG;40;Ultrapassagem indevida;2007;0
+06/01/2007;S�bado;SP;116;Animais na Pista;2007;0
+05/01/2007;Sexta;MG;381;N�o guardar dist�ncia de seguran�a;2007;0
+06/01/2007;S�bado;RO;364;Ingest�o de �lcool;2007;1
+06/01/2007;S�bado;PE;424;Falta de aten��o;2007;0
+06/01/2007;S�bado;SP;116;Outras;2007;0
+06/01/2007;S�bado;MG;381;Falta de aten��o;2007;0
+02/01/2007;Ter�a;PI;343;Outras;2007;0
+06/01/2007;S�bado;PR;277;Falta de aten��o;2007;0
+06/01/2007;S�bado;MG;365;Falta de aten��o;2007;0
+06/01/2007;S�bado;RN;101;Outras;2007;0
+05/01/2007;Sexta;MG;381;N�o guardar dist�ncia de seguran�a;2007;0
+06/01/2007;S�bado;MG;262;Outras;2007;0
+05/01/2007;Sexta;RO;364;Defeito mec�nico em ve�culo;2007;0
+03/01/2007;Quarta;MG;381;Outras;2007;0
+02/01/2007;Ter�a;ES;101;Falta de aten��o;2007;0
+06/01/2007;S�bado;PR;277;Ingest�o de �lcool;2007;0
+06/01/2007;S�bado;RS;116;Defeito mec�nico em ve�culo;2007;0
+06/01/2007;S�bado;SP;116;Outras;2007;0
+06/01/2007;S�bado;MG;40;Velocidade incompat�vel;2007;0
+06/01/2007;S�bado;RS;471;Desobedi�ncia � sinaliza��o;2007;1
+06/01/2007;S�bado;RS;293;Defeito mec�nico em ve�culo;2007;0
+06/01/2007;S�bado;BA;116;Outras;2007;0
+06/01/2007;S�bado;PA;316;Falta de aten��o;2007;0
+06/01/2007;S�bado;SC;280;Falta de aten��o;2007;0
+06/01/2007;S�bado;SC;101;Outras;2007;0
+06/01/2007;S�bado;PB;230;Outras;2007;0
+06/01/2007;S�bado;SP;116;Outras;2007;0
+06/01/2007;S�bado;SP;116;Falta de aten��o;2007;0
+03/01/2007;Quarta;RJ;40;Outras;2007;0
+06/01/2007;S�bado;MG;381;Outras;2007;0
+06/01/2007;S�bado;SP;116;Outras;2007;0
+06/01/2007;S�bado;MT;364;Velocidade incompat�vel;2007;1
+06/01/2007;S�bado;PR;116;Velocidade incompat�vel;2007;0
+06/01/2007;S�bado;SP;116;Outras;2007;0
+06/01/2007;S�bado;SC;153;Falta de aten��o;2007;0
+06/01/2007;S�bado;RO;364;Falta de aten��o;2007;0
+06/01/2007;S�bado;PR;116;Velocidade incompat�vel;2007;0
+06/01/2007;S�bado;SP;116;Outras;2007;0
+06/01/2007;S�bado;SC;470;Falta de aten��o;2007;0
+06/01/2007;S�bado;RS;290;Falta de aten��o;2007;0
+05/01/2007;Sexta;SP;381;Defeito mec�nico em ve�culo;2007;1
+06/01/2007;S�bado;MG;40;Outras;2007;0
+06/01/2007;S�bado;CE;222;Outras;2007;0
+06/01/2007;S�bado;CE;222;Falta de aten��o;2007;0
+06/01/2007;S�bado;SC;101;Falta de aten��o;2007;1
+02/01/2007;Ter�a;SC;101;Outras;2007;0
+06/01/2007;S�bado;RS;153;Velocidade incompat�vel;2007;0
+06/01/2007;S�bado;ES;262;Outras;2007;0
+06/01/2007;S�bado;MG;381;Defeito na via;2007;0
+07/01/2007;Domingo;SC;101;Dormindo;2007;0
+06/01/2007;S�bado;MG;381;Falta de aten��o;2007;0
+06/01/2007;S�bado;MG;40;Falta de aten��o;2007;0
+06/01/2007;S�bado;RS;158;Falta de aten��o;2007;0
+06/01/2007;S�bado;MG;116;Defeito na via;2007;0
+02/01/2007;Ter�a;MG;381;Velocidade incompat�vel;2007;0
+06/01/2007;S�bado;SP;101;Defeito mec�nico em ve�culo;2007;0
+06/01/2007;S�bado;GO;153;Velocidade incompat�vel;2007;0
+06/01/2007;S�bado;MG;354;Outras;2007;0
+07/01/2007;Domingo;RS;386;Velocidade incompat�vel;2007;0
+06/01/2007;S�bado;MG;50;Ultrapassagem indevida;2007;0
+06/01/2007;S�bado;ES;101;Falta de aten��o;2007;0
+06/01/2007;S�bado;SC;101;Outras;2007;0
+06/01/2007;S�bado;PE;101;Falta de aten��o;2007;0
+06/01/2007;S�bado;SC;282;Velocidade incompat�vel;2007;0
+07/01/2007;Domingo;SP;116;Defeito mec�nico em ve�culo;2007;0
+06/01/2007;S�bado;RS;116;Velocidade incompat�vel;2007;0
+06/01/2007;S�bado;SC;470;Falta de aten��o;2007;0
+06/01/2007;S�bado;BA;116;Falta de aten��o;2007;0
+04/01/2007;Quinta;SP;116;Falta de aten��o;2007;0
+06/01/2007;S�bado;MG;365;Outras;2007;0
+07/01/2007;Domingo;ES;262;Outras;2007;0
+07/01/2007;Domingo;SP;116;Outras;2007;1
+07/01/2007;Domingo;SC;101;Falta de aten��o;2007;0
+06/01/2007;S�bado;BA;101;Outras;2007;0
+02/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+06/01/2007;S�bado;MS;163;Falta de aten��o;2007;0
+05/01/2007;Sexta;MG;251;Outras;2007;0
+06/01/2007;S�bado;MG;381;Ultrapassagem indevida;2007;0
+06/01/2007;S�bado;TO;153;Outras;2007;1
+06/01/2007;S�bado;RS;116;Falta de aten��o;2007;0
+07/01/2007;Domingo;RS;285;Outras;2007;0
+06/01/2007;S�bado;MA;10;Falta de aten��o;2007;0
+06/01/2007;S�bado;SP;116;Outras;2007;0
+06/01/2007;S�bado;SC;101;Desobedi�ncia � sinaliza��o;2007;0
+07/01/2007;Domingo;SP;116;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+06/01/2007;S�bado;MT;364;Outras;2007;3
+01/01/2007;Segunda;GO;414;Outras;2007;0
+06/01/2007;S�bado;PR;476;Desobedi�ncia � sinaliza��o;2007;0
+07/01/2007;Domingo;MG;267;Defeito na via;2007;0
+05/01/2007;Sexta;MG;381;Falta de aten��o;2007;0
+07/01/2007;Domingo;MG;116;Outras;2007;0
+07/01/2007;Domingo;SE;101;Outras;2007;0
+06/01/2007;S�bado;MG;40;Defeito mec�nico em ve�culo;2007;0
+07/01/2007;Domingo;SP;116;Falta de aten��o;2007;0
+06/01/2007;S�bado;MG;50;Falta de aten��o;2007;0
+07/01/2007;Domingo;ES;101;Falta de aten��o;2007;0
+07/01/2007;Domingo;RS;101;Outras;2007;0
+03/01/2007;Quarta;MG;365;Outras;2007;0
+03/01/2007;Quarta;CE;116;Outras;2007;0
+07/01/2007;Domingo;RO;364;Desobedi�ncia � sinaliza��o;2007;0
+04/01/2007;Quinta;RS;116;Outras;2007;0
+05/01/2007;Sexta;SP;381;Outras;2007;0
+07/01/2007;Domingo;BA;242;Outras;2007;0
+06/01/2007;S�bado;RR;401;Desobedi�ncia � sinaliza��o;2007;0
+06/01/2007;S�bado;PA;316;Outras;2007;0
+07/01/2007;Domingo;SC;282;Outras;2007;0
+03/01/2007;Quarta;PR;277;Falta de aten��o;2007;0
+03/01/2007;Quarta;RN;226;Outras;2007;0
+03/01/2007;Quarta;GO;153;Outras;2007;0
+06/01/2007;S�bado;SE;101;N�o guardar dist�ncia de seguran�a;2007;0
+06/01/2007;S�bado;AC;364;Defeito na via;2007;0
+03/01/2007;Quarta;MG;381;Outras;2007;0
+06/01/2007;S�bado;MG;153;Defeito na via;2007;0
+03/01/2007;Quarta;CE;116;Outras;2007;0
+07/01/2007;Domingo;BA;116;Falta de aten��o;2007;0
+03/01/2007;Quarta;MG;40;Velocidade incompat�vel;2007;0
+06/01/2007;S�bado;MG;381;Outras;2007;0
+01/01/2007;Segunda;DF;40;Defeito na via;2007;0
+06/01/2007;S�bado;SP;116;Outras;2007;0
+03/01/2007;Quarta;MG;40;Defeito na via;2007;0
+07/01/2007;Domingo;SC;101;Outras;2007;0
+05/01/2007;Sexta;SE;101;Defeito na via;2007;0
+05/01/2007;Sexta;RS;116;Falta de aten��o;2007;0
+06/01/2007;S�bado;BA;135;Defeito na via;2007;0
+07/01/2007;Domingo;RS;290;Falta de aten��o;2007;0
+03/01/2007;Quarta;MG;116;Falta de aten��o;2007;0
+07/01/2007;Domingo;GO;40;Ingest�o de �lcool;2007;0
+07/01/2007;Domingo;SC;101;Falta de aten��o;2007;0
+04/01/2007;Quinta;RS;293;Velocidade incompat�vel;2007;0
+03/01/2007;Quarta;MG;40;Defeito na via;2007;0
+03/01/2007;Quarta;MG;40;Defeito na via;2007;0
+06/01/2007;S�bado;RJ;393;Outras;2007;0
+07/01/2007;Domingo;CE;20;Outras;2007;0
+07/01/2007;Domingo;GO;20;Falta de aten��o;2007;0
+04/01/2007;Quinta;SP;116;Outras;2007;0
+07/01/2007;Domingo;AP;210;Falta de aten��o;2007;0
+03/01/2007;Quarta;MG;40;Defeito na via;2007;0
+03/01/2007;Quarta;PE;232;Falta de aten��o;2007;0
+03/01/2007;Quarta;RJ;116;Outras;2007;0
+07/01/2007;Domingo;GO;158;Dormindo;2007;0
+07/01/2007;Domingo;SC;101;Falta de aten��o;2007;1
+07/01/2007;Domingo;SP;116;Outras;2007;0
+06/01/2007;S�bado;PI;230;Outras;2007;0
+04/01/2007;Quinta;SP;116;Outras;2007;0
+01/01/2007;Segunda;MG;40;Outras;2007;0
+07/01/2007;Domingo;SC;470;Falta de aten��o;2007;0
+07/01/2007;Domingo;MG;267;N�o guardar dist�ncia de seguran�a;2007;0
+07/01/2007;Domingo;SP;116;Dormindo;2007;0
+07/01/2007;Domingo;PE;408;Falta de aten��o;2007;0
+07/01/2007;Domingo;SC;470;Falta de aten��o;2007;0
+07/01/2007;Domingo;SC;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;381;Falta de aten��o;2007;0
+07/01/2007;Domingo;SC;101;Falta de aten��o;2007;0
+07/01/2007;Domingo;ES;101;Falta de aten��o;2007;0
+07/01/2007;Domingo;SC;101;Outras;2007;0
+07/01/2007;Domingo;PR;376;Falta de aten��o;2007;0
+02/01/2007;Ter�a;GO;20;Outras;2007;0
+07/01/2007;Domingo;RJ;493;N�o guardar dist�ncia de seguran�a;2007;0
+07/01/2007;Domingo;MG;50;Outras;2007;0
+07/01/2007;Domingo;MG;153;Outras;2007;0
+07/01/2007;Domingo;SC;101;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+07/01/2007;Domingo;PA;316;Outras;2007;0
+04/01/2007;Quinta;MG;381;Outras;2007;0
+07/01/2007;Domingo;PB;230;N�o guardar dist�ncia de seguran�a;2007;0
+07/01/2007;Domingo;MG;116;Animais na Pista;2007;0
+07/01/2007;Domingo;MG;50;Falta de aten��o;2007;0
+05/01/2007;Sexta;RS;116;Falta de aten��o;2007;0
+07/01/2007;Domingo;MG;381;Outras;2007;0
+04/01/2007;Quinta;MG;381;Falta de aten��o;2007;0
+07/01/2007;Domingo;RJ;116;Outras;2007;0
+04/01/2007;Quinta;RJ;116;Outras;2007;0
+07/01/2007;Domingo;RS;116;Falta de aten��o;2007;0
+07/01/2007;Domingo;MA;135;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;MG;381;Falta de aten��o;2007;0
+03/01/2007;Quarta;RN;101;Desobedi�ncia � sinaliza��o;2007;0
+03/01/2007;Quarta;RJ;393;Outras;2007;0
+07/01/2007;Domingo;PE;101;Ultrapassagem indevida;2007;0
+03/01/2007;Quarta;RJ;393;Outras;2007;0
+03/01/2007;Quarta;MG;381;Falta de aten��o;2007;0
+04/01/2007;Quinta;RJ;116;Outras;2007;0
+05/01/2007;Sexta;PR;376;Velocidade incompat�vel;2007;0
+07/01/2007;Domingo;RN;101;Desobedi�ncia � sinaliza��o;2007;0
+07/01/2007;Domingo;RN;101;Desobedi�ncia � sinaliza��o;2007;0
+07/01/2007;Domingo;PR;277;Outras;2007;0
+02/01/2007;Ter�a;MG;381;N�o guardar dist�ncia de seguran�a;2007;0
+07/01/2007;Domingo;PB;230;Falta de aten��o;2007;0
+07/01/2007;Domingo;PI;343;Falta de aten��o;2007;0
+07/01/2007;Domingo;PR;469;Falta de aten��o;2007;0
+03/01/2007;Quarta;MG;40;Defeito na via;2007;0
+07/01/2007;Domingo;PA;163;Falta de aten��o;2007;0
+03/01/2007;Quarta;RN;101;Desobedi�ncia � sinaliza��o;2007;0
+07/01/2007;Domingo;MG;381;Defeito mec�nico em ve�culo;2007;0
+06/01/2007;S�bado;BA;242;Outras;2007;0
+04/01/2007;Quinta;PR;116;Velocidade incompat�vel;2007;0
+07/01/2007;Domingo;ES;262;Outras;2007;0
+07/01/2007;Domingo;MG;153;Defeito na via;2007;0
+07/01/2007;Domingo;PR;469;Defeito mec�nico em ve�culo;2007;0
+07/01/2007;Domingo;RJ;116;Falta de aten��o;2007;0
+03/01/2007;Quarta;MG;262;Falta de aten��o;2007;0
+04/01/2007;Quinta;PR;116;Falta de aten��o;2007;0
+07/01/2007;Domingo;MS;262;Falta de aten��o;2007;0
+07/01/2007;Domingo;MG;365;Defeito na via;2007;0
+07/01/2007;Domingo;RS;386;Velocidade incompat�vel;2007;0
+07/01/2007;Domingo;MG;267;Defeito na via;2007;0
+07/01/2007;Domingo;MG;50;Falta de aten��o;2007;0
+03/01/2007;Quarta;MG;381;Falta de aten��o;2007;0
+07/01/2007;Domingo;MT;364;Outras;2007;0
+07/01/2007;Domingo;MG;40;Outras;2007;0
+07/01/2007;Domingo;RO;364;Falta de aten��o;2007;0
+07/01/2007;Domingo;SC;280;Falta de aten��o;2007;0
+07/01/2007;Domingo;SP;153;Outras;2007;0
+07/01/2007;Domingo;MG;40;Outras;2007;0
+07/01/2007;Domingo;MG;381;Falta de aten��o;2007;0
+07/01/2007;Domingo;RJ;116;Dormindo;2007;0
+07/01/2007;Domingo;MG;365;Outras;2007;0
+07/01/2007;Domingo;MS;463;Falta de aten��o;2007;0
+07/01/2007;Domingo;RS;285;Falta de aten��o;2007;0
+07/01/2007;Domingo;RS;116;Animais na Pista;2007;0
+07/01/2007;Domingo;PR;277;Outras;2007;0
+07/01/2007;Domingo;RS;116;Desobedi�ncia � sinaliza��o;2007;0
+07/01/2007;Domingo;MG;262;N�o guardar dist�ncia de seguran�a;2007;0
+07/01/2007;Domingo;SC;101;Falta de aten��o;2007;0
+07/01/2007;Domingo;SC;282;Outras;2007;0
+07/01/2007;Domingo;MG;40;Falta de aten��o;2007;0
+06/01/2007;S�bado;MG;381;Velocidade incompat�vel;2007;0
+07/01/2007;Domingo;MG;381;Outras;2007;0
+07/01/2007;Domingo;SC;470;Falta de aten��o;2007;0
+07/01/2007;Domingo;MG;40;Ingest�o de �lcool;2007;0
+07/01/2007;Domingo;MS;262;Falta de aten��o;2007;0
+07/01/2007;Domingo;SP;101;Outras;2007;0
+07/01/2007;Domingo;SC;470;N�o guardar dist�ncia de seguran�a;2007;0
+07/01/2007;Domingo;SP;153;Outras;2007;0
+07/01/2007;Domingo;MG;262;Falta de aten��o;2007;0
+07/01/2007;Domingo;RJ;116;Falta de aten��o;2007;0
+06/01/2007;S�bado;MG;381;Defeito na via;2007;0
+07/01/2007;Domingo;RS;392;Outras;2007;0
+07/01/2007;Domingo;RS;158;N�o guardar dist�ncia de seguran�a;2007;0
+07/01/2007;Domingo;MG;381;Outras;2007;0
+07/01/2007;Domingo;RS;290;Falta de aten��o;2007;0
+07/01/2007;Domingo;DF;20;Outras;2007;0
+06/01/2007;S�bado;SP;116;Outras;2007;0
+07/01/2007;Domingo;MG;381;Outras;2007;0
+07/01/2007;Domingo;RS;116;Outras;2007;0
+07/01/2007;Domingo;SC;101;N�o guardar dist�ncia de seguran�a;2007;0
+07/01/2007;Domingo;SC;282;Falta de aten��o;2007;0
+07/01/2007;Domingo;BA;101;Outras;2007;0
+07/01/2007;Domingo;RS;285;Falta de aten��o;2007;0
+07/01/2007;Domingo;PR;277;Falta de aten��o;2007;0
+07/01/2007;Domingo;SC;470;N�o guardar dist�ncia de seguran�a;2007;0
+07/01/2007;Domingo;BA;242;N�o guardar dist�ncia de seguran�a;2007;0
+07/01/2007;Domingo;SP;116;Outras;2007;0
+07/01/2007;Domingo;SC;101;Falta de aten��o;2007;0
+07/01/2007;Domingo;PB;230;Animais na Pista;2007;0
+07/01/2007;Domingo;MG;40;Falta de aten��o;2007;0
+03/01/2007;Quarta;MG;381;Outras;2007;0
+07/01/2007;Domingo;AM;174;Defeito na via;2007;0
+07/01/2007;Domingo;SC;101;Falta de aten��o;2007;0
+07/01/2007;Domingo;PE;101;Falta de aten��o;2007;0
+07/01/2007;Domingo;RO;364;Outras;2007;0
+07/01/2007;Domingo;SC;282;Falta de aten��o;2007;0
+07/01/2007;Domingo;SC;470;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;RJ;116;Velocidade incompat�vel;2007;0
+07/01/2007;Domingo;PA;316;Falta de aten��o;2007;0
+07/01/2007;Domingo;RN;101;Falta de aten��o;2007;0
+07/01/2007;Domingo;SP;488;Outras;2007;0
+04/01/2007;Quinta;BA;101;Falta de aten��o;2007;0
+07/01/2007;Domingo;RS;101;Falta de aten��o;2007;0
+07/01/2007;Domingo;MS;163;Outras;2007;0
+05/01/2007;Sexta;PE;104;Falta de aten��o;2007;0
+01/01/2007;Segunda;MG;381;Outras;2007;0
+07/01/2007;Domingo;BA;20;Falta de aten��o;2007;0
+07/01/2007;Domingo;SC;470;Falta de aten��o;2007;0
+07/01/2007;Domingo;PA;10;Velocidade incompat�vel;2007;0
+04/01/2007;Quinta;PR;476;Outras;2007;0
+07/01/2007;Domingo;SC;101;N�o guardar dist�ncia de seguran�a;2007;0
+07/01/2007;Domingo;PR;376;Falta de aten��o;2007;0
+07/01/2007;Domingo;SC;282;Falta de aten��o;2007;0
+06/01/2007;S�bado;MG;381;Outras;2007;0
+07/01/2007;Domingo;MG;40;Outras;2007;0
+07/01/2007;Domingo;DF;60;Outras;2007;0
+07/01/2007;Domingo;SP;116;Outras;2007;0
+07/01/2007;Domingo;SE;101;Dormindo;2007;0
+07/01/2007;Domingo;SC;101;Falta de aten��o;2007;0
+07/01/2007;Domingo;PI;343;Falta de aten��o;2007;0
+07/01/2007;Domingo;SE;101;Falta de aten��o;2007;0
+07/01/2007;Domingo;MS;267;N�o guardar dist�ncia de seguran�a;2007;0
+07/01/2007;Domingo;SC;280;Falta de aten��o;2007;0
+07/01/2007;Domingo;ES;101;Falta de aten��o;2007;0
+07/01/2007;Domingo;MT;364;Outras;2007;0
+03/01/2007;Quarta;CE;116;Falta de aten��o;2007;0
+07/01/2007;Domingo;SP;116;Outras;2007;0
+03/01/2007;Quarta;CE;222;Outras;2007;0
+06/01/2007;S�bado;MG;381;Outras;2007;0
+07/01/2007;Domingo;BA;116;Ultrapassagem indevida;2007;1
+04/01/2007;Quinta;MG;40;Falta de aten��o;2007;0
+07/01/2007;Domingo;MA;316;Animais na Pista;2007;0
+07/01/2007;Domingo;PB;104;Animais na Pista;2007;0
+07/01/2007;Domingo;MG;365;Falta de aten��o;2007;0
+07/01/2007;Domingo;SP;116;N�o guardar dist�ncia de seguran�a;2007;0
+03/01/2007;Quarta;RJ;493;Outras;2007;0
+07/01/2007;Domingo;SC;101;Falta de aten��o;2007;0
+07/01/2007;Domingo;SP;116;Falta de aten��o;2007;0
+07/01/2007;Domingo;BA;101;Outras;2007;0
+07/01/2007;Domingo;DF;60;Outras;2007;0
+07/01/2007;Domingo;BA;324;Outras;2007;0
+07/01/2007;Domingo;SC;101;N�o guardar dist�ncia de seguran�a;2007;0
+07/01/2007;Domingo;PB;101;Outras;2007;0
+07/01/2007;Domingo;PI;316;Outras;2007;0
+07/01/2007;Domingo;RS;158;Velocidade incompat�vel;2007;1
+07/01/2007;Domingo;SC;101;Outras;2007;0
+07/01/2007;Domingo;SP;153;Defeito na via;2007;0
+07/01/2007;Domingo;MG;40;Outras;2007;0
+03/01/2007;Quarta;GO;414;Outras;2007;0
+07/01/2007;Domingo;TO;153;Outras;2007;0
+07/01/2007;Domingo;MG;381;Outras;2007;0
+07/01/2007;Domingo;MS;267;Outras;2007;0
+07/01/2007;Domingo;BA;101;Dormindo;2007;0
+07/01/2007;Domingo;SP;116;Outras;2007;0
+07/01/2007;Domingo;SP;116;Desobedi�ncia � sinaliza��o;2007;0
+07/01/2007;Domingo;BA;242;Velocidade incompat�vel;2007;0
+07/01/2007;Domingo;DF;70;Outras;2007;0
+07/01/2007;Domingo;MG;262;Ingest�o de �lcool;2007;0
+07/01/2007;Domingo;ES;101;Ingest�o de �lcool;2007;0
+06/01/2007;S�bado;RS;116;Falta de aten��o;2007;0
+07/01/2007;Domingo;MA;222;Velocidade incompat�vel;2007;1
+08/01/2007;Segunda;RS;290;Dormindo;2007;0
+07/01/2007;Domingo;BA;101;Outras;2007;0
+08/01/2007;Segunda;PA;316;Falta de aten��o;2007;0
+08/01/2007;Segunda;PB;101;Dormindo;2007;0
+07/01/2007;Domingo;PA;316;Ingest�o de �lcool;2007;0
+07/01/2007;Domingo;MG;262;Outras;2007;0
+07/01/2007;Domingo;GO;364;Falta de aten��o;2007;0
+07/01/2007;Domingo;GO;60;Falta de aten��o;2007;0
+07/01/2007;Domingo;RN;101;Falta de aten��o;2007;0
+07/01/2007;Domingo;AL;101;Falta de aten��o;2007;0
+08/01/2007;Segunda;TO;153;Defeito na via;2007;0
+07/01/2007;Domingo;ES;262;Falta de aten��o;2007;0
+07/01/2007;Domingo;SE;101;Falta de aten��o;2007;0
+08/01/2007;Segunda;MG;381;Outras;2007;0
+03/01/2007;Quarta;MG;381;Falta de aten��o;2007;0
+08/01/2007;Segunda;SC;470;Velocidade incompat�vel;2007;0
+07/01/2007;Domingo;GO;60;Falta de aten��o;2007;0
+03/01/2007;Quarta;RN;101;N�o guardar dist�ncia de seguran�a;2007;0
+07/01/2007;Domingo;ES;262;N�o guardar dist�ncia de seguran�a;2007;0
+07/01/2007;Domingo;AL;101;Defeito mec�nico em ve�culo;2007;0
+08/01/2007;Segunda;SC;470;Falta de aten��o;2007;0
+08/01/2007;Segunda;AL;104;Ingest�o de �lcool;2007;0
+08/01/2007;Segunda;GO;20;Falta de aten��o;2007;0
+07/01/2007;Domingo;RS;116;Dormindo;2007;0
+06/01/2007;S�bado;RJ;40;Outras;2007;0
+08/01/2007;Segunda;SP;381;Defeito mec�nico em ve�culo;2007;0
+07/01/2007;Domingo;PI;316;Falta de aten��o;2007;1
+03/01/2007;Quarta;MG;381;Outras;2007;0
+05/01/2007;Sexta;SP;116;Falta de aten��o;2007;0
+06/01/2007;S�bado;MG;459;Outras;2007;0
+05/01/2007;Sexta;GO;40;Falta de aten��o;2007;0
+04/01/2007;Quinta;RJ;101;Outras;2007;0
+08/01/2007;Segunda;MA;316;Dormindo;2007;0
+07/01/2007;Domingo;PR;277;Dormindo;2007;0
+07/01/2007;Domingo;RJ;393;Outras;2007;0
+06/01/2007;S�bado;RJ;393;Falta de aten��o;2007;0
+04/01/2007;Quinta;MG;262;Velocidade incompat�vel;2007;1
+02/01/2007;Ter�a;RS;290;Velocidade incompat�vel;2007;0
+03/01/2007;Quarta;RJ;101;Outras;2007;0
+08/01/2007;Segunda;RS;287;Falta de aten��o;2007;0
+07/01/2007;Domingo;SP;116;Outras;2007;0
+08/01/2007;Segunda;PR;277;Falta de aten��o;2007;0
+08/01/2007;Segunda;PB;230;Outras;2007;0
+08/01/2007;Segunda;RS;290;Defeito mec�nico em ve�culo;2007;0
+04/01/2007;Quinta;PE;101;N�o guardar dist�ncia de seguran�a;2007;0
+05/01/2007;Sexta;MG;262;Outras;2007;0
+07/01/2007;Domingo;RJ;116;Outras;2007;0
+06/01/2007;S�bado;MS;163;Falta de aten��o;2007;0
+08/01/2007;Segunda;RO;319;Ingest�o de �lcool;2007;0
+07/01/2007;Domingo;MT;174;Outras;2007;0
+08/01/2007;Segunda;BA;101;Outras;2007;0
+01/01/2007;Segunda;RJ;101;Outras;2007;0
+08/01/2007;Segunda;PR;277;Falta de aten��o;2007;0
+06/01/2007;S�bado;RJ;393;Falta de aten��o;2007;0
+04/01/2007;Quinta;MG;135;Defeito mec�nico em ve�culo;2007;0
+07/01/2007;Domingo;RJ;116;Outras;2007;0
+08/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+06/01/2007;S�bado;MG;251;Animais na Pista;2007;0
+06/01/2007;S�bado;MG;251;Dormindo;2007;0
+05/01/2007;Sexta;RN;101;Falta de aten��o;2007;0
+08/01/2007;Segunda;PB;230;Animais na Pista;2007;0
+05/01/2007;Sexta;SP;116;Falta de aten��o;2007;0
+04/01/2007;Quinta;PE;101;Velocidade incompat�vel;2007;0
+05/01/2007;Sexta;MG;116;Falta de aten��o;2007;0
+05/01/2007;Sexta;RN;101;Falta de aten��o;2007;0
+05/01/2007;Sexta;PA;316;Falta de aten��o;2007;0
+06/01/2007;S�bado;RS;290;Outras;2007;0
+08/01/2007;Segunda;GO;50;Defeito mec�nico em ve�culo;2007;0
+07/01/2007;Domingo;MS;262;Outras;2007;0
+07/01/2007;Domingo;SP;153;Defeito na via;2007;0
+07/01/2007;Domingo;RN;304;Falta de aten��o;2007;0
+07/01/2007;Domingo;CE;20;Animais na Pista;2007;0
+08/01/2007;Segunda;SE;101;Falta de aten��o;2007;0
+04/01/2007;Quinta;PA;316;Falta de aten��o;2007;0
+06/01/2007;S�bado;SP;116;Falta de aten��o;2007;0
+07/01/2007;Domingo;PI;316;Falta de aten��o;2007;0
+07/01/2007;Domingo;PI;230;Animais na Pista;2007;0
+08/01/2007;Segunda;PR;277;Falta de aten��o;2007;0
+06/01/2007;S�bado;MG;381;Ultrapassagem indevida;2007;0
+08/01/2007;Segunda;SP;116;Defeito mec�nico em ve�culo;2007;0
+08/01/2007;Segunda;GO;153;Outras;2007;0
+08/01/2007;Segunda;RS;116;N�o guardar dist�ncia de seguran�a;2007;0
+08/01/2007;Segunda;PR;277;Falta de aten��o;2007;0
+05/01/2007;Sexta;RJ;116;Falta de aten��o;2007;0
+06/01/2007;S�bado;TO;153;Outras;2007;0
+08/01/2007;Segunda;BA;101;Outras;2007;0
+02/01/2007;Ter�a;PB;230;Falta de aten��o;2007;0
+05/01/2007;Sexta;RJ;116;Dormindo;2007;0
+06/01/2007;S�bado;MG;135;Outras;2007;0
+07/01/2007;Domingo;MG;381;Falta de aten��o;2007;0
+05/01/2007;Sexta;PE;423;Outras;2007;0
+07/01/2007;Domingo;PE;424;Falta de aten��o;2007;0
+08/01/2007;Segunda;MG;116;Falta de aten��o;2007;0
+08/01/2007;Segunda;GO;60;Falta de aten��o;2007;0
+08/01/2007;Segunda;RS;386;Falta de aten��o;2007;0
+08/01/2007;Segunda;SC;280;Falta de aten��o;2007;0
+04/01/2007;Quinta;MG;381;Outras;2007;0
+04/01/2007;Quinta;RJ;101;Outras;2007;0
+08/01/2007;Segunda;MT;158;Outras;2007;0
+08/01/2007;Segunda;SP;101;Falta de aten��o;2007;0
+06/01/2007;S�bado;MG;381;Velocidade incompat�vel;2007;0
+05/01/2007;Sexta;RS;386;Falta de aten��o;2007;0
+08/01/2007;Segunda;PE;116;Defeito mec�nico em ve�culo;2007;0
+08/01/2007;Segunda;AL;101;Outras;2007;0
+04/01/2007;Quinta;MS;163;Falta de aten��o;2007;0
+08/01/2007;Segunda;RS;116;Falta de aten��o;2007;0
+08/01/2007;Segunda;ES;262;Outras;2007;0
+08/01/2007;Segunda;BA;110;Defeito mec�nico em ve�culo;2007;0
+05/01/2007;Sexta;RJ;116;Falta de aten��o;2007;0
+08/01/2007;Segunda;ES;101;Outras;2007;0
+08/01/2007;Segunda;SC;282;Falta de aten��o;2007;0
+08/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+08/01/2007;Segunda;RJ;116;Defeito mec�nico em ve�culo;2007;0
+08/01/2007;Segunda;SP;116;Outras;2007;0
+08/01/2007;Segunda;MG;364;Velocidade incompat�vel;2007;0
+08/01/2007;Segunda;SP;116;Outras;2007;0
+07/01/2007;Domingo;SP;116;Falta de aten��o;2007;0
+07/01/2007;Domingo;RJ;101;Outras;2007;0
+08/01/2007;Segunda;RS;158;Falta de aten��o;2007;0
+08/01/2007;Segunda;SP;116;Falta de aten��o;2007;0
+01/01/2007;Segunda;CE;222;Desobedi�ncia � sinaliza��o;2007;0
+08/01/2007;Segunda;RS;386;Falta de aten��o;2007;0
+08/01/2007;Segunda;BA;116;Outras;2007;0
+08/01/2007;Segunda;SC;470;Falta de aten��o;2007;0
+08/01/2007;Segunda;PE;232;Falta de aten��o;2007;0
+08/01/2007;Segunda;MA;222;Falta de aten��o;2007;0
+08/01/2007;Segunda;SC;470;Falta de aten��o;2007;0
+08/01/2007;Segunda;PI;343;Falta de aten��o;2007;0
+04/01/2007;Quinta;ES;262;Outras;2007;0
+08/01/2007;Segunda;MG;381;Outras;2007;0
+04/01/2007;Quinta;SC;101;Desobedi�ncia � sinaliza��o;2007;0
+08/01/2007;Segunda;RN;101;Falta de aten��o;2007;0
+05/01/2007;Sexta;SP;116;Outras;2007;0
+08/01/2007;Segunda;PA;316;N�o guardar dist�ncia de seguran�a;2007;0
+07/01/2007;Domingo;PE;232;Defeito mec�nico em ve�culo;2007;0
+08/01/2007;Segunda;PR;277;Falta de aten��o;2007;0
+08/01/2007;Segunda;BA;324;Outras;2007;0
+06/01/2007;S�bado;PE;101;Falta de aten��o;2007;0
+06/01/2007;S�bado;GO;153;Ingest�o de �lcool;2007;0
+07/01/2007;Domingo;MA;135;Outras;2007;0
+08/01/2007;Segunda;MG;381;Outras;2007;0
+06/01/2007;S�bado;GO;60;Outras;2007;0
+08/01/2007;Segunda;MG;381;Outras;2007;0
+08/01/2007;Segunda;RN;101;Outras;2007;0
+08/01/2007;Segunda;SC;470;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SP;116;Falta de aten��o;2007;0
+08/01/2007;Segunda;SP;116;Outras;2007;0
+08/01/2007;Segunda;BA;101;Falta de aten��o;2007;0
+08/01/2007;Segunda;MG;40;Outras;2007;0
+08/01/2007;Segunda;GO;20;Velocidade incompat�vel;2007;0
+06/01/2007;S�bado;RJ;116;Outras;2007;0
+07/01/2007;Domingo;MG;365;Defeito na via;2007;0
+08/01/2007;Segunda;RS;386;Desobedi�ncia � sinaliza��o;2007;0
+08/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+08/01/2007;Segunda;RS;285;Outras;2007;0
+08/01/2007;Segunda;SC;280;Falta de aten��o;2007;0
+08/01/2007;Segunda;RS;472;N�o guardar dist�ncia de seguran�a;2007;0
+08/01/2007;Segunda;MS;262;Falta de aten��o;2007;0
+08/01/2007;Segunda;GO;50;Defeito mec�nico em ve�culo;2007;0
+08/01/2007;Segunda;DF;40;Defeito mec�nico em ve�culo;2007;0
+08/01/2007;Segunda;RO;364;Falta de aten��o;2007;0
+08/01/2007;Segunda;MG;116;Defeito na via;2007;0
+08/01/2007;Segunda;PB;230;Falta de aten��o;2007;0
+07/01/2007;Domingo;DF;20;Outras;2007;0
+08/01/2007;Segunda;MT;364;N�o guardar dist�ncia de seguran�a;2007;0
+08/01/2007;Segunda;RS;285;N�o guardar dist�ncia de seguran�a;2007;0
+08/01/2007;Segunda;MG;381;Outras;2007;0
+04/01/2007;Quinta;RJ;393;N�o guardar dist�ncia de seguran�a;2007;0
+08/01/2007;Segunda;RS;290;Outras;2007;0
+08/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+08/01/2007;Segunda;BA;324;Outras;2007;0
+08/01/2007;Segunda;SC;280;Defeito mec�nico em ve�culo;2007;0
+04/01/2007;Quinta;MG;381;Outras;2007;0
+08/01/2007;Segunda;GO;40;Outras;2007;0
+08/01/2007;Segunda;RN;101;Falta de aten��o;2007;0
+08/01/2007;Segunda;PE;101;Outras;2007;0
+08/01/2007;Segunda;RS;392;Falta de aten��o;2007;0
+04/01/2007;Quinta;RJ;101;Falta de aten��o;2007;0
+08/01/2007;Segunda;BA;116;Outras;2007;0
+07/01/2007;Domingo;MG;381;Outras;2007;0
+08/01/2007;Segunda;SP;116;Outras;2007;0
+08/01/2007;Segunda;PA;316;Desobedi�ncia � sinaliza��o;2007;0
+08/01/2007;Segunda;SP;381;Falta de aten��o;2007;0
+05/01/2007;Sexta;CE;222;N�o guardar dist�ncia de seguran�a;2007;0
+08/01/2007;Segunda;SP;116;N�o guardar dist�ncia de seguran�a;2007;0
+08/01/2007;Segunda;MA;316;Falta de aten��o;2007;0
+08/01/2007;Segunda;RJ;101;Outras;2007;0
+08/01/2007;Segunda;DF;40;Outras;2007;0
+08/01/2007;Segunda;RJ;116;N�o guardar dist�ncia de seguran�a;2007;0
+08/01/2007;Segunda;SC;470;Falta de aten��o;2007;0
+08/01/2007;Segunda;SC;282;Falta de aten��o;2007;0
+08/01/2007;Segunda;SC;101;Outras;2007;0
+08/01/2007;Segunda;MG;40;Outras;2007;0
+08/01/2007;Segunda;SP;116;Outras;2007;0
+08/01/2007;Segunda;SP;153;Falta de aten��o;2007;0
+08/01/2007;Segunda;RO;364;Falta de aten��o;2007;0
+08/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+08/01/2007;Segunda;SP;153;Velocidade incompat�vel;2007;0
+08/01/2007;Segunda;SP;116;Outras;2007;0
+08/01/2007;Segunda;SC;101;Velocidade incompat�vel;2007;0
+08/01/2007;Segunda;PA;316;Falta de aten��o;2007;0
+08/01/2007;Segunda;RJ;116;Ultrapassagem indevida;2007;0
+08/01/2007;Segunda;PR;116;Outras;2007;0
+08/01/2007;Segunda;MT;174;Falta de aten��o;2007;0
+08/01/2007;Segunda;RO;364;Ingest�o de �lcool;2007;0
+08/01/2007;Segunda;MA;10;Outras;2007;0
+08/01/2007;Segunda;ES;101;Desobedi�ncia � sinaliza��o;2007;0
+08/01/2007;Segunda;GO;40;Falta de aten��o;2007;0
+08/01/2007;Segunda;ES;101;Falta de aten��o;2007;0
+06/01/2007;S�bado;MG;40;Defeito mec�nico em ve�culo;2007;0
+08/01/2007;Segunda;PR;277;Falta de aten��o;2007;0
+08/01/2007;Segunda;PR;277;Falta de aten��o;2007;0
+08/01/2007;Segunda;RS;386;Falta de aten��o;2007;0
+08/01/2007;Segunda;PA;10;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;PE;232;Falta de aten��o;2007;0
+05/01/2007;Sexta;SP;116;Velocidade incompat�vel;2007;0
+05/01/2007;Sexta;GO;153;Falta de aten��o;2007;0
+08/01/2007;Segunda;PR;476;Falta de aten��o;2007;0
+02/01/2007;Ter�a;SP;116;Falta de aten��o;2007;0
+08/01/2007;Segunda;SC;282;Falta de aten��o;2007;0
+02/01/2007;Ter�a;AL;110;Outras;2007;0
+08/01/2007;Segunda;SP;116;N�o guardar dist�ncia de seguran�a;2007;0
+08/01/2007;Segunda;BA;116;Outras;2007;0
+08/01/2007;Segunda;MG;381;Falta de aten��o;2007;0
+05/01/2007;Sexta;SP;116;Velocidade incompat�vel;2007;0
+08/01/2007;Segunda;RO;319;Falta de aten��o;2007;0
+08/01/2007;Segunda;RS;116;Ultrapassagem indevida;2007;0
+08/01/2007;Segunda;RS;471;Desobedi�ncia � sinaliza��o;2007;0
+08/01/2007;Segunda;MT;70;Outras;2007;0
+08/01/2007;Segunda;RJ;101;Outras;2007;0
+08/01/2007;Segunda;SC;163;N�o guardar dist�ncia de seguran�a;2007;0
+08/01/2007;Segunda;PR;277;Desobedi�ncia � sinaliza��o;2007;0
+04/01/2007;Quinta;MG;262;Outras;2007;0
+08/01/2007;Segunda;PA;316;N�o guardar dist�ncia de seguran�a;2007;0
+08/01/2007;Segunda;PE;428;Falta de aten��o;2007;0
+08/01/2007;Segunda;RJ;116;Outras;2007;0
+08/01/2007;Segunda;SP;116;Outras;2007;0
+07/01/2007;Domingo;AL;101;Ultrapassagem indevida;2007;0
+08/01/2007;Segunda;SC;282;Falta de aten��o;2007;0
+08/01/2007;Segunda;PE;101;Outras;2007;0
+08/01/2007;Segunda;MG;116;Outras;2007;0
+08/01/2007;Segunda;SP;116;Outras;2007;0
+08/01/2007;Segunda;MS;262;Falta de aten��o;2007;0
+06/01/2007;S�bado;SP;116;Outras;2007;0
+08/01/2007;Segunda;SE;101;Falta de aten��o;2007;0
+08/01/2007;Segunda;PR;116;Outras;2007;0
+08/01/2007;Segunda;MS;163;Outras;2007;0
+08/01/2007;Segunda;BA;101;Outras;2007;0
+08/01/2007;Segunda;SP;116;Animais na Pista;2007;0
+08/01/2007;Segunda;RJ;116;Defeito mec�nico em ve�culo;2007;0
+08/01/2007;Segunda;SC;282;Velocidade incompat�vel;2007;0
+08/01/2007;Segunda;SC;101;Falta de aten��o;2007;0
+08/01/2007;Segunda;BA;324;Falta de aten��o;2007;0
+08/01/2007;Segunda;PB;101;Animais na Pista;2007;0
+08/01/2007;Segunda;PE;407;Falta de aten��o;2007;0
+08/01/2007;Segunda;MG;381;Outras;2007;0
+08/01/2007;Segunda;BA;242;Outras;2007;0
+08/01/2007;Segunda;BA;324;Outras;2007;0
+08/01/2007;Segunda;MG;365;Outras;2007;0
+07/01/2007;Domingo;SP;381;Outras;2007;0
+08/01/2007;Segunda;RS;116;Falta de aten��o;2007;0
+07/01/2007;Domingo;AC;364;Velocidade incompat�vel;2007;0
+08/01/2007;Segunda;PA;316;Falta de aten��o;2007;0
+07/01/2007;Domingo;MG;381;Outras;2007;0
+08/01/2007;Segunda;ES;101;Falta de aten��o;2007;0
+08/01/2007;Segunda;BA;324;Outras;2007;0
+09/01/2007;Ter�a;SP;116;Outras;2007;0
+06/01/2007;S�bado;PE;101;N�o guardar dist�ncia de seguran�a;2007;0
+08/01/2007;Segunda;PA;316;N�o guardar dist�ncia de seguran�a;2007;0
+08/01/2007;Segunda;RJ;101;Defeito mec�nico em ve�culo;2007;0
+09/01/2007;Ter�a;MG;381;Falta de aten��o;2007;0
+09/01/2007;Ter�a;RS;386;Falta de aten��o;2007;0
+09/01/2007;Ter�a;PR;277;Falta de aten��o;2007;0
+08/01/2007;Segunda;PA;316;N�o guardar dist�ncia de seguran�a;2007;0
+08/01/2007;Segunda;MS;267;Dormindo;2007;0
+09/01/2007;Ter�a;MG;381;Outras;2007;0
+04/01/2007;Quinta;MG;381;Outras;2007;0
+08/01/2007;Segunda;BA;110;Ultrapassagem indevida;2007;0
+09/01/2007;Ter�a;SC;280;Falta de aten��o;2007;0
+08/01/2007;Segunda;SC;470;Outras;2007;0
+08/01/2007;Segunda;RJ;101;Outras;2007;1
+08/01/2007;Segunda;RN;101;Falta de aten��o;2007;0
+08/01/2007;Segunda;BA;324;Outras;2007;0
+08/01/2007;Segunda;SC;470;Ultrapassagem indevida;2007;0
+08/01/2007;Segunda;GO;40;Falta de aten��o;2007;0
+09/01/2007;Ter�a;MG;381;Falta de aten��o;2007;0
+09/01/2007;Ter�a;RS;290;Falta de aten��o;2007;0
+05/01/2007;Sexta;MG;116;Animais na Pista;2007;0
+08/01/2007;Segunda;SC;470;Falta de aten��o;2007;0
+08/01/2007;Segunda;MS;163;Outras;2007;0
+08/01/2007;Segunda;ES;262;Falta de aten��o;2007;0
+09/01/2007;Ter�a;SC;101;Outras;2007;0
+08/01/2007;Segunda;RO;364;Defeito mec�nico em ve�culo;2007;0
+08/01/2007;Segunda;RJ;101;Outras;2007;0
+08/01/2007;Segunda;SC;470;Falta de aten��o;2007;0
+09/01/2007;Ter�a;MG;381;Falta de aten��o;2007;0
+09/01/2007;Ter�a;MG;381;Falta de aten��o;2007;0
+08/01/2007;Segunda;ES;262;Falta de aten��o;2007;0
+08/01/2007;Segunda;RJ;101;Animais na Pista;2007;0
+06/01/2007;S�bado;MG;365;Outras;2007;1
+09/01/2007;Ter�a;SC;116;Outras;2007;1
+09/01/2007;Ter�a;SP;116;Falta de aten��o;2007;0
+08/01/2007;Segunda;RJ;101;Outras;2007;0
+08/01/2007;Segunda;ES;101;Falta de aten��o;2007;0
+09/01/2007;Ter�a;SP;116;Outras;2007;0
+09/01/2007;Ter�a;SC;470;Falta de aten��o;2007;0
+04/01/2007;Quinta;MG;381;Defeito mec�nico em ve�culo;2007;0
+09/01/2007;Ter�a;RS;285;Animais na Pista;2007;0
+09/01/2007;Ter�a;RS;158;Outras;2007;0
+07/01/2007;Domingo;PE;101;Falta de aten��o;2007;0
+08/01/2007;Segunda;RJ;116;N�o guardar dist�ncia de seguran�a;2007;0
+05/01/2007;Sexta;MG;381;Falta de aten��o;2007;0
+08/01/2007;Segunda;RS;153;Falta de aten��o;2007;0
+05/01/2007;Sexta;MG;50;Falta de aten��o;2007;0
+05/01/2007;Sexta;MG;40;Velocidade incompat�vel;2007;0
+08/01/2007;Segunda;RJ;393;Falta de aten��o;2007;0
+09/01/2007;Ter�a;SP;116;Dormindo;2007;0
+06/01/2007;S�bado;MG;381;Outras;2007;0
+03/01/2007;Quarta;SP;116;Falta de aten��o;2007;0
+05/01/2007;Sexta;GO;153;Outras;2007;0
+06/01/2007;S�bado;CE;116;Outras;2007;1
+06/01/2007;S�bado;MG;40;Outras;2007;0
+06/01/2007;S�bado;RJ;40;Velocidade incompat�vel;2007;0
+09/01/2007;Ter�a;MA;316;Animais na Pista;2007;0
+09/01/2007;Ter�a;BA;101;Falta de aten��o;2007;0
+08/01/2007;Segunda;PB;230;Falta de aten��o;2007;0
+05/01/2007;Sexta;MT;364;Velocidade incompat�vel;2007;0
+09/01/2007;Ter�a;PR;277;Falta de aten��o;2007;0
+06/01/2007;S�bado;PE;101;Outras;2007;0
+01/01/2007;Segunda;MG;381;Outras;2007;0
+02/01/2007;Ter�a;SP;116;Falta de aten��o;2007;0
+01/01/2007;Segunda;RJ;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;PA;316;Falta de aten��o;2007;0
+04/01/2007;Quinta;MG;135;Outras;2007;0
+07/01/2007;Domingo;MG;116;Falta de aten��o;2007;0
+06/01/2007;S�bado;SC;101;Ingest�o de �lcool;2007;0
+06/01/2007;S�bado;PE;101;Falta de aten��o;2007;0
+08/01/2007;Segunda;MG;135;Defeito na via;2007;0
+05/01/2007;Sexta;CE;116;Falta de aten��o;2007;0
+08/01/2007;Segunda;SP;116;Falta de aten��o;2007;0
+08/01/2007;Segunda;PA;316;Falta de aten��o;2007;0
+01/01/2007;Segunda;RJ;40;Outras;2007;0
+05/01/2007;Sexta;SC;101;N�o guardar dist�ncia de seguran�a;2007;0
+06/01/2007;S�bado;RJ;40;Falta de aten��o;2007;0
+06/01/2007;S�bado;RS;116;Outras;2007;0
+09/01/2007;Ter�a;BA;116;Falta de aten��o;2007;0
+01/01/2007;Segunda;RJ;101;Outras;2007;0
+06/01/2007;S�bado;PE;428;Defeito mec�nico em ve�culo;2007;0
+06/01/2007;S�bado;MG;40;Falta de aten��o;2007;0
+09/01/2007;Ter�a;SC;282;Falta de aten��o;2007;0
+05/01/2007;Sexta;MS;163;Velocidade incompat�vel;2007;0
+09/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+05/01/2007;Sexta;SC;101;Outras;2007;1
+09/01/2007;Ter�a;BA;101;Falta de aten��o;2007;0
+08/01/2007;Segunda;MG;116;Falta de aten��o;2007;0
+09/01/2007;Ter�a;RS;290;Dormindo;2007;0
+06/01/2007;S�bado;MG;50;Dormindo;2007;0
+01/01/2007;Segunda;RJ;40;Outras;2007;0
+06/01/2007;S�bado;SP;101;Outras;2007;0
+04/01/2007;Quinta;MG;381;Outras;2007;0
+06/01/2007;S�bado;RS;386;Velocidade incompat�vel;2007;0
+09/01/2007;Ter�a;PB;101;Animais na Pista;2007;0
+01/01/2007;Segunda;RJ;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;RJ;101;Outras;2007;0
+09/01/2007;Ter�a;ES;101;Defeito mec�nico em ve�culo;2007;0
+09/01/2007;Ter�a;PR;376;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;PI;222;Animais na Pista;2007;0
+09/01/2007;Ter�a;MA;222;Falta de aten��o;2007;0
+04/01/2007;Quinta;PE;407;Defeito mec�nico em ve�culo;2007;0
+09/01/2007;Ter�a;SC;282;Ultrapassagem indevida;2007;0
+09/01/2007;Ter�a;RS;386;Falta de aten��o;2007;0
+09/01/2007;Ter�a;PE;101;Falta de aten��o;2007;0
+09/01/2007;Ter�a;PE;232;Dormindo;2007;0
+05/01/2007;Sexta;MG;381;Falta de aten��o;2007;0
+07/01/2007;Domingo;MG;116;Velocidade incompat�vel;2007;0
+01/01/2007;Segunda;RJ;356;Outras;2007;0
+05/01/2007;Sexta;RJ;40;Defeito mec�nico em ve�culo;2007;0
+09/01/2007;Ter�a;MG;116;Outras;2007;0
+09/01/2007;Ter�a;SC;282;Falta de aten��o;2007;0
+04/01/2007;Quinta;MG;262;Outras;2007;0
+09/01/2007;Ter�a;PR;476;Outras;2007;0
+05/01/2007;Sexta;MG;40;Falta de aten��o;2007;0
+09/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+09/01/2007;Ter�a;GO;60;Outras;2007;0
+09/01/2007;Ter�a;RS;386;Falta de aten��o;2007;0
+08/01/2007;Segunda;PI;343;Falta de aten��o;2007;0
+04/01/2007;Quinta;CE;116;Defeito mec�nico em ve�culo;2007;0
+09/01/2007;Ter�a;RS;116;Outras;2007;0
+09/01/2007;Ter�a;ES;101;Falta de aten��o;2007;0
+09/01/2007;Ter�a;PR;376;Outras;2007;0
+08/01/2007;Segunda;RS;293;Ingest�o de �lcool;2007;0
+09/01/2007;Ter�a;SC;101;Outras;2007;0
+05/01/2007;Sexta;MG;381;Desobedi�ncia � sinaliza��o;2007;0
+09/01/2007;Ter�a;PR;116;Defeito mec�nico em ve�culo;2007;0
+05/01/2007;Sexta;GO;60;Defeito na via;2007;0
+09/01/2007;Ter�a;TO;226;Outras;2007;0
+09/01/2007;Ter�a;TO;153;Falta de aten��o;2007;0
+09/01/2007;Ter�a;SP;116;Falta de aten��o;2007;0
+09/01/2007;Ter�a;ES;101;Desobedi�ncia � sinaliza��o;2007;0
+07/01/2007;Domingo;MG;40;Outras;2007;0
+09/01/2007;Ter�a;RS;386;Falta de aten��o;2007;0
+05/01/2007;Sexta;MG;381;Outras;2007;0
+06/01/2007;S�bado;ES;262;Outras;2007;0
+06/01/2007;S�bado;MG;381;Falta de aten��o;2007;0
+06/01/2007;S�bado;GO;153;Outras;2007;0
+09/01/2007;Ter�a;RS;472;Falta de aten��o;2007;0
+09/01/2007;Ter�a;SC;280;Falta de aten��o;2007;0
+08/01/2007;Segunda;MG;40;Outras;2007;0
+04/01/2007;Quinta;RN;405;Defeito na via;2007;0
+09/01/2007;Ter�a;BA;101;N�o guardar dist�ncia de seguran�a;2007;0
+06/01/2007;S�bado;PR;277;Falta de aten��o;2007;0
+07/01/2007;Domingo;RJ;40;N�o guardar dist�ncia de seguran�a;2007;0
+09/01/2007;Ter�a;AL;316;Falta de aten��o;2007;0
+09/01/2007;Ter�a;RS;116;Outras;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+09/01/2007;Ter�a;RN;101;Outras;2007;0
+09/01/2007;Ter�a;BA;116;Falta de aten��o;2007;0
+04/01/2007;Quinta;CE;116;Falta de aten��o;2007;0
+09/01/2007;Ter�a;PA;230;Falta de aten��o;2007;0
+08/01/2007;Segunda;PA;10;Ingest�o de �lcool;2007;0
+07/01/2007;Domingo;RJ;393;Outras;2007;0
+09/01/2007;Ter�a;ES;262;N�o guardar dist�ncia de seguran�a;2007;0
+09/01/2007;Ter�a;ES;101;Falta de aten��o;2007;0
+09/01/2007;Ter�a;PI;343;N�o guardar dist�ncia de seguran�a;2007;0
+09/01/2007;Ter�a;PE;232;Outras;2007;0
+06/01/2007;S�bado;RJ;40;Outras;2007;0
+09/01/2007;Ter�a;PR;277;N�o guardar dist�ncia de seguran�a;2007;0
+07/01/2007;Domingo;SP;101;Outras;2007;0
+07/01/2007;Domingo;MG;40;Outras;2007;0
+07/01/2007;Domingo;PA;316;Falta de aten��o;2007;0
+08/01/2007;Segunda;MG;135;Defeito na via;2007;0
+09/01/2007;Ter�a;SC;101;Velocidade incompat�vel;2007;0
+09/01/2007;Ter�a;AL;101;Outras;2007;0
+09/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+05/01/2007;Sexta;SC;101;Ultrapassagem indevida;2007;0
+09/01/2007;Ter�a;MG;40;Outras;2007;0
+09/01/2007;Ter�a;PR;277;Falta de aten��o;2007;0
+09/01/2007;Ter�a;PR;277;Falta de aten��o;2007;0
+05/01/2007;Sexta;PI;316;Animais na Pista;2007;0
+03/01/2007;Quarta;MA;222;Outras;2007;0
+08/01/2007;Segunda;RN;110;Animais na Pista;2007;0
+09/01/2007;Ter�a;SC;101;Ultrapassagem indevida;2007;0
+09/01/2007;Ter�a;ES;101;Falta de aten��o;2007;0
+06/01/2007;S�bado;CE;116;Outras;2007;0
+07/01/2007;Domingo;MS;163;Falta de aten��o;2007;0
+01/01/2007;Segunda;RJ;356;Outras;2007;0
+05/01/2007;Sexta;MG;40;Outras;2007;0
+06/01/2007;S�bado;ES;101;Falta de aten��o;2007;0
+07/01/2007;Domingo;MG;40;Falta de aten��o;2007;0
+09/01/2007;Ter�a;AL;316;Falta de aten��o;2007;0
+09/01/2007;Ter�a;RS;285;Desobedi�ncia � sinaliza��o;2007;0
+09/01/2007;Ter�a;MT;174;Falta de aten��o;2007;0
+09/01/2007;Ter�a;MA;10;Defeito mec�nico em ve�culo;2007;0
+04/01/2007;Quinta;MG;116;Falta de aten��o;2007;0
+09/01/2007;Ter�a;PR;277;N�o guardar dist�ncia de seguran�a;2007;1
+09/01/2007;Ter�a;SC;282;Desobedi�ncia � sinaliza��o;2007;0
+05/01/2007;Sexta;MG;262;Outras;2007;0
+09/01/2007;Ter�a;MG;40;Falta de aten��o;2007;0
+09/01/2007;Ter�a;SC;470;Dormindo;2007;0
+05/01/2007;Sexta;MG;40;Defeito na via;2007;0
+09/01/2007;Ter�a;MG;116;Outras;2007;0
+09/01/2007;Ter�a;RS;116;Outras;2007;0
+09/01/2007;Ter�a;BA;101;Falta de aten��o;2007;0
+09/01/2007;Ter�a;SC;282;Outras;2007;0
+05/01/2007;Sexta;CE;222;Falta de aten��o;2007;0
+09/01/2007;Ter�a;MG;40;N�o guardar dist�ncia de seguran�a;2007;0
+09/01/2007;Ter�a;SC;280;Falta de aten��o;2007;0
+05/01/2007;Sexta;RJ;101;Outras;2007;0
+09/01/2007;Ter�a;SP;116;Falta de aten��o;2007;0
+09/01/2007;Ter�a;ES;101;Outras;2007;0
+09/01/2007;Ter�a;SC;153;Outras;2007;0
+04/01/2007;Quinta;BA;101;Defeito na via;2007;0
+05/01/2007;Sexta;MG;116;Falta de aten��o;2007;0
+09/01/2007;Ter�a;SC;470;Falta de aten��o;2007;0
+09/01/2007;Ter�a;SP;116;Outras;2007;0
+09/01/2007;Ter�a;PB;101;Outras;2007;0
+09/01/2007;Ter�a;ES;101;Falta de aten��o;2007;0
+09/01/2007;Ter�a;RS;116;N�o guardar dist�ncia de seguran�a;2007;0
+02/01/2007;Ter�a;RJ;101;Outras;2007;0
+09/01/2007;Ter�a;BA;407;Defeito na via;2007;0
+08/01/2007;Segunda;MS;262;Outras;2007;0
+09/01/2007;Ter�a;PA;230;Falta de aten��o;2007;0
+09/01/2007;Ter�a;SP;116;Falta de aten��o;2007;0
+09/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+07/01/2007;Domingo;SE;101;Ultrapassagem indevida;2007;0
+09/01/2007;Ter�a;MG;153;Outras;2007;0
+09/01/2007;Ter�a;MG;365;Outras;2007;0
+09/01/2007;Ter�a;ES;262;Falta de aten��o;2007;0
+06/01/2007;S�bado;PE;101;Falta de aten��o;2007;0
+09/01/2007;Ter�a;PR;376;Outras;2007;0
+05/01/2007;Sexta;RJ;101;Outras;2007;0
+05/01/2007;Sexta;PI;135;Outras;2007;0
+05/01/2007;Sexta;GO;153;Defeito na via;2007;0
+05/01/2007;Sexta;RJ;40;Outras;2007;0
+09/01/2007;Ter�a;MG;116;Falta de aten��o;2007;0
+07/01/2007;Domingo;SP;116;Outras;2007;0
+07/01/2007;Domingo;MG;381;Falta de aten��o;2007;0
+09/01/2007;Ter�a;SE;101;Falta de aten��o;2007;0
+09/01/2007;Ter�a;MG;365;Outras;2007;0
+09/01/2007;Ter�a;MG;262;Outras;2007;0
+09/01/2007;Ter�a;BA;324;Outras;2007;0
+03/01/2007;Quarta;MG;40;Defeito na via;2007;0
+09/01/2007;Ter�a;RN;110;Animais na Pista;2007;0
+09/01/2007;Ter�a;SC;470;Outras;2007;0
+09/01/2007;Ter�a;MG;153;N�o guardar dist�ncia de seguran�a;2007;0
+09/01/2007;Ter�a;SC;282;Falta de aten��o;2007;0
+09/01/2007;Ter�a;MG;381;Outras;2007;0
+09/01/2007;Ter�a;MG;381;Velocidade incompat�vel;2007;0
+05/01/2007;Sexta;RJ;101;Outras;2007;0
+09/01/2007;Ter�a;CE;222;Falta de aten��o;2007;0
+09/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+06/01/2007;S�bado;GO;364;Outras;2007;0
+09/01/2007;Ter�a;MG;262;Falta de aten��o;2007;0
+08/01/2007;Segunda;SC;280;Falta de aten��o;2007;0
+09/01/2007;Ter�a;ES;262;Outras;2007;0
+09/01/2007;Ter�a;RS;116;Falta de aten��o;2007;0
+09/01/2007;Ter�a;SC;282;Falta de aten��o;2007;0
+05/01/2007;Sexta;MG;354;Outras;2007;0
+05/01/2007;Sexta;PA;316;N�o guardar dist�ncia de seguran�a;2007;0
+09/01/2007;Ter�a;MG;50;Outras;2007;0
+08/01/2007;Segunda;MG;381;Velocidade incompat�vel;2007;0
+09/01/2007;Ter�a;SP;116;Defeito mec�nico em ve�culo;2007;0
+09/01/2007;Ter�a;RS;287;Outras;2007;0
+09/01/2007;Ter�a;PB;230;Falta de aten��o;2007;0
+09/01/2007;Ter�a;RS;285;N�o guardar dist�ncia de seguran�a;2007;0
+09/01/2007;Ter�a;RS;471;Falta de aten��o;2007;0
+09/01/2007;Ter�a;GO;153;Animais na Pista;2007;0
+06/01/2007;S�bado;GO;364;Outras;2007;0
+09/01/2007;Ter�a;RN;101;Falta de aten��o;2007;0
+09/01/2007;Ter�a;RJ;101;N�o guardar dist�ncia de seguran�a;2007;0
+09/01/2007;Ter�a;RJ;116;Animais na Pista;2007;0
+09/01/2007;Ter�a;PB;230;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+09/01/2007;Ter�a;BA;101;Outras;2007;0
+09/01/2007;Ter�a;SC;280;Outras;2007;0
+09/01/2007;Ter�a;SC;101;Outras;2007;0
+09/01/2007;Ter�a;RJ;40;Outras;2007;0
+09/01/2007;Ter�a;PA;316;N�o guardar dist�ncia de seguran�a;2007;0
+09/01/2007;Ter�a;SP;116;Defeito mec�nico em ve�culo;2007;0
+09/01/2007;Ter�a;SC;101;Outras;2007;0
+03/01/2007;Quarta;DF;40;Falta de aten��o;2007;0
+09/01/2007;Ter�a;MG;40;Defeito na via;2007;0
+09/01/2007;Ter�a;SP;116;Falta de aten��o;2007;0
+01/01/2007;Segunda;RJ;101;Falta de aten��o;2007;0
+01/01/2007;Segunda;RJ;101;Falta de aten��o;2007;0
+09/01/2007;Ter�a;MG;381;N�o guardar dist�ncia de seguran�a;2007;0
+09/01/2007;Ter�a;BA;101;Falta de aten��o;2007;0
+09/01/2007;Ter�a;ES;262;Desobedi�ncia � sinaliza��o;2007;0
+09/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+09/01/2007;Ter�a;SC;116;Outras;2007;0
+09/01/2007;Ter�a;PB;101;N�o guardar dist�ncia de seguran�a;2007;0
+09/01/2007;Ter�a;BA;101;Outras;2007;0
+01/01/2007;Segunda;PA;316;Falta de aten��o;2007;0
+09/01/2007;Ter�a;SP;116;Outras;2007;0
+10/01/2007;Quarta;SP;116;Outras;2007;0
+01/01/2007;Segunda;RJ;101;Outras;2007;0
+02/01/2007;Ter�a;RJ;101;Outras;2007;0
+09/01/2007;Ter�a;BA;407;Outras;2007;0
+09/01/2007;Ter�a;PA;316;Ultrapassagem indevida;2007;0
+09/01/2007;Ter�a;RS;290;Outras;2007;0
+10/01/2007;Quarta;GO;153;Defeito mec�nico em ve�culo;2007;0
+06/01/2007;S�bado;RN;406;Dormindo;2007;0
+09/01/2007;Ter�a;PR;476;Outras;2007;0
+09/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+09/01/2007;Ter�a;MG;40;Outras;2007;1
+09/01/2007;Ter�a;PA;316;Falta de aten��o;2007;0
+09/01/2007;Ter�a;MG;381;Velocidade incompat�vel;2007;0
+09/01/2007;Ter�a;SC;101;Falta de aten��o;2007;0
+09/01/2007;Ter�a;MG;381;Outras;2007;0
+09/01/2007;Ter�a;RN;101;Desobedi�ncia � sinaliza��o;2007;0
+09/01/2007;Ter�a;DF;40;N�o guardar dist�ncia de seguran�a;2007;0
+10/01/2007;Quarta;MG;381;Outras;2007;0
+09/01/2007;Ter�a;SC;101;Desobedi�ncia � sinaliza��o;2007;0
+05/01/2007;Sexta;RJ;101;Outras;2007;1
+09/01/2007;Ter�a;MG;116;Velocidade incompat�vel;2007;0
+09/01/2007;Ter�a;SP;488;Outras;2007;0
+10/01/2007;Quarta;AP;210;Ingest�o de �lcool;2007;0
+05/01/2007;Sexta;MG;365;Outras;2007;0
+09/01/2007;Ter�a;RS;116;Outras;2007;0
+05/01/2007;Sexta;PR;376;Outras;2007;0
+09/01/2007;Ter�a;MA;135;Outras;2007;0
+09/01/2007;Ter�a;MG;50;Outras;2007;0
+06/01/2007;S�bado;RS;392;Dormindo;2007;0
+09/01/2007;Ter�a;SP;116;Outras;2007;0
+05/01/2007;Sexta;RJ;40;Outras;2007;0
+01/01/2007;Segunda;RJ;101;Outras;2007;0
+05/01/2007;Sexta;DF;70;Velocidade incompat�vel;2007;0
+10/01/2007;Quarta;RJ;101;N�o guardar dist�ncia de seguran�a;2007;0
+09/01/2007;Ter�a;MG;40;Falta de aten��o;2007;0
+09/01/2007;Ter�a;SP;116;Outras;2007;0
+09/01/2007;Ter�a;MG;381;Falta de aten��o;2007;0
+09/01/2007;Ter�a;PE;101;Falta de aten��o;2007;0
+09/01/2007;Ter�a;MA;135;Outras;2007;1
+09/01/2007;Ter�a;RJ;40;Outras;2007;0
+09/01/2007;Ter�a;RJ;101;Outras;2007;0
+09/01/2007;Ter�a;ES;101;Desobedi�ncia � sinaliza��o;2007;0
+09/01/2007;Ter�a;PR;277;Outras;2007;0
+01/01/2007;Segunda;RJ;101;Outras;2007;0
+09/01/2007;Ter�a;RJ;40;Outras;2007;0
+09/01/2007;Ter�a;PI;343;Falta de aten��o;2007;0
+10/01/2007;Quarta;BA;407;Outras;2007;0
+09/01/2007;Ter�a;MG;40;Animais na Pista;2007;1
+09/01/2007;Ter�a;MG;381;Velocidade incompat�vel;2007;0
+09/01/2007;Ter�a;RJ;116;Falta de aten��o;2007;0
+05/01/2007;Sexta;RJ;101;Velocidade incompat�vel;2007;0
+09/01/2007;Ter�a;BA;101;Outras;2007;0
+10/01/2007;Quarta;SC;470;Velocidade incompat�vel;2007;0
+06/01/2007;S�bado;GO;40;Outras;2007;0
+07/01/2007;Domingo;MG;135;Defeito na via;2007;0
+10/01/2007;Quarta;SC;116;Falta de aten��o;2007;0
+09/01/2007;Ter�a;RJ;101;Outras;2007;0
+02/01/2007;Ter�a;ES;101;Outras;2007;0
+10/01/2007;Quarta;RO;364;Animais na Pista;2007;0
+10/01/2007;Quarta;MG;262;Defeito na via;2007;0
+06/01/2007;S�bado;GO;60;Ultrapassagem indevida;2007;0
+06/01/2007;S�bado;RJ;101;Falta de aten��o;2007;0
+10/01/2007;Quarta;MT;174;Defeito mec�nico em ve�culo;2007;0
+06/01/2007;S�bado;RJ;101;Velocidade incompat�vel;2007;0
+09/01/2007;Ter�a;RJ;101;Outras;2007;0
+09/01/2007;Ter�a;RJ;116;Outras;2007;0
+06/01/2007;S�bado;MG;40;Outras;2007;3
+02/01/2007;Ter�a;RJ;40;Outras;2007;0
+05/01/2007;Sexta;RJ;101;Outras;2007;0
+07/01/2007;Domingo;RJ;40;Falta de aten��o;2007;0
+10/01/2007;Quarta;RS;290;Desobedi�ncia � sinaliza��o;2007;0
+06/01/2007;S�bado;RN;101;Outras;2007;0
+07/01/2007;Domingo;RJ;393;Defeito na via;2007;0
+09/01/2007;Ter�a;BA;101;Outras;2007;0
+09/01/2007;Ter�a;CE;116;Dormindo;2007;0
+02/01/2007;Ter�a;RJ;40;Outras;2007;0
+09/01/2007;Ter�a;RJ;393;Outras;2007;0
+07/01/2007;Domingo;RJ;101;Falta de aten��o;2007;0
+10/01/2007;Quarta;PI;343;Falta de aten��o;2007;0
+09/01/2007;Ter�a;MT;364;Outras;2007;0
+06/01/2007;S�bado;ES;262;Falta de aten��o;2007;0
+06/01/2007;S�bado;PA;316;Falta de aten��o;2007;0
+10/01/2007;Quarta;SC;282;Falta de aten��o;2007;0
+10/01/2007;Quarta;CE;20;Outras;2007;0
+02/01/2007;Ter�a;RS;116;Falta de aten��o;2007;0
+08/01/2007;Segunda;SP;116;Outras;2007;0
+10/01/2007;Quarta;SC;470;Falta de aten��o;2007;0
+10/01/2007;Quarta;RS;392;Outras;2007;0
+10/01/2007;Quarta;SP;153;Defeito na via;2007;0
+01/01/2007;Segunda;CE;222;Dormindo;2007;0
+06/01/2007;S�bado;MG;381;Animais na Pista;2007;0
+10/01/2007;Quarta;PR;277;Outras;2007;0
+06/01/2007;S�bado;RJ;101;Falta de aten��o;2007;0
+07/01/2007;Domingo;MA;316;Velocidade incompat�vel;2007;0
+10/01/2007;Quarta;RS;116;Animais na Pista;2007;0
+08/01/2007;Segunda;MS;163;Outras;2007;0
+02/01/2007;Ter�a;PA;316;Desobedi�ncia � sinaliza��o;2007;0
+09/01/2007;Ter�a;MT;70;Dormindo;2007;0
+08/01/2007;Segunda;RJ;40;Outras;2007;0
+03/01/2007;Quarta;PR;116;Outras;2007;0
+09/01/2007;Ter�a;RN;304;Outras;2007;0
+10/01/2007;Quarta;SC;101;Outras;2007;0
+10/01/2007;Quarta;BA;116;Dormindo;2007;0
+09/01/2007;Ter�a;BA;324;Outras;2007;4
+04/01/2007;Quinta;RJ;40;Outras;2007;0
+10/01/2007;Quarta;SC;101;Falta de aten��o;2007;0
+09/01/2007;Ter�a;PE;232;Falta de aten��o;2007;1
+09/01/2007;Ter�a;MG;381;Defeito na via;2007;0
+06/01/2007;S�bado;MG;135;Defeito na via;2007;0
+10/01/2007;Quarta;SC;282;Falta de aten��o;2007;0
+07/01/2007;Domingo;MT;364;Outras;2007;0
+10/01/2007;Quarta;MA;135;Defeito mec�nico em ve�culo;2007;0
+07/01/2007;Domingo;MG;381;Falta de aten��o;2007;0
+10/01/2007;Quarta;MG;262;Falta de aten��o;2007;0
+10/01/2007;Quarta;ES;101;Falta de aten��o;2007;0
+10/01/2007;Quarta;SC;282;Falta de aten��o;2007;0
+05/01/2007;Sexta;PI;343;Animais na Pista;2007;0
+10/01/2007;Quarta;RS;290;Falta de aten��o;2007;0
+06/01/2007;S�bado;SC;101;Outras;2007;0
+10/01/2007;Quarta;ES;101;Desobedi�ncia � sinaliza��o;2007;0
+10/01/2007;Quarta;ES;101;Outras;2007;0
+10/01/2007;Quarta;SC;470;Falta de aten��o;2007;0
+10/01/2007;Quarta;MG;381;Falta de aten��o;2007;0
+10/01/2007;Quarta;BA;418;Outras;2007;0
+10/01/2007;Quarta;ES;601;Outras;2007;0
+10/01/2007;Quarta;ES;101;Outras;2007;0
+09/01/2007;Ter�a;RO;364;Outras;2007;0
+07/01/2007;Domingo;MG;135;Defeito mec�nico em ve�culo;2007;0
+10/01/2007;Quarta;MG;381;Falta de aten��o;2007;0
+09/01/2007;Ter�a;SP;116;Outras;2007;0
+10/01/2007;Quarta;BA;116;Velocidade incompat�vel;2007;0
+10/01/2007;Quarta;SC;101;Falta de aten��o;2007;0
+06/01/2007;S�bado;RJ;116;Outras;2007;0
+10/01/2007;Quarta;PE;407;Outras;2007;0
+10/01/2007;Quarta;PI;343;Falta de aten��o;2007;1
+04/01/2007;Quinta;RS;290;Falta de aten��o;2007;0
+06/01/2007;S�bado;RJ;101;N�o guardar dist�ncia de seguran�a;2007;0
+10/01/2007;Quarta;ES;101;Falta de aten��o;2007;0
+07/01/2007;Domingo;SP;153;Defeito na via;2007;0
+10/01/2007;Quarta;SC;101;Falta de aten��o;2007;0
+09/01/2007;Ter�a;PE;104;Outras;2007;0
+08/01/2007;Segunda;RS;290;Outras;2007;0
+09/01/2007;Ter�a;RS;116;Outras;2007;0
+02/01/2007;Ter�a;GO;153;Outras;2007;0
+10/01/2007;Quarta;PA;230;Falta de aten��o;2007;0
+10/01/2007;Quarta;MG;381;Outras;2007;0
+05/01/2007;Sexta;TO;153;Dormindo;2007;0
+06/01/2007;S�bado;PR;277;Falta de aten��o;2007;0
+10/01/2007;Quarta;MT;163;Outras;2007;0
+10/01/2007;Quarta;PB;230;Outras;2007;0
+10/01/2007;Quarta;SC;282;N�o guardar dist�ncia de seguran�a;2007;0
+08/01/2007;Segunda;PI;343;Outras;2007;0
+06/01/2007;S�bado;MG;135;Defeito na via;2007;0
+09/01/2007;Ter�a;BA;242;Outras;2007;0
+10/01/2007;Quarta;SE;101;Falta de aten��o;2007;0
+10/01/2007;Quarta;PR;277;Falta de aten��o;2007;0
+10/01/2007;Quarta;RJ;116;Outras;2007;0
+02/01/2007;Ter�a;PE;423;Falta de aten��o;2007;0
+05/01/2007;Sexta;RS;116;Desobedi�ncia � sinaliza��o;2007;0
+10/01/2007;Quarta;PB;230;Falta de aten��o;2007;0
+10/01/2007;Quarta;MG;50;Falta de aten��o;2007;0
+10/01/2007;Quarta;SC;101;Falta de aten��o;2007;0
+07/01/2007;Domingo;MG;40;Outras;2007;0
+06/01/2007;S�bado;SC;101;Falta de aten��o;2007;0
+10/01/2007;Quarta;RN;101;Ultrapassagem indevida;2007;0
+06/01/2007;S�bado;MG;116;Falta de aten��o;2007;0
+06/01/2007;S�bado;PE;408;Outras;2007;0
+10/01/2007;Quarta;MG;116;Falta de aten��o;2007;0
+10/01/2007;Quarta;PR;376;Falta de aten��o;2007;0
+07/01/2007;Domingo;GO;70;Outras;2007;0
+10/01/2007;Quarta;SC;101;Desobedi�ncia � sinaliza��o;2007;0
+10/01/2007;Quarta;BA;116;Falta de aten��o;2007;0
+10/01/2007;Quarta;PR;277;Outras;2007;0
+09/01/2007;Ter�a;MG;381;Velocidade incompat�vel;2007;0
+10/01/2007;Quarta;MG;135;Outras;2007;0
+10/01/2007;Quarta;SC;101;Falta de aten��o;2007;0
+03/01/2007;Quarta;MA;222;Falta de aten��o;2007;1
+06/01/2007;S�bado;PA;316;N�o guardar dist�ncia de seguran�a;2007;0
+10/01/2007;Quarta;SC;470;Falta de aten��o;2007;0
+07/01/2007;Domingo;MG;40;Ingest�o de �lcool;2007;0
+06/01/2007;S�bado;PB;230;N�o guardar dist�ncia de seguran�a;2007;0
+10/01/2007;Quarta;SC;470;Desobedi�ncia � sinaliza��o;2007;0
+10/01/2007;Quarta;SC;101;Ultrapassagem indevida;2007;0
+10/01/2007;Quarta;PE;101;Falta de aten��o;2007;0
+10/01/2007;Quarta;MT;163;Falta de aten��o;2007;0
+04/01/2007;Quinta;MG;381;Outras;2007;0
+10/01/2007;Quarta;RS;285;Falta de aten��o;2007;0
+10/01/2007;Quarta;SP;116;Falta de aten��o;2007;0
+09/01/2007;Ter�a;MG;40;Outras;2007;0
+10/01/2007;Quarta;MG;381;Falta de aten��o;2007;0
+06/01/2007;S�bado;PE;408;Outras;2007;1
+10/01/2007;Quarta;MG;381;Outras;2007;0
+10/01/2007;Quarta;SC;153;Outras;2007;0
+10/01/2007;Quarta;SE;101;Falta de aten��o;2007;0
+06/01/2007;S�bado;MG;381;Outras;2007;0
+10/01/2007;Quarta;TO;153;Falta de aten��o;2007;0
+10/01/2007;Quarta;SC;282;Velocidade incompat�vel;2007;0
+09/01/2007;Ter�a;MG;262;Outras;2007;0
+10/01/2007;Quarta;MS;163;Outras;2007;0
+10/01/2007;Quarta;SP;116;Outras;2007;0
+10/01/2007;Quarta;MT;174;Outras;2007;0
+10/01/2007;Quarta;PR;376;Falta de aten��o;2007;0
+10/01/2007;Quarta;SP;116;N�o guardar dist�ncia de seguran�a;2007;0
+08/01/2007;Segunda;SP;116;Falta de aten��o;2007;0
+06/01/2007;S�bado;MG;381;Outras;2007;0
+06/01/2007;S�bado;ES;101;Outras;2007;0
+10/01/2007;Quarta;BA;116;N�o guardar dist�ncia de seguran�a;2007;0
+10/01/2007;Quarta;PR;277;Outras;2007;0
+10/01/2007;Quarta;SP;116;Outras;2007;0
+06/01/2007;S�bado;RJ;40;Outras;2007;0
+10/01/2007;Quarta;SC;470;Falta de aten��o;2007;0
+07/01/2007;Domingo;RN;101;Outras;2007;0
+10/01/2007;Quarta;MS;163;Falta de aten��o;2007;0
+10/01/2007;Quarta;RJ;101;Falta de aten��o;2007;0
+10/01/2007;Quarta;RS;116;Falta de aten��o;2007;0
+10/01/2007;Quarta;MG;135;Outras;2007;0
+10/01/2007;Quarta;RS;116;Falta de aten��o;2007;0
+10/01/2007;Quarta;MG;262;Falta de aten��o;2007;0
+10/01/2007;Quarta;BA;101;Ultrapassagem indevida;2007;0
+10/01/2007;Quarta;ES;101;Outras;2007;0
+10/01/2007;Quarta;SC;101;Falta de aten��o;2007;0
+10/01/2007;Quarta;MG;381;Outras;2007;0
+10/01/2007;Quarta;SP;116;Defeito mec�nico em ve�culo;2007;0
+10/01/2007;Quarta;MG;40;Dormindo;2007;0
+06/01/2007;S�bado;RR;174;Falta de aten��o;2007;0
+05/01/2007;Sexta;MG;135;Outras;2007;0
+10/01/2007;Quarta;SC;470;Desobedi�ncia � sinaliza��o;2007;0
+10/01/2007;Quarta;PR;277;Velocidade incompat�vel;2007;0
+06/01/2007;S�bado;RJ;101;Outras;2007;0
+10/01/2007;Quarta;PR;277;Falta de aten��o;2007;0
+10/01/2007;Quarta;GO;70;Falta de aten��o;2007;0
+10/01/2007;Quarta;MG;381;Outras;2007;0
+10/01/2007;Quarta;ES;262;Outras;2007;0
+10/01/2007;Quarta;PR;277;Falta de aten��o;2007;0
+06/01/2007;S�bado;PA;316;Falta de aten��o;2007;0
+10/01/2007;Quarta;BA;101;Outras;2007;0
+08/01/2007;Segunda;BA;101;Falta de aten��o;2007;0
+10/01/2007;Quarta;MG;267;Outras;2007;0
+10/01/2007;Quarta;SP;116;Outras;2007;0
+10/01/2007;Quarta;MS;163;Outras;2007;0
+02/01/2007;Ter�a;MG;40;Defeito mec�nico em ve�culo;2007;0
+10/01/2007;Quarta;MG;40;Defeito na via;2007;0
+09/01/2007;Ter�a;RJ;393;Outras;2007;0
+10/01/2007;Quarta;SC;282;Ultrapassagem indevida;2007;0
+10/01/2007;Quarta;RJ;465;Outras;2007;0
+10/01/2007;Quarta;MG;381;Outras;2007;0
+10/01/2007;Quarta;SP;116;Outras;2007;0
+10/01/2007;Quarta;SC;101;Outras;2007;1
+10/01/2007;Quarta;MS;60;Falta de aten��o;2007;0
+09/01/2007;Ter�a;RO;319;N�o guardar dist�ncia de seguran�a;2007;0
+10/01/2007;Quarta;PE;408;Falta de aten��o;2007;0
+10/01/2007;Quarta;MG;40;Falta de aten��o;2007;0
+10/01/2007;Quarta;RS;392;Velocidade incompat�vel;2007;0
+10/01/2007;Quarta;PA;316;Falta de aten��o;2007;0
+10/01/2007;Quarta;SC;101;Defeito mec�nico em ve�culo;2007;0
+10/01/2007;Quarta;SC;282;Falta de aten��o;2007;0
+10/01/2007;Quarta;RS;285;Falta de aten��o;2007;0
+10/01/2007;Quarta;RN;101;N�o guardar dist�ncia de seguran�a;2007;0
+06/01/2007;S�bado;SP;116;Outras;2007;0
+10/01/2007;Quarta;BA;324;Outras;2007;0
+10/01/2007;Quarta;MG;354;Outras;2007;0
+10/01/2007;Quarta;SC;470;Falta de aten��o;2007;0
+10/01/2007;Quarta;MG;381;Outras;2007;0
+10/01/2007;Quarta;BA;116;Ultrapassagem indevida;2007;4
+10/01/2007;Quarta;SC;101;Outras;2007;0
+10/01/2007;Quarta;RJ;116;Velocidade incompat�vel;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+10/01/2007;Quarta;BA;101;Outras;2007;0
+08/01/2007;Segunda;MG;381;Ingest�o de �lcool;2007;0
+10/01/2007;Quarta;RS;101;Falta de aten��o;2007;0
+10/01/2007;Quarta;MG;116;Falta de aten��o;2007;0
+10/01/2007;Quarta;PR;277;Defeito mec�nico em ve�culo;2007;0
+10/01/2007;Quarta;MT;364;Outras;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+10/01/2007;Quarta;SP;116;Outras;2007;0
+10/01/2007;Quarta;PE;104;Outras;2007;3
+10/01/2007;Quarta;MG;381;Outras;2007;0
+10/01/2007;Quarta;MG;381;Outras;2007;1
+10/01/2007;Quarta;MG;40;Outras;2007;0
+02/01/2007;Ter�a;MG;381;Outras;2007;0
+10/01/2007;Quarta;MG;381;Outras;2007;0
+07/01/2007;Domingo;PI;343;Falta de aten��o;2007;0
+10/01/2007;Quarta;ES;101;Desobedi�ncia � sinaliza��o;2007;0
+10/01/2007;Quarta;RS;101;Falta de aten��o;2007;0
+10/01/2007;Quarta;MT;163;Falta de aten��o;2007;0
+10/01/2007;Quarta;MG;381;Outras;2007;0
+10/01/2007;Quarta;RS;287;Defeito na via;2007;0
+02/01/2007;Ter�a;SP;116;Falta de aten��o;2007;0
+10/01/2007;Quarta;RJ;40;Outras;2007;0
+10/01/2007;Quarta;MA;10;Outras;2007;0
+06/01/2007;S�bado;SC;101;Outras;2007;0
+10/01/2007;Quarta;MG;40;Outras;2007;0
+10/01/2007;Quarta;PB;230;Desobedi�ncia � sinaliza��o;2007;1
+10/01/2007;Quarta;GO;50;Outras;2007;0
+10/01/2007;Quarta;GO;60;Outras;2007;0
+10/01/2007;Quarta;SP;153;Outras;2007;1
+11/01/2007;Quinta;RS;290;Outras;2007;0
+11/01/2007;Quinta;SC;101;Animais na Pista;2007;0
+10/01/2007;Quarta;MG;381;Outras;2007;0
+11/01/2007;Quinta;SP;116;Outras;2007;0
+10/01/2007;Quarta;SP;381;Defeito mec�nico em ve�culo;2007;0
+09/01/2007;Ter�a;MG;116;Falta de aten��o;2007;0
+08/01/2007;Segunda;RS;116;Outras;2007;0
+10/01/2007;Quarta;SC;101;N�o guardar dist�ncia de seguran�a;2007;0
+10/01/2007;Quarta;MG;381;Defeito na via;2007;0
+11/01/2007;Quinta;RJ;101;Outras;2007;0
+10/01/2007;Quarta;RO;364;Defeito na via;2007;0
+08/01/2007;Segunda;SP;116;Falta de aten��o;2007;0
+11/01/2007;Quinta;PR;116;Ingest�o de �lcool;2007;0
+10/01/2007;Quarta;GO;60;Defeito mec�nico em ve�culo;2007;0
+10/01/2007;Quarta;MG;381;N�o guardar dist�ncia de seguran�a;2007;0
+10/01/2007;Quarta;MA;222;Velocidade incompat�vel;2007;2
+11/01/2007;Quinta;PR;376;Defeito mec�nico em ve�culo;2007;0
+06/01/2007;S�bado;RR;174;Falta de aten��o;2007;0
+10/01/2007;Quarta;PE;232;Outras;2007;0
+10/01/2007;Quarta;PI;343;Dormindo;2007;1
+10/01/2007;Quarta;MG;381;Outras;2007;0
+11/01/2007;Quinta;SP;116;Outras;2007;0
+10/01/2007;Quarta;SC;280;Defeito mec�nico em ve�culo;2007;0
+11/01/2007;Quinta;MG;381;Animais na Pista;2007;0
+11/01/2007;Quinta;MT;364;Falta de aten��o;2007;0
+10/01/2007;Quarta;PB;230;Outras;2007;0
+11/01/2007;Quinta;SC;158;Animais na Pista;2007;0
+10/01/2007;Quarta;BA;410;Defeito na via;2007;0
+11/01/2007;Quinta;BA;116;Outras;2007;0
+11/01/2007;Quinta;SP;116;Outras;2007;0
+11/01/2007;Quinta;BA;116;Outras;2007;0
+11/01/2007;Quinta;MG;40;Animais na Pista;2007;0
+10/01/2007;Quarta;MG;262;Defeito na via;2007;0
+11/01/2007;Quinta;SC;116;Animais na Pista;2007;0
+04/01/2007;Quinta;PR;476;Falta de aten��o;2007;0
+06/01/2007;S�bado;PE;101;Outras;2007;0
+07/01/2007;Domingo;RJ;40;Outras;2007;0
+07/01/2007;Domingo;RJ;101;Falta de aten��o;2007;0
+04/01/2007;Quinta;PR;376;Velocidade incompat�vel;2007;0
+06/01/2007;S�bado;RR;174;Outras;2007;0
+11/01/2007;Quinta;PB;230;Outras;2007;0
+05/01/2007;Sexta;RS;116;Animais na Pista;2007;0
+11/01/2007;Quinta;SC;101;N�o guardar dist�ncia de seguran�a;2007;0
+08/01/2007;Segunda;RS;392;Ingest�o de �lcool;2007;0
+07/01/2007;Domingo;ES;259;Desobedi�ncia � sinaliza��o;2007;0
+07/01/2007;Domingo;SC;101;Outras;2007;1
+11/01/2007;Quinta;AM;174;Outras;2007;0
+07/01/2007;Domingo;SC;101;Falta de aten��o;2007;0
+07/01/2007;Domingo;RJ;465;Falta de aten��o;2007;0
+07/01/2007;Domingo;RJ;116;Falta de aten��o;2007;0
+10/01/2007;Quarta;MG;40;Desobedi�ncia � sinaliza��o;2007;0
+10/01/2007;Quarta;PA;316;Outras;2007;0
+09/01/2007;Ter�a;MG;116;Falta de aten��o;2007;0
+11/01/2007;Quinta;PB;230;Outras;2007;0
+09/01/2007;Ter�a;MG;116;Falta de aten��o;2007;0
+07/01/2007;Domingo;RJ;101;Outras;2007;0
+04/01/2007;Quinta;RJ;393;Outras;2007;0
+11/01/2007;Quinta;BA;324;Falta de aten��o;2007;0
+07/01/2007;Domingo;BA;101;Defeito na via;2007;0
+07/01/2007;Domingo;RJ;493;Falta de aten��o;2007;0
+10/01/2007;Quarta;AL;101;Ultrapassagem indevida;2007;0
+10/01/2007;Quarta;BA;101;Falta de aten��o;2007;0
+08/01/2007;Segunda;RS;392;Falta de aten��o;2007;0
+10/01/2007;Quarta;RN;304;Falta de aten��o;2007;0
+10/01/2007;Quarta;PA;316;Falta de aten��o;2007;0
+08/01/2007;Segunda;MG;40;Defeito mec�nico em ve�culo;2007;0
+11/01/2007;Quinta;SC;101;Falta de aten��o;2007;0
+09/01/2007;Ter�a;PA;316;N�o guardar dist�ncia de seguran�a;2007;0
+11/01/2007;Quinta;SP;116;Falta de aten��o;2007;0
+11/01/2007;Quinta;MG;251;Outras;2007;0
+11/01/2007;Quinta;SC;470;N�o guardar dist�ncia de seguran�a;2007;0
+11/01/2007;Quinta;ES;601;Outras;2007;0
+11/01/2007;Quinta;SP;116;Dormindo;2007;0
+08/01/2007;Segunda;SP;116;Outras;2007;0
+11/01/2007;Quinta;ES;601;Desobedi�ncia � sinaliza��o;2007;0
+11/01/2007;Quinta;SE;235;Outras;2007;0
+11/01/2007;Quinta;BA;116;Desobedi�ncia � sinaliza��o;2007;0
+11/01/2007;Quinta;MG;354;Outras;2007;0
+09/01/2007;Ter�a;SP;153;Defeito na via;2007;0
+08/01/2007;Segunda;SP;116;Outras;2007;0
+11/01/2007;Quinta;RS;386;Outras;2007;0
+07/01/2007;Domingo;RJ;116;Ultrapassagem indevida;2007;0
+09/01/2007;Ter�a;RS;386;Outras;2007;0
+08/01/2007;Segunda;SP;116;Outras;2007;0
+02/01/2007;Ter�a;MS;163;Velocidade incompat�vel;2007;4
+11/01/2007;Quinta;RS;472;Outras;2007;0
+11/01/2007;Quinta;SC;470;Falta de aten��o;2007;0
+08/01/2007;Segunda;SP;116;Falta de aten��o;2007;0
+11/01/2007;Quinta;ES;101;Outras;2007;0
+11/01/2007;Quinta;RS;158;Dormindo;2007;0
+08/01/2007;Segunda;SP;116;Outras;2007;0
+07/01/2007;Domingo;RN;110;Outras;2007;0
+03/01/2007;Quarta;RJ;101;Outras;2007;0
+08/01/2007;Segunda;MS;262;Dormindo;2007;0
+09/01/2007;Ter�a;MG;50;Outras;2007;0
+08/01/2007;Segunda;SP;116;Outras;2007;0
+11/01/2007;Quinta;MG;116;Falta de aten��o;2007;0
+11/01/2007;Quinta;SC;101;Ultrapassagem indevida;2007;0
+11/01/2007;Quinta;SC;282;Defeito na via;2007;0
+08/01/2007;Segunda;SP;116;Outras;2007;0
+07/01/2007;Domingo;RJ;101;Outras;2007;0
+03/01/2007;Quarta;RJ;101;Outras;2007;0
+08/01/2007;Segunda;RJ;393;Desobedi�ncia � sinaliza��o;2007;0
+07/01/2007;Domingo;PE;232;Outras;2007;0
+08/01/2007;Segunda;PR;376;Outras;2007;0
+11/01/2007;Quinta;AP;210;Defeito na via;2007;0
+11/01/2007;Quinta;PA;222;N�o guardar dist�ncia de seguran�a;2007;0
+11/01/2007;Quinta;PR;376;Defeito na via;2007;0
+11/01/2007;Quinta;PB;230;Animais na Pista;2007;0
+11/01/2007;Quinta;RS;116;Falta de aten��o;2007;0
+10/01/2007;Quarta;MG;262;Defeito na via;2007;0
+11/01/2007;Quinta;PR;277;Desobedi�ncia � sinaliza��o;2007;0
+11/01/2007;Quinta;SC;101;Falta de aten��o;2007;0
+11/01/2007;Quinta;RJ;101;Falta de aten��o;2007;0
+11/01/2007;Quinta;SC;470;Falta de aten��o;2007;0
+11/01/2007;Quinta;MG;262;Defeito mec�nico em ve�culo;2007;0
+03/01/2007;Quarta;MA;222;Falta de aten��o;2007;0
+07/01/2007;Domingo;RJ;40;Outras;2007;0
+11/01/2007;Quinta;BA;367;Outras;2007;0
+11/01/2007;Quinta;RJ;101;Outras;2007;0
+11/01/2007;Quinta;PE;232;Falta de aten��o;2007;0
+
