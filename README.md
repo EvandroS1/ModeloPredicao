@@ -8,6 +8,10 @@ Este projeto utiliza um algoritmo de machine learning, mais especificamente uma 
 - Thiago Corrêa
 - Evandro Gomes
 
+## Professor Responsável
+
+- Bruno zolotareff dos santos (Aprendizagem de Maquina)
+
 ## Sumário
 
 - [Introdução](#introdução)
