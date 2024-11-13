@@ -10,7 +10,7 @@ Este projeto utiliza um algoritmo de machine learning, mais especificamente uma 
 
 ## Professor Responsável
 
-- Bruno zolotareff dos santos (Aprendizagem de Maquina)
+- Bruno Zolotareff dos Santos (Aprendizagem de Máquina)
 
 ## Sumário
 
@@ -61,8 +61,8 @@ O modelo foi treinado utilizando os dados de treino e avaliado com os dados de t
 Para utilizar o modelo e prever a ocorrência de acidentes fatais, siga os passos abaixo:
 
 1. Clone este repositório: `git clone https://github.com/seu_usuario/seu_repositorio.git`
-2. Instale as dependências: `pip install -r requirements.txt`
-3. Execute o script de previsão: `python prever_acidente.py --dia_semana "Segunda-feira" --br "BR-101"`
+2. Instale as dependências: `npm install`
+3. Execute o script de previsão: `node ArvoreDecisão.js"`
 
 ## Conclusão
 
