@@ -62,7 +62,7 @@ Para utilizar o modelo e prever a ocorrência de acidentes fatais, siga os passo
 
 1. Clone este repositório: `git clone https://github.com/seu_usuario/seu_repositorio.git`
 2. Instale as dependências: `npm install`
-3. Execute o script de previsão: `node ArvoreDecisão.js"`
+3. Execute o script de previsão: `node ArvoreDecisao.js"`
 
 ## Conclusão
 
